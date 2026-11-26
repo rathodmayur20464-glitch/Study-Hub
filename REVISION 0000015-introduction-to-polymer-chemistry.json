@@ -1,0 +1,183 @@
+{
+  "title": "Introduction to Polymer Chemistry",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Define Monomer, Polymer, Polymerization, and Degree of Polymerization (DP).",
+      "a": "Monomer: A small, simple, reactive molecule capable of undergoing chemical combination to form high molecular weight giant macromolecules. Polymer: High molecular mass macromolecule formed by repetitive combination of hundreds or thousands of monomer units. Polymerization: Chemical process of linking monomers into polymers. Degree of Polymerization (DP): Total number of repeating monomer units present in a polymer chain: DP = (Molar mass of polymer) / (Molar mass of repeating unit).",
+      "hint": "DP = M_polymer / M_monomer."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Classify polymers based on source/origin: Natural, Semi-synthetic, and Synthetic.",
+      "a": "1. Natural Polymers: Derived directly from plants and animals (e.g., Starch, Cellulose, Natural Rubber, Wool, Silk, Proteins, DNA). 2. Semi-synthetic Polymers: Chemically modified natural polymers to improve mechanical/physical properties: Cellulose acetate (Rayon / artificial silk), Cellulose nitrate (Gun cotton), Vulcanized rubber. 3. Synthetic Polymers: Man-made polymers synthesized in laboratory/industry from petrochemical raw materials (e.g., Polyethylene, Nylon 6,6, Terylene, Bakelite, Teflon, PVC).",
+      "hint": "Rayon is semi-synthetic (regenerated cellulose); Nylon is fully synthetic."
+    },
+    {
+      "id": "c3",
+      "tag": "imp",
+      "q": "Classify polymers based on Intermolecular Forces: Elastomers, Fibers, Thermoplastics, and Thermosetting plastics.",
+      "a": "1. Elastomers: Held by weakest intermolecular forces (van der Waals); polymer chains coiled randomly, possess elasticity; few cross-links prevent slipping (e.g., Vulcanized rubber, Buna-S, Neoprene). 2. Fibers: Held by strongest intermolecular forces (Hydrogen bonds or dipole-dipole); high tensile strength and high modulus (e.g., Nylon 6,6, Terylene). 3. Thermoplastics: Intermediate intermolecular forces; linear or branched polymers that soften on heating and harden on cooling repeatedly; recyclable (e.g., Polythene, PVC, Polystyrene). 4. Thermosetting Plastics: Heavily cross-linked 3D network polymers; on heating undergo extensive irreversible cross-linking in molds; cannot be softened or remolded (not recyclable; e.g., Bakelite, Melamine-formaldehyde).",
+      "hint": "Force order: Elastomers < Thermoplastics < Fibers. Thermosetting is non-recyclable."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Distinguish between Addition (Chain-Growth) and Condensation (Step-Growth) Polymerization.",
+      "a": "1. Addition (Chain-Growth): Monomers are unsaturated compounds (containing C=C or C≡C); rapid chain growth occurs via free radical, carbocation, or carbanion intermediates without elimination of any byproduct molecule; empirical formula of polymer is identical to monomer (e.g., Polyethene, Teflon, PVC, Polystyrene). 2. Condensation (Step-Growth): Monomers possess two or more reactive functional groups (-OH, -COOH, -NH₂); step-by-step reaction occurs with continuous elimination of small byproduct molecules like H₂O, HCl, NH₃, or CH₃OH; empirical formula of polymer differs from monomers (e.g., Nylon 6,6, Terylene, Bakelite).",
+      "hint": "Addition: no byproduct lost, unsaturated monomer; Condensation: small molecules (H₂O) eliminated."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Explain the free radical addition polymerization mechanism of Ethene to Polythene using Benzoyl Peroxide.",
+      "a": "1. Chain Initiation: Benzoyl peroxide undergoes homolytic cleavage on heating/light to form phenyl free radicals: (C₆H₅COO)₂ -> 2C₆H₅COO• -> 2C₆H₅• + 2CO₂. Phenyl radical attacks ethene: C₆H₅• + CH₂=CH₂ -> C₆H₅-CH₂-CH₂•. 2. Chain Propagation: The radical adds sequentially to thousands of ethene molecules: C₆H₅-CH₂-CH₂• + n CH₂=CH₂ -> C₆H₅-(CH₂-CH₂)n-CH₂-CH₂•. 3. Chain Termination: Growth stops when two active radical chains combine (combination) or disproportionate: 2 R-CH₂-CH₂• -> R-CH₂-CH₂-CH₂-CH₂-R.",
+      "hint": "Initiator is Benzoyl Peroxide; steps: initiation, propagation, termination."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Compare Low-Density Polyethylene (LDPE) and High-Density Polyethylene (HDPE).",
+      "a": "1. LDPE: Prepared at high pressure (1000-2000 atm) and 350-570 K with trace O₂ or peroxide initiator. Has extensive branching; chains cannot pack closely (low density 0.92 g/cm³, low MP 384 K); flexible, chemically inert, poor electrical conductor; used for squeeze bottles, plastic wraps, flexible pipes. 2. HDPE: Prepared at low pressure (6-7 atm) and 333-343 K in hydrocarbon solvent using Ziegler-Natta Catalyst [TiCl₄ + (C₂H₅)₃Al]. Has linear unbranched chains that pack closely in crystalline lattice (high density 0.97 g/cm³, high MP 417 K); much higher tensile strength, stiffer; used for buckets, pipes, dustbins, helmets.",
+      "hint": "LDPE = branched (free radical, high pressure); HDPE = linear (Ziegler-Natta, low pressure)."
+    },
+    {
+      "id": "c7",
+      "tag": "imp",
+      "q": "What is Ziegler-Natta Catalyst? Write its chemical formula and major advantage in polymer chemistry.",
+      "a": "Ziegler-Natta Catalyst is a coordination catalyst consisting of Titanium tetrachloride and Triethylaluminium: TiCl₄ + Al(C₂H₅)₃. Advantages: 1. Allows coordination addition polymerization of alkenes under mild conditions (low pressure 6-7 atm, 333-343 K). 2. Produces strictly linear, unbranched high-density polymers (HDPE) with high crystallinity. 3. Enables stereospecific polymerization to synthesize isotactic or syndiotactic polypropylene rather than irregular atactic polymers.",
+      "hint": "Ziegler-Natta catalyst is TiCl₄ + Al(C₂H₅)₃."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Describe preparation, properties, and uses of Teflon (PTFE).",
+      "a": "Preparation: Tetrafluoroethene monomer is heated under high pressure with persulfate catalyst: n CF₂=CF₂ -(heat, pressure, persulfate)-> -[CF₂-CF₂]n- (Polytetrafluoroethene / Teflon). Properties: Chemically extremely inert, resistant to corrosive boiling aqua regia, acids, bases; non-wettable, highly hydrophobic, thermally stable up to 570 K, extremely low coefficient of friction. Uses: Non-stick coating on cooking utensils, oil seals, gaskets, chemical valve linings.",
+      "hint": "Monomer is CF₂=CF₂ (tetrafluoroethene); used as non-stick cookware coating."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Describe preparation and monomer of Polyacrylonitrile (PAN / Orlon).",
+      "a": "Preparation: Addition polymerization of Acrylonitrile (vinyl cyanide, CH₂=CH-CN) in presence of a peroxide catalyst: n CH₂=CH-CN -(peroxide)-> -[CH₂-CH(CN)]n- (Polyacrylonitrile, PAN). Commercial names: Orlon, Acrilan. Uses: Used as a synthetic wool substitute for making blankets, sweaters, carpets, and synthetic fibers due to high tensile strength and resistance to stains and moths.",
+      "hint": "Monomer is Acrylonitrile (CH₂=CH-CN); used as synthetic wool (Orlon)."
+    },
+    {
+      "id": "c10",
+      "tag": "formula",
+      "q": "Describe synthesis of Nylon 6,6. Why is it named '6,6'?",
+      "a": "Condensation copolymerization of two monomers each containing SIX carbon atoms: Hexamethylenediamine [H₂N-(CH₂)₆-NH₂] (6 carbons) and Adipic acid [HOOC-(CH₂)₄-COOH] (6 carbons): n H₂N(CH₂)₆NH₂ + n HOOC(CH₂)₄COOH -(553 K, high pressure)-> -[NH-(CH₂)₆-NH-CO-(CH₂)₄-CO]n- (Nylon 6,6) + (2n-1) H₂O. Properties: High tensile strength due to linear chains forming strong intermolecular hydrogen bonds between amide groups. Uses: Bristles for brushes, tire cords, parachute fabrics, ropes.",
+      "hint": "6,6 indicates both monomers have 6 carbon atoms each."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Describe synthesis of Nylon 6 from Caprolactam.",
+      "a": "Nylon 6 is a homopolymer polyamide obtained by ring-opening polymerization of Caprolactam. Caprolactam (7-membered cyclic lactam) is heated with water at 533-543 K: Caprolactam + H₂O -(533-543 K)-> ε-aminocaproic acid intermediate -(polymerizes)-> -[NH-(CH₂)₅-CO]n- (Nylon 6). Uses: Tire cords, ropes, climbing gear, fabrics.",
+      "hint": "Nylon 6 is prepared by ring-opening of Caprolactam."
+    },
+    {
+      "id": "c12",
+      "tag": "formula",
+      "q": "Describe synthesis of Terylene (Dacron). What class of polymers does it belong to?",
+      "a": "Belongs to Polyesters. Prepared by condensation copolymerization of Ethylene Glycol [HO-CH₂-CH₂-OH] and Terephthalic acid [p-HOOC-C₆H₄-COOH] (or dimethyl terephthalate) at 420-460 K with zinc acetate-antimony trioxide catalyst: n HO-CH₂-CH₂-OH + n p-HOOC-C₆H₄-COOH -(420-460 K, Zn(OAc)₂/Sb₂O₃)-> -[O-CH₂-CH₂-O-CO-C₆H₄-CO]n- (Terylene/Dacron) + (2n-1) H₂O. Properties: Wrinkle-resistant, moth-resistant, high tensile strength. Blended with cotton (terycot) or wool (terywool).",
+      "hint": "Monomers: Ethylene glycol + Terephthalic acid; ester linkage."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Explain the preparation of Bakelite (Phenol-Formaldehyde Resin): Novolac vs Bakelite.",
+      "a": "Reaction between Phenol and Formaldehyde (HCHO) in presence of acid or base catalyst: 1. Initial reaction forms ortho- and para-hydroxybenzyl alcohols. 2. Linear polymer: Ortho-hydroxybenzyl alcohol condenses with elimination of water to form a linear fusible thermoplastic polymer called NOVOLAC: used in paints and varnishes. 3. Cross-linked Bakelite: When Novolac is heated with excess Formaldehyde (or hexamethylenetetramine), extensive cross-linking occurs between chains forming an infusible, insoluble, hard 3D network thermosetting polymer: BAKELITE. Uses: Electrical switches, sockets, saucepan handles, telephone casings.",
+      "hint": "Novolac is linear (paints); Bakelite is heavily cross-linked 3D network (switches)."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Describe Melamine-Formaldehyde Resin. What are its monomers and uses?",
+      "a": "Monomers: Melamine (2,4,6-triamino-1,3,5-triazine, a heterocyclic compound with 3 -NH₂ groups) and Formaldehyde (HCHO). Condensation yields a resin intermediate (melamine monomethylol) which undergoes cross-linking polymerization to form Melamine-Formaldehyde polymer. Uses: Unbreakable kitchen crockery, dinnerware, decorative plastic laminates (Formica).",
+      "hint": "Monomers: Melamine + Formaldehyde; used for unbreakable crockery."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "What is Natural Rubber chemically? Explain why it is elastic.",
+      "a": "Natural rubber is a natural polymer obtained from the latex of the Hevea brasiliensis tree. Chemically, it is cis-1,4-polyisoprene: -[CH₂-C(CH₃)=CH-CH₂]n-. The monomer is Isoprene (2-methylbuta-1,3-diene). Elasticity: All double bonds have cis-geometry. The cis-configuration prevents close linear packing of polymer chains. Chains are coiled randomly like springs and held only by weak van der Waals dispersion forces. When stretched, coils unroll; when releasing tension, they spring back to random coils.",
+      "hint": "Natural rubber is cis-1,4-polyisoprene; monomer is Isoprene."
+    },
+    {
+      "id": "c16",
+      "tag": "imp",
+      "q": "What is Gutta-Percha? How does it differ from natural rubber?",
+      "a": "Gutta-percha is the trans-isomer of polyisoprene: trans-1,4-polyisoprene. Because of trans-stereochemistry, the polymer chains are symmetrical, linear, and can pack closely and tightly together in a crystal lattice. Unlike natural rubber, Gutta-percha is rigid, hard, non-elastic, crystalline, and a non-conductor of electricity. Uses: Submarine cable insulation and root canal dental fillings.",
+      "hint": "Natural rubber = cis-1,4-polyisoprene (elastic); Gutta-percha = trans-1,4-polyisoprene (rigid)."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Explain Vulcanization of Rubber. How does it improve the physical properties of raw rubber?",
+      "a": "Discovered by Charles Goodyear (1839). Raw natural rubber is heated with 3-5% elemental Sulfur and an accelerator (e.g., zinc oxide) at 373-415 K. Sulfur forms covalent disulfidic cross-links (-S-S-) across reactive double bonds of adjacent cis-polyisoprene chains. Improvements: 1. Increases tensile strength and elasticity over wide temperature range (283-335 K). 2. Eliminates tackiness/stickiness in summer and brittleness in winter. 3. Makes rubber resistant to organic solvents and abrasion (used for vehicle tires).",
+      "hint": "Heating rubber with sulfur introduces -S-S- cross-links."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "Describe preparation, monomers, and uses of Neoprene (Polychloroprene).",
+      "a": "Monomer: Chloroprene (2-chlorobuta-1,3-diene). Prepared by free radical addition polymerization of chloroprene in presence of potassium persulfate: n CH₂=CCl-CH=CH₂ -(polymerization)-> -[CH₂-CCl=CH-CH₂]n- (Neoprene). Properties: Excellent resistance to vegetable and mineral oils, gasoline, ozone, and weathering (far superior to natural rubber). Uses: Conveyor belts in mines, gasoline delivery hoses, gaskets, diving wetsuits.",
+      "hint": "Monomer is Chloroprene (2-chlorobuta-1,3-diene); resistant to oils and gasoline."
+    },
+    {
+      "id": "c19",
+      "tag": "formula",
+      "q": "Describe synthesis and monomers of Buna-S and Buna-N synthetic rubbers.",
+      "a": "1. Buna-S (SBR): Copolymerization of Buta-1,3-diene (75%) and Styrene (25%) in presence of sodium (Bu = butadiene, Na = sodium catalyst, S = styrene): n CH₂=CH-CH=CH₂ + n C₆H₅-CH=CH₂ -(peroxide/Na)-> Buna-S. Uses: Automobile tires, shoe soles, electrical cable insulation. 2. Buna-N (NBR): Copolymerization of Buta-1,3-diene and Acrylonitrile in presence of peroxide catalyst: n CH₂=CH-CH=CH₂ + n CH₂=CH-CN -> Buna-N. Uses: Oil seals, tank linings, hoses for aircraft fuel lines.",
+      "hint": "Buna-S = Butadiene + Styrene; Buna-N = Butadiene + Acrylonitrile."
+    },
+    {
+      "id": "c20",
+      "tag": "imp",
+      "q": "What are Biodegradable Polymers? Describe PHBV with its monomers and applications.",
+      "a": "Polymers that are broken down and degraded by environmental microorganisms (bacteria/enzymes) into harmless natural byproducts (CO₂, H₂O, biomass). PHBV: Poly-β-hydroxybutyrate-co-β-hydroxyvalerate. Copolymer synthesized from two hydroxy acids: 3-Hydroxybutanoic acid and 3-Hydroxypentanoic acid: -[O-CH(CH₃)-CH₂-CO-O-CH(C₂H₅)-CH₂-CO]n-. Applications: Controlled drug release capsules (degrades harmlessly in body), orthopedic implants, specialty packaging.",
+      "hint": "PHBV monomers: 3-hydroxybutanoic acid + 3-hydroxypentanoic acid; used in drug delivery."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Describe Nylon 2-nylon 6 as a biodegradable polymer.",
+      "a": "Nylon 2-nylon 6 is a biodegradable polyamide copolymer of Glycine (H₂N-CH₂-COOH, 2 carbons) and ε-aminocaproic acid [H₂N-(CH₂)₅-COOH, 6 carbons]: n H₂N-CH₂-COOH + n H₂N-(CH₂)₅-COOH -> -[NH-CH₂-CO-NH-(CH₂)₅-CO]n- + (2n-1) H₂O. Contains alternating peptide bonds that are susceptible to enzymatic cleavage by soil bacteria, rendering it completely biodegradable.",
+      "hint": "Monomers: Glycine (2 C) + ε-aminocaproic acid (6 C)."
+    },
+    {
+      "id": "c22",
+      "tag": "formula",
+      "q": "Distinguish between Number-Average Molar Mass (Mn) and Weight-Average Molar Mass (Mw). What is Polydispersity Index (PDI)?",
+      "a": "1. Mn = Σ(Ni * Mi) / ΣNi (determined by colligative properties: osmotic pressure). 2. Mw = Σ(Ni * Mi²) / Σ(Ni * Mi) (determined by light scattering / ultracentrifugation). 3. Polydispersity Index (PDI) = Mw / Mn. For natural polymers (proteins, cellulose), all chains have identical length (monodisperse), so Mw = Mn and PDI = 1. For synthetic polymers, chains have variable lengths (polydisperse), so Mw > Mn and PDI > 1.",
+      "hint": "PDI = Mw / Mn. For natural polymers PDI = 1; for synthetic polymers PDI > 1."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "What is Polyvinyl Chloride (PVC)? State its monomer, plasticizer, and applications.",
+      "a": "Monomer: Vinyl chloride (chloroethene, CH₂=CH-Cl). Prepared by addition polymerization: n CH₂=CH-Cl -(peroxide)-> -[CH₂-CHCl]n- (PVC). Rigid PVC is used for sanitary drainage pipes and window frames. When blended with Plasticizers (e.g., dioctyl phthalate, DOP), it becomes flexible and rubbery, used for raincoats, shower curtains, electrical wire insulation, and vinyl flooring.",
+      "hint": "Monomer is Vinyl chloride; plasticizer (dioctyl phthalate) makes PVC flexible."
+    },
+    {
+      "id": "c24",
+      "tag": "imp",
+      "q": "Identify monomers of: 1. Polystyrene, 2. Glyptal, 3. Polypropylene.",
+      "a": "1. Polystyrene (Styron): Monomer is Styrene (phenylethene, C₆H₅-CH=CH₂). Used for thermocol, disposable cups, refrigerator linings. 2. Glyptal (Alkyd resin): Monomers are Ethylene glycol [HO-CH₂-CH₂-OH] and Phthalic acid [1,2-C₆H₄(COOH)₂]. Used in manufacturing paints, lacquers, and building cements. 3. Polypropylene (PP): Monomer is Propene (CH₃-CH=CH₂). Used for packing ropes, pipes, automobile battery casings.",
+      "hint": "Glyptal = Ethylene glycol + Phthalic acid (o-isomer); Terylene = Ethylene glycol + Terephthalic acid (p-isomer)."
+    },
+    {
+      "id": "c25",
+      "tag": "concept",
+      "q": "What are Homopolymers and Copolymers? Give two examples of each.",
+      "a": "1. Homopolymer: Polymer derived from only ONE single type of monomer species: Polythene (from ethene), PVC (from vinyl chloride), Teflon (from tetrafluoroethene), Nylon 6 (from caprolactam). 2. Copolymer: Polymer derived from TWO OR MORE different types of monomer species: Nylon 6,6 (hexamethylenediamine + adipic acid), Terylene (ethylene glycol + terephthalic acid), Buna-S (butadiene + styrene), Buna-N (butadiene + acrylonitrile).",
+      "hint": "Homopolymer = single monomer type; Copolymer = two or more monomer types."
+    }
+  ]
+}

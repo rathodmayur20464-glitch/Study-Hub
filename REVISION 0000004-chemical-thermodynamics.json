@@ -1,0 +1,183 @@
+{
+  "title": "Chemical Thermodynamics",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Types of Thermodynamic Systems and Boundaries?",
+      "a": "1. Open System: Can exchange BOTH energy and matter with its surroundings (e.g. Hot water in an open beaker, living organisms).\n2. Closed System: Can exchange ENERGY (heat/work) but NOT matter with surroundings (e.g. Water in a sealed metallic flask).\n3. Isolated System: Can exchange NEITHER energy nor matter with surroundings; perfectly insulated and sealed (e.g. Hot tea in an ideal vacuum thermos flask, the Universe).",
+      "hint": "The Universe is considered the ultimate isolated system."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Extensive Properties vs Intensive Properties with examples?",
+      "a": "1. Extensive Properties: Depend directly on the quantity / amount of matter present in the system.\n- Examples: Mass ($m$), Volume ($V$), Internal Energy ($U$), Enthalpy ($H$), Entropy ($S$), Gibbs Free Energy ($G$), Heat Capacity ($C$).\n2. Intensive Properties: Independent of the quantity of matter present; depend only on nature and concentration.\n- Examples: Temperature ($T$), Pressure ($P$), Density ($\\rho$), Melting point, Boiling point, Refractive index, Surface tension, Viscosity, Specific heat capacity ($c$).",
+      "hint": "The ratio of two extensive properties is always an INTENSIVE property (e.g. Density = Mass / Volume; Molarity = Moles / Volume)."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "State Functions vs Path Functions and Thermodynamic Processes?",
+      "a": "1. State Functions: Depend ONLY on initial and final states of system, independent of the path followed ($P, V, T, U, H, S, G$).\n2. Path Functions: Depend on the path followed to achieve the change (Heat $q$, Work $w$).\nThermodynamic Processes:\n- Isothermal: $T = \\text{constant} \\Rightarrow \\Delta T = 0$ (for ideal gas, $\\Delta U = 0, \\Delta H = 0$).\n- Adiabatic: $q = 0$ (no heat exchange with surroundings; insulated container).\n- Isobaric: $P = \\text{constant} \\Rightarrow \\Delta P = 0$.\n- Isochoric: $V = \\text{constant} \\Rightarrow \\Delta V = 0 \\Rightarrow w = -P\\Delta V = 0$.\n- Cyclic: Initial state = Final state $\\Rightarrow \\Delta U = 0, \\Delta H = 0, \\Delta S = 0$.",
+      "hint": "Heat ($q$) and Work ($w$) are NOT state functions; they are path functions."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Reversible vs Irreversible Thermodynamic Processes?",
+      "a": "1. Reversible Process:\n- Driving force is infinitesimally greater than opposing force ($P_{ext} = P \\pm dP$).\n- Takes place in infinite number of infinitesimal steps; system remains in virtual equilibrium at all stages.\n- Yields MAXIMUM WORK ($W_{\\text{max}}$); purely theoretical/ideal.\n2. Irreversible Process:\n- Driving force is substantially greater than opposing force ($P_{ext} \\ll P$ or finite difference).\n- Takes place in a single or finite rapid steps; equilibrium established only at end.\n- Yields less than maximum work; all natural spontaneous processes are irreversible.",
+      "hint": "Maximum work is obtained ONLY when the process is conducted reversibly."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "IUPAC Sign Conventions for Heat (q) and Work (w)?",
+      "a": "IUPAC Rules:\n- Heat absorbed by the system from surroundings = $+q$ (endothermic)\n- Heat released by the system to surroundings = $-q$ (exothermic)\n- Work done ON the system (compression) = $+w$\n- Work done BY the system (expansion) = $-w$\nFormula for Pressure-Volume ($PV$) work against constant external pressure:\n$w = -P_{\\text{ext}} \\Delta V = -P_{\\text{ext}} (V_2 - V_1)$.\n- Expansion ($V_2 > V_1$): $w$ is NEGATIVE (work done by system).\n- Compression ($V_2 < V_1$): $w$ is POSITIVE (work done on system).",
+      "hint": "In free expansion against vacuum ($P_{\\text{ext}} = 0$): $w = -0 \\times \\Delta V = 0$ (no work is done!)."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Maximum Work ($W_{\\text{max}}$) in Isothermal Reversible Expansion of an Ideal Gas?",
+      "a": "Expression:\n$W_{\\text{max}} = -2.303 n R T \\log_{10} \\left( \\frac{V_2}{V_1} \\right)$\nIn terms of pressure (since by Boyle's law $P_1 V_1 = P_2 V_2 \\Rightarrow V_2/V_1 = P_1/P_2$):\n$W_{\\text{max}} = -2.303 n R T \\log_{10} \\left( \\frac{P_1}{P_2} \\right)$\nWhere:\n- $n$ = number of moles of ideal gas\n- $R$ = $8.314\\text{ J}\\cdot\\text{K}^{-1}\\cdot\\text{mol}^{-1}$\n- $T$ = absolute temperature in Kelvin.",
+      "hint": "In compression ($V_2 < V_1$ or $P_2 > P_1$), minimum work required to compress gas reversibly has the same magnitude but positive sign."
+    },
+    {
+      "id": "c7",
+      "tag": "formula",
+      "q": "First Law of Thermodynamics: Mathematical formulation and special cases?",
+      "a": "Energy can neither be created nor destroyed, only transformed from one form to another.\nMathematical Formulation:\n$\\Delta U = q + w$\nSpecial Cases:\n1. Isothermal process (ideal gas, $\\Delta U = 0$): $q = -w$ (heat absorbed equals work done by system).\n2. Isochoric process (constant volume, $\\Delta V = 0 \\Rightarrow w = 0$): $\\Delta U = q_v$ (heat absorbed equals change in internal energy).\n3. Adiabatic process ($q = 0$): $\\Delta U = w_{\\text{ad}}$ (work done on system increases internal energy).\n4. Isobaric process: $q_p = \\Delta U + P\\Delta V = \\Delta H$.",
+      "hint": "$q_v = \\Delta U$ (heat at constant volume); $q_p = \\Delta H$ (heat at constant pressure)."
+    },
+    {
+      "id": "c8",
+      "tag": "formula",
+      "q": "Enthalpy (H): Definition and relationship between $\\Delta H$ and $\\Delta U$?",
+      "a": "Enthalpy ($H$): Total heat content of a system at constant pressure:\n$H = U + P V$\nFor finite change at constant pressure:\n$\\Delta H = \\Delta U + P\\Delta V$\nFor chemical reactions involving gases (substituting $P\\Delta V = \\Delta n_g R T$):\n$\\Delta H = \\Delta U + \\Delta n_g R T$\nWhere $\\Delta n_g = \\sum n_{g(\\text{products})} - \\sum n_{g(\\text{reactants})}$.\nRelationships:\n1. If $\\Delta n_g = 0 \\Rightarrow \\Delta H = \\Delta U$ (e.g. $H_{2(g)} + I_{2(g)} \\rightarrow 2 HI_{(g)}$)\n2. If $\\Delta n_g > 0 \\Rightarrow \\Delta H > \\Delta U$ (e.g. $PCl_{5(g)} \\rightarrow PCl_{3(g)} + Cl_{2(g)}$)\n3. If $\\Delta n_g < 0 \\Rightarrow \\Delta H < \\Delta U$ (e.g. $N_{2(g)} + 3 H_{2(g)} \\rightarrow 2 NH_{3(g)}$).",
+      "hint": "Calculate $\\Delta n_g$ ONLY for gaseous species; ignore solid and liquid species completely!"
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Hess's Law of Constant Heat Summation: Statement and application?",
+      "a": "Statement: Enthalpy change ($\\Delta H$) of a chemical reaction is the same whether the reaction takes place in a single step or in a series of steps.\n- Because enthalpy ($H$) is a STATE FUNCTION, path does not affect overall $\\Delta H$.\nApplication:\n1. Calculating enthalpies of reactions that cannot be measured directly in a calorimeter (e.g. $C_{(\\text{graphite})} + \\frac{1}{2}O_{2(g)} \\rightarrow CO_{(g)}$).\n2. Calculating lattice enthalpy of ionic crystals via Born-Haber cycle.\n3. Calculating bond enthalpies.",
+      "hint": "If a reaction equation is multiplied by factor n, multiply $\\Delta H$ by n; if reversed, change the sign of $\\Delta H$."
+    },
+    {
+      "id": "c10",
+      "tag": "formula",
+      "q": "Standard Enthalpy of Formation ($\\Delta_f H^\\circ$) and Reaction Enthalpy from $\\Delta_f H^\\circ$?",
+      "a": "Standard Enthalpy of Formation ($\\Delta_f H^\\circ$): Enthalpy change accompanying the formation of 1 mole of a compound from its constituent elements in their standard reference states (at 298.15 K and 1 bar).\n- By convention, $\\Delta_f H^\\circ$ of pure elements in standard states = 0 (e.g. $O_{2(g)}, N_{2(g)}, C_{(\\text{graphite})}, Fe_{(s)}, Br_{2(l)} = 0$).\nReaction Enthalpy Formula:\n$\\Delta_r H^\\circ = \\sum \\Delta_f H^\\circ (\\text{products}) - \\sum \\Delta_f H^\\circ (\\text{reactants})$.",
+      "hint": "For Carbon, $\\Delta_f H^\\circ(\\text{graphite}) = 0$, but $\\Delta_f H^\\circ(\\text{diamond}) = 1.89\\text{ kJ/mol}$ (diamond is not standard reference state)."
+    },
+    {
+      "id": "c11",
+      "tag": "formula",
+      "q": "Bond Enthalpy and calculation of Reaction Enthalpy from Bond Enthalpies?",
+      "a": "Bond Enthalpy: Average energy required to break 1 mole of a specific covalent bond in gaseous molecules into isolated gaseous atoms.\nFormula for Reaction Enthalpy:\n$\\Delta_r H^\\circ = \\sum \\Delta H_{\\text{bond}}(\\text{Reactants broken}) - \\sum \\Delta H_{\\text{bond}}(\\text{Products formed})$\nNote the reverse order:\n- From $\\Delta_f H^\\circ$: $\\text{Products} - \\text{Reactants}$\n- From Bond Enthalpies: $\\text{Reactants} - \\text{Products}$ (Bonds broken is endothermic +, bonds made is exothermic -).",
+      "hint": "Bond breaking is always ENDOTHERMIC ($+ \\Delta H$); bond making is always EXOTHERMIC ($- \\Delta H$)."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Entropy (S): Concept, definition, units, and Second Law of Thermodynamics?",
+      "a": "Entropy ($S$): Thermodynamic state function measuring the degree of randomness, molecular disorder, or chaos in a system.\nMathematical definition:\n$\\Delta S = \\frac{q_{\\text{rev}}}{T}$\nUnits: $J\\cdot K^{-1}$ or $J\\cdot K^{-1}\\cdot mol^{-1}$.\nSecond Law of Thermodynamics:\nIn any spontaneous / natural process, the total entropy of the universe (system + surroundings) always INCREASES:\n$\\Delta S_{\\text{total}} = \\Delta S_{\\text{sys}} + \\Delta S_{\\text{surr}} > 0$.\n- At equilibrium: $\\Delta S_{\\text{total}} = 0$\n- Non-spontaneous process: $\\Delta S_{\\text{total}} < 0$.",
+      "hint": "Entropy order: Gas $\\gg$ Liquid $>$ Solid."
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "Entropy changes in Phase Transitions (Fusion, Vaporization, Sublimation)?",
+      "a": "At phase transition equilibrium temperature:\n1. Entropy of Fusion:\n$\\Delta_{\\text{fus}} S = \\frac{\\Delta_{\\text{fus}} H}{T_f}$\n(where $T_f$ is melting/freezing point in Kelvin).\n2. Entropy of Vaporization:\n$\\Delta_{\\text{vap}} S = \\frac{\\Delta_{\\text{vap}} H}{T_b}$\n(where $T_b$ is boiling point in Kelvin; Trouton's rule: $\\Delta_{\\text{vap}}S \\approx 88\\text{ J}\\cdot\\text{K}^{-1}\\cdot\\text{mol}^{-1}$ for most liquids).\n3. Entropy of Sublimation:\n$\\Delta_{\\text{sub}} S = \\frac{\\Delta_{\\text{sub}} H}{T_{\\text{sub}}}$.",
+      "hint": "All phase changes from solid $\\rightarrow$ liquid $\\rightarrow$ gas have POSITIVE $\\Delta S$ (disorder increases)."
+    },
+    {
+      "id": "c14",
+      "tag": "formula",
+      "q": "Gibbs Free Energy (G): Gibbs-Helmholtz equation and Spontaneity criteria?",
+      "a": "Gibbs Energy ($G$): The maximum portion of energy of a system that can be converted into useful non-expansion work at constant T and P:\n$G = H - T S$\nGibbs-Helmholtz Equation at constant T and P:\n$\\Delta G = \\Delta H - T \\Delta S$\nSpontaneity Criteria at constant T and P:\n1. If $\\Delta G < 0$ (negative): Process is SPONTANEOUS (exergonic).\n2. If $\\Delta G = 0$: System is at EQUILIBRIUM.\n3. If $\\Delta G > 0$ (positive): Process is NON-SPONTANEOUS in forward direction (endergonic).",
+      "hint": "$\\Delta G$ is the ultimate single master criterion for spontaneity at constant temperature and pressure."
+    },
+    {
+      "id": "c15",
+      "tag": "imp",
+      "q": "Effect of Temperature on Reaction Spontaneity (The 4 Case Table)?",
+      "a": "From $\\Delta G = \\Delta H - T \\Delta S$:\n1. $\\Delta H = (-)$ and $\\Delta S = (+)$ $\\Rightarrow \\Delta G$ is ALWAYS NEGATIVE $\\rightarrow$ Spontaneous at ALL temperatures.\n2. $\\Delta H = (+)$ and $\\Delta S = (-)$ $\\Rightarrow \\Delta G$ is ALWAYS POSITIVE $\\rightarrow$ Non-spontaneous at ALL temperatures.\n3. $\\Delta H = (-)$ and $\\Delta S = (-)$ $\\Rightarrow \\Delta G$ is negative ONLY at LOW temperature ($T < \\Delta H / \\Delta S$) $\\rightarrow$ Spontaneous at low T.\n4. $\\Delta H = (+)$ and $\\Delta S = (+)$ $\\Rightarrow \\Delta G$ is negative ONLY at HIGH temperature ($T > \\Delta H / \\Delta S$) $\\rightarrow$ Spontaneous at high T.",
+      "hint": "Equilibrium temperature at which process switches from non-spontaneous to spontaneous: $T_{\\text{eq}} = \\Delta H / \\Delta S$ (where $\\Delta G = 0$)."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "Relationship between Standard Gibbs Energy ($\\Delta G^\\circ$) and Equilibrium Constant (K)?",
+      "a": "Equation:\n$\\Delta G = \\Delta G^\\circ + 2.303 R T \\log_{10} Q$\nAt equilibrium, $\\Delta G = 0$ and reaction quotient $Q = K$:\n$\\Delta G^\\circ = -2.303 R T \\log_{10} K = -R T \\ln K$\nInferences:\n1. If $K > 1 \\Rightarrow \\log K > 0 \\Rightarrow \\Delta G^\\circ < 0$ (products favored at equilibrium).\n2. If $K = 1 \\Rightarrow \\log K = 0 \\Rightarrow \\Delta G^\\circ = 0$.\n3. If $K < 1 \\Rightarrow \\log K < 0 \\Rightarrow \\Delta G^\\circ > 0$ (reactants favored at equilibrium).",
+      "hint": "A large negative $\\Delta G^\\circ$ corresponds to a huge equilibrium constant $K$, driving reaction to near completion."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Third Law of Thermodynamics and Absolute Entropies?",
+      "a": "Statement (Nernst, 1906):\nAt absolute zero temperature ($T = 0\\text{ K}$ or $-273.15^\\circ\\text{C}$), the entropy of a perfectly crystalline substance is strictly ZERO ($S = 0$).\nSignificance:\n- Allows calculation of absolute entropy ($S^\\circ$) of any pure chemical substance at any temperature $T$:\n$S_T = \\int_0^T \\frac{C_p}{T} dT$\n- Glassy/amorphous solids and crystals with molecular disorder (e.g. CO, $N_2O$, ice) have residual entropy $> 0$ even at 0 K.",
+      "hint": "Third law does not apply to amorphous substances because they retain residual entropy at 0 K."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Work done in a chemical reaction: Formula $w = -\\Delta n_g R T$?",
+      "a": "For a reaction carried out at constant temperature and pressure:\nWork done by gas: $w = -P_{\\text{ext}} \\Delta V = -\\Delta n_g R T$\nWhere $\\Delta n_g = n_{g(\\text{products})} - n_{g(\\text{reactants})}$.\nExample: Oxidation of carbon monoxide:\n$2 CO_{(g)} + O_{2(g)} \\rightarrow 2 CO_{2(g)}$\n$\\Delta n_g = 2 - (2 + 1) = 2 - 3 = -1$\n$w = -(-1) R T = +R T$ (work is done ON the system, compression).",
+      "hint": "If $\\Delta n_g < 0$, work is positive (compression); if $\\Delta n_g > 0$, work is negative (expansion)."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Enthalpy of Atomization ($\\Delta_{\\text{a}} H^\\circ$) and Enthalpy of Ionization ($\\Delta_{\\text{ion}} H^\\circ$)?",
+      "a": "1. Enthalpy of Atomization ($\\Delta_{\\text{a}} H^\\circ$): Enthalpy change accompanying the complete dissociation of 1 mole of a substance into isolated gaseous atoms (e.g. $CH_{4(g)} \\rightarrow C_{(g)} + 4 H_{(g)}, \\Delta_a H^\\circ = 1665\\text{ kJ/mol}$; average C-H bond enthalpy = $1665 / 4 = 416.25\\text{ kJ/mol}$).\n2. Enthalpy of Ionization ($\\Delta_{\\text{ion}} H^\\circ$): Enthalpy change when 1 mole of a weak electrolyte completely ionizes in aqueous solution.",
+      "hint": "For a diatomic gas like $H_2$, enthalpy of atomization is identical to its bond dissociation enthalpy."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Enthalpy of Solution ($\\Delta_{\\text{sol}} H^\\circ$) and Lattice Enthalpy ($\\Delta_L H^\\circ$)?",
+      "a": "Dissolution of an ionic solid $MX_{(s)}$ in water occurs in two steps:\n1. Dissociation into gaseous ions (Lattice Enthalpy, $\\Delta_L H^\\circ$, endothermic):\n$MX_{(s)} \\rightarrow M^+_{(g)} + X^-_{(g)}$ ($\\Delta_L H^\\circ > 0$)\n2. Hydration of gaseous ions by water (Hydration Enthalpy, $\\Delta_{\\text{hyd}} H^\\circ$, exothermic):\n$M^+_{(g)} + X^-_{(g)} + \\text{aq} \\rightarrow M^+_{(\\text{aq})} + X^-_{(\\text{aq})}$ ($\\Delta_{\\text{hyd}} H^\\circ < 0$)\nTotal Enthalpy of Solution:\n$\\Delta_{\\text{sol}} H^\\circ = \\Delta_L H^\\circ + \\Delta_{\\text{hyd}} H^\\circ$\n- Substance dissolves easily if $|\\Delta_{\\text{hyd}} H^\\circ| > \\Delta_L H^\\circ$.",
+      "hint": "Lattice enthalpy is always positive; hydration enthalpy is always negative."
+    },
+    {
+      "id": "c21",
+      "tag": "formula",
+      "q": "Calculation of Molar Heat Capacities: $C_p - C_v = R$ for an Ideal Gas?",
+      "a": "Heat capacity $C = q / \\Delta T$:\n- At constant volume: $C_v = \\left( \\frac{\\partial U}{\\partial T} \\right)_v$\n- At constant pressure: $C_p = \\left( \\frac{\\partial H}{\\partial T} \\right)_p$\nSince $H = U + P V = U + R T$ (for 1 mole ideal gas):\n$\\Delta H = \\Delta U + R \\Delta T$\nDividing by $\\Delta T$:\n$C_p = C_v + R \\Rightarrow C_p - C_v = R$\nMolar heat capacity ratio $\\gamma = C_p / C_v$:\n- Monatomic gas: $\\gamma = 5/3 \\approx 1.67$\n- Diatomic gas: $\\gamma = 7/5 = 1.40$\n- Triatomic/Polyatomic nonlinear: $\\gamma = 4/3 \\approx 1.33$.",
+      "hint": "$C_p$ is always greater than $C_v$ because gas does work of expansion at constant pressure."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Why is melting of ice at 25°C spontaneous even though it is endothermic?",
+      "a": "Melting of ice: $H_2O_{(s)} \\rightarrow H_2O_{(l)}$\n- $\\Delta H > 0$ (endothermic, heat absorbed to break ice lattice)\n- $\\Delta S > 0$ (liquid water has much greater disorder than crystalline ice)\nFrom $\\Delta G = \\Delta H - T\\Delta S$:\nAt 25°C (298 K), the temperature $T$ is high enough such that the favorable entropy term $T\\Delta S$ EXCEEDS $\\Delta H$ ($T\\Delta S > \\Delta H$):\n$\\Delta G = \\Delta H - T\\Delta S < 0$ (negative, spontaneous!).",
+      "hint": "Melting of ice is an ENTROPY-DRIVEN spontaneous process."
+    },
+    {
+      "id": "c23",
+      "tag": "formula",
+      "q": "MHT-CET Calculation: Calculate $\\Delta U$ when 2 moles of an ideal gas expand into vacuum.",
+      "a": "Free expansion against vacuum ($P_{\\text{ext}} = 0$):\n$w = -P_{\\text{ext}} \\Delta V = -0 \\times \\Delta V = 0$\nIf the process is isothermal (constant temperature):\nFor an ideal gas, internal energy depends only on temperature $\\Rightarrow \\Delta U = 0$.\nFrom first law: $q = \\Delta U - w = 0 - 0 = 0$.\nAll three quantities are ZERO: $w = 0, q = 0, \\Delta U = 0$.",
+      "hint": "In free expansion of ideal gas into vacuum: $w = 0, q = 0$, and $\\Delta U = 0$."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "Enthalpy of Neutralization: Strong Acid vs Strong Base vs Weak Acid?",
+      "a": "Enthalpy change when 1 equivalent of acid is completely neutralized by 1 equivalent of base in dilute aqueous solution:\n- For Strong Acid + Strong Base: $\\Delta_{\\text{neut}} H^\\circ = -57.1\\text{ kJ/equiv} = -13.7\\text{ kcal/equiv}$ (CONSTANT value because the net reaction is always $H^+ + OH^- \\rightarrow H_2O$).\n- For Weak Acid + Strong Base (e.g. $CH_3COOH + NaOH$): $\\Delta_{\\text{neut}} H^\\circ = -55.8\\text{ kJ/mol}$ (LESS negative because some heat is consumed in ionizing the weak acid).\n- Enthalpy of ionization of $CH_3COOH = 57.1 - 55.8 = 1.3\\text{ kJ/mol}$.",
+      "hint": "Heat of neutralization of strong acid by strong base is a constant -57.1 kJ/mol."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "MHT-CET Trap: Predict sign of $\\Delta S$ for crystallization, boiling of egg, and stretching rubber band.",
+      "a": "1. Crystallization of liquid into solid $\\rightarrow \\Delta S = (-)$ (order increases, liquid $\\rightarrow$ solid lattice).\n2. Boiling / Hardening of an Egg $\\rightarrow \\Delta S = (+)$ (denaturation of globular proteins unfolds coiled chains into disordered random coils!).\n3. Stretching of a Rubber Band $\\rightarrow \\Delta S = (-)$ (uncoiled tangled polymer chains align in an orderly parallel fashion).\n4. Dissolution of sugar in water $\\rightarrow \\Delta S = (+)$ (orderly crystal dissolves into random solution).",
+      "hint": "High-yield trap: Boiling of an egg INCREASES entropy ($\\Delta S > 0$) due to protein denaturation!"
+    }
+  ]
+}

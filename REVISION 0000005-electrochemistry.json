@@ -1,0 +1,183 @@
+{
+  "title": "Electrochemistry",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "What is Conductivity (Specific Conductance, k) and Molar Conductivity (Λm), and how are they related?",
+      "a": "Conductivity k = (1/R) * (l/a) = G * b, where b = l/a is cell constant (unit: S m⁻¹ or Ω⁻¹ cm⁻¹). Molar conductivity Λm = (1000 * k) / c (when k is in S cm⁻¹ and c in mol L⁻¹), unit: S cm² mol⁻¹ or Ω⁻¹ cm² mol⁻¹. In SI units, Λm = k / c (where c is mol m⁻³).",
+      "hint": "Cell constant b = l/a has unit cm⁻¹ or m⁻¹."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "How do conductivity (k) and molar conductivity (Λm) vary with dilution?",
+      "a": "Conductivity (k) decreases with dilution for both strong and weak electrolytes because number of current-carrying ions per unit volume (1 cm³ or 1 mL) decreases. Molar conductivity (Λm) increases with dilution for both: for strong electrolytes due to decreased interionic attractions, and for weak electrolytes due to sharp increase in degree of dissociation (α).",
+      "hint": "Always distinguish variation of k (decreases) vs Λm (increases) on dilution."
+    },
+    {
+      "id": "c3",
+      "tag": "formula",
+      "q": "State Kohlrausch's Law of Independent Migration of Ions and write its mathematical expression.",
+      "a": "At infinite dilution, each ion migrates independently and contributes a definite value to total molar conductivity irrespective of the nature of the co-ion. For AxBy: Λ₀m = x*λ₀(Aʸ⁺) + y*λ₀(Bˣ⁻). For degree of dissociation of weak electrolyte: α = Λm / Λ₀m, and dissociation constant Ka = (c * α²) / (1 - α) = [c * (Λm/Λ₀m)²] / [1 - (Λm/Λ₀m)].",
+      "hint": "Allows calculation of Λ₀m for weak electrolytes from strong electrolyte Λ₀m values."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "What are Galvanic (Voltaic) cells and Electrolytic cells? State sign conventions of electrodes.",
+      "a": "Galvanic cell: converts chemical energy of spontaneous redox reaction into electrical energy (Anode = Negative/oxidation, Cathode = Positive/reduction). Electrolytic cell: uses electrical energy to drive non-spontaneous redox reaction (Anode = Positive/oxidation, Cathode = Negative/reduction). Anode is ALWAYS oxidation; Cathode is ALWAYS reduction (mnemonic: AnOx, RedCat).",
+      "hint": "Mnemonic: 'AnOx' = Anode Oxidation; 'RedCat' = Reduction at Cathode."
+    },
+    {
+      "id": "c5",
+      "tag": "concept",
+      "q": "What is the function of a Salt Bridge in a Galvanic cell?",
+      "a": "A U-tube containing inert electrolyte (KCl, KNO₃, or NH₄NO₃ in agar-agar gel): 1. Completes electrical circuit by allowing ion migration between half-cells. 2. Maintains electrical neutrality in both half-cell solutions without mixing them. 3. Prevents accumulation of charges and eliminates liquid junction potential.",
+      "hint": "Mobility of cation and anion of salt used in salt bridge must be nearly equal."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Describe the Standard Hydrogen Electrode (SHE). What are its limitations?",
+      "a": "SHE consists of Pt foil coated with Pt black in 1 M H⁺(aq) solution with pure H₂ gas bubbled at 1 atm and 298 K. Representation: Pt(s) | H₂(g, 1 atm) | H⁺(aq, 1 M). Assigned potential E° = 0.00 V at all temperatures. Limitations: 1. Difficult to maintain H₂ pressure exactly at 1 atm. 2. Difficult to keep [H⁺] exactly at 1 M. 3. Pt electrode gets easily poisoned by impurities.",
+      "hint": "Acts as primary reference electrode."
+    },
+    {
+      "id": "c7",
+      "tag": "formula",
+      "q": "Write Nernst equation for a single electrode reaction and a general cell reaction at 298 K.",
+      "a": "For Mn⁺ + ne⁻ -> M: E = E° - (0.0592/n) * log₁₀(1 / [Mn⁺]). For cell reaction aA + bB -> cC + dD: Ecell = E°cell - (0.0592/n) * log₁₀([C]ᶜ [D]ᵈ / [A]ᵃ [B]ᵇ) at 298 K (25°C). Here E°cell = E°cathode - E°anode (both standard reduction potentials).",
+      "hint": "At 298 K, 2.303 RT/F = 0.0592 V."
+    },
+    {
+      "id": "c8",
+      "tag": "formula",
+      "q": "What is the relation between E°cell, Equilibrium Constant (K), and Standard Gibbs Energy change (ΔG°)?",
+      "a": "1. ΔG° = -n * F * E°cell. 2. ΔG° = -2.303 * R * T * log₁₀(K). 3. E°cell = (0.0592 / n) * log₁₀(K) at 298 K. For a spontaneous cell reaction: Ecell > 0, ΔG < 0, and K > 1. At equilibrium: Ecell = 0 and ΔG = 0.",
+      "hint": "E°cell is an intensive property; ΔG° is extensive (multiplies with reaction coefficients)."
+    },
+    {
+      "id": "c9",
+      "tag": "formula",
+      "q": "State Faraday's First and Second Laws of Electrolysis with mathematical forms.",
+      "a": "1st Law: Mass of substance deposited/liberated W = Z * Q = Z * I * t, where Z = electrochemical equivalent = M / (n * F). Thus W = (M * I * t) / (n * F). 2nd Law: When same quantity of electricity passes through different electrolyte solutions in series: W₁ / W₂ = E₁ / E₂ = (M₁ / n₁) / (M₂ / n₂), where E is equivalent weight.",
+      "hint": "1 Faraday (F) = 96500 C mol⁻¹ = charge of 1 mole of electrons."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "Explain the working and reactions of the Dry Cell (Leclanche Cell).",
+      "a": "Anode: Zinc container (Zn -> Zn²⁺ + 2e⁻). Cathode: Carbon (graphite) rod surrounded by MnO₂ + carbon black. Electrolyte: Moist paste of NH₄Cl and ZnCl₂. Cathode reaction: 2MnO₂ + 2NH₄⁺ + 2e⁻ -> Mn₂O₃ + 2NH₃ + H₂O. Ammonia forms a complex with Zn²⁺: Zn²⁺ + 4NH₃ -> [Zn(NH₃)₄]²⁺. Cell voltage = ~1.5 V (non-rechargeable primary cell).",
+      "hint": "ZnCl₂ prevents accumulation of NH₃ gas by forming the complex [Zn(NH₃)₄]²⁺."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Describe the Lead Storage Battery during discharging and recharging.",
+      "a": "Anode: Spongy lead (Pb). Cathode: Lead dioxide (PbO₂). Electrolyte: 38% H₂SO₄ (density 1.28 g/mL). Discharging: Anode: Pb + SO₄²⁻ -> PbSO₄ + 2e⁻; Cathode: PbO₂ + 4H⁺ + SO₄²⁻ + 2e⁻ -> PbSO₄ + 2H₂O. Overall: Pb + PbO₂ + 2H₂SO₄ -> 2PbSO₄ + 2H₂O (Ecell ~ 2 V per cell, 12 V for 6 cells). Recharging: Exact reverse reaction; H₂SO₄ is regenerated, density rises back.",
+      "hint": "During discharge, density of H₂SO₄ decreases below 1.20 g/mL."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Describe the Hydrogen-Oxygen Fuel Cell (Bacon Cell) and write its electrode reactions.",
+      "a": "Galvanic cell converting combustion energy of H₂ into electricity. Anode: Porous carbon with Pt/Pd catalyst (2H₂ + 4OH⁻ -> 4H₂O + 4e⁻). Cathode: Porous carbon with Pt/Pd/Ag (O₂ + 2H₂O + 4e⁻ -> 4OH⁻). Overall: 2H₂ + O₂ -> 2H₂O. Electrolyte: Concentrated aqueous KOH (at 200°C, 20-40 atm). Ecell = 1.23 V. Efficiency ~70% (much higher than thermal plants ~40%), eco-friendly byproduct (water).",
+      "hint": "Used in Apollo space missions to provide both electrical power and drinking water."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Explain the electrochemical mechanism of rusting of iron (Corrosion).",
+      "a": "Anodic site (pure iron): Fe(s) -> Fe²⁺ + 2e⁻ (E° = -0.44 V). Cathodic site (impurity/surface with dissolved O₂ in acidic moisture): O₂ + 4H⁺ + 4e⁻ -> 2H₂O (E° = +1.23 V). Overall: 2Fe + O₂ + 4H⁺ -> 2Fe²⁺ + 2H₂O. Further oxidation: 4Fe²⁺ + O₂ + 4H₂O -> 2Fe₂O₃ + 8H⁺; forms hydrated ferric oxide: Fe₂O₃.xH₂O (rust).",
+      "hint": "Presence of CO₂ in water forms H₂CO₃ providing H⁺ ions that accelerate corrosion."
+    },
+    {
+      "id": "c14",
+      "tag": "imp",
+      "q": "What is Sacrificial Protection and Galvanizing in preventing corrosion?",
+      "a": "Galvanizing: Coating iron with a thin layer of zinc. Zinc has more negative reduction potential (E° = -0.76 V) than iron (E° = -0.44 V), so Zn oxidizes preferentially (sacrificial anode) even if the coating is scratched or broken, protecting the underlying iron.",
+      "hint": "Zinc acts as sacrificial anode; tin (Sn) coating protects only while intact, accelerates rust if scratched."
+    },
+    {
+      "id": "c15",
+      "tag": "formula",
+      "q": "How to calculate cell constant (b) using standard KCl solution?",
+      "a": "Cell constant b = k * R = k / G. Standard 0.1 M or 0.01 M KCl of known conductivity k is placed in the cell, and its resistance R is measured with a Wheatstone bridge (using AC source, 550-5000 Hz, to prevent electrolysis).",
+      "hint": "AC source and conductivity cell with Pt electrodes are used in conductivity water."
+    },
+    {
+      "id": "c16",
+      "tag": "concept",
+      "q": "Why is alternating current (AC) used instead of direct current (DC) for measuring electrolytic conductance?",
+      "a": "Direct current (DC) causes electrolysis, changing the concentration of the electrolyte around the electrodes (polarization of electrodes), which leads to incorrect resistance values. AC alternates direction rapidly, preventing chemical change or polarization.",
+      "hint": "A headphone or null detector detects the balance point with AC."
+    },
+    {
+      "id": "c17",
+      "tag": "imp",
+      "q": "What is the Electrochemical Series? List three key applications.",
+      "a": "Arrangement of electrodes in increasing order of standard reduction potentials (E°). Applications: 1. Relative oxidizing/reducing strength (Li has lowest E° = -3.05 V, strongest reducing agent; F₂ has highest E° = +2.87 V, strongest oxidizing agent). 2. Predict spontaneity: E°cell = E°cathode - E°anode > 0 is spontaneous. 3. Metals with negative E° displace H₂ from dilute acids.",
+      "hint": "Higher reduction potential = easily reduced = strong oxidizing agent."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "In electrolysis of molten NaCl vs aqueous NaCl, what are the products at the electrodes?",
+      "a": "Molten NaCl: Cathode: Na⁺ + e⁻ -> Na(l); Anode: 2Cl⁻ -> Cl₂(g) + 2e⁻. Aqueous NaCl: Cathode: 2H₂O + 2e⁻ -> H₂(g) + 2OH⁻ (since E°red of H₂O > E°red of Na⁺); Anode: 2Cl⁻ -> Cl₂(g) + 2e⁻ (Cl₂ is liberated instead of O₂ due to overvoltage/overpotential of oxygen). Solution becomes basic (NaOH).",
+      "hint": "Overpotential of O₂ makes chloride oxidation kinetically favored over water oxidation."
+    },
+    {
+      "id": "c19",
+      "tag": "formula",
+      "q": "Calculate number of moles of electrons and mass of Cu deposited by passing 2 A current for 965 seconds through CuSO₄ solution. (M = 63.5 g/mol)",
+      "a": "Q = I * t = 2 * 965 = 1930 C. Moles of electrons = Q / F = 1930 / 96500 = 0.02 mol e⁻. Reaction: Cu²⁺ + 2e⁻ -> Cu. Moles of Cu = 0.02 / 2 = 0.01 mol. Mass of Cu = 0.01 * 63.5 = 0.635 g.",
+      "hint": "Always check valency factor (n-factor) of metal cation (n = 2 for Cu²⁺)."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Describe the Calomel Electrode as a secondary reference electrode.",
+      "a": "Consists of mercury in contact with a paste of mercurous chloride (Hg₂Cl₂, calomel) in a solution of KCl. Half-reaction: Hg₂Cl₂(s) + 2e⁻ <=> 2Hg(l) + 2Cl⁻(aq). Electrode potential depends on [Cl⁻]: for saturated KCl, E = +0.2415 V; for 1 M KCl, E = +0.280 V; for 0.1 M KCl, E = +0.337 V. It is convenient, reproducible, and easy to handle.",
+      "hint": "Saturated calomel electrode (SCE) potential is +0.2415 V at 298 K."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "What is Nickel-Cadmium (NICAD) cell? Give its overall discharging reaction.",
+      "a": "A secondary (rechargeable) cell. Anode: Cadmium (Cd). Cathode: Nickel dioxide / hydrated NiO(OH). Electrolyte: Aqueous KOH. Overall discharge: Cd(s) + 2NiO(OH)(s) + 2H₂O(l) -> Cd(OH)₂(s) + 2Ni(OH)₂(s). Ecell = ~1.4 V. It has a longer life than lead storage battery but is heavier and more expensive.",
+      "hint": "Cd and Ni products adhere to electrode surfaces, making recharging smooth."
+    },
+    {
+      "id": "c22",
+      "tag": "formula",
+      "q": "What is the relation between cell EMF and pH of solution using hydrogen electrode?",
+      "a": "For standard hydrogen electrode acting as anode: H₂(g, 1 atm) -> 2H⁺ + 2e⁻. E_H⁺/H₂ = E° - 0.0592 * log₁₀(1 / [H⁺]) = -0.0592 * pH (at 298 K). If coupled with SHE cathode (E = 0), Ecell = 0.0592 * pH. Thus pH = Ecell / 0.0592.",
+      "hint": "Electrode potential of hydrogen electrode becomes more negative as pH increases."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "What happens when an external opposing potential (Eext) is applied to Daniel cell (E° = 1.10 V)?",
+      "a": "1. If Eext < 1.10 V: Electrons flow from Zn (anode) to Cu (cathode); cell operates normally as Galvanic cell. 2. If Eext = 1.10 V: No electron flow, no current, reaction stops (equilibrium). 3. If Eext > 1.10 V: Current flows in reverse direction (electrons flow from Cu to Zn); cell acts as an Electrolytic cell, Zn deposits and Cu dissolves.",
+      "hint": "At Eext > Ecell, cell changes identity from Galvanic to Electrolytic."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "Distinguish between Primary and Secondary Voltaic Cells with examples.",
+      "a": "Primary Cells: Cell reaction is irreversible; cannot be recharged once discharged (e.g., Leclanche Dry cell, Mercury cell). Secondary Cells: Cell reaction can be reversed by passing external electrical current; rechargeable multiple times (e.g., Lead storage battery, Ni-Cd cell, Lithium-ion battery).",
+      "hint": "Primary cells are discarded after single use; secondary cells are accumulators."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "Why is fluorine the strongest oxidizing agent and lithium the strongest reducing agent in aqueous solution?",
+      "a": "Fluorine (F₂): Very high standard reduction potential (+2.87 V) due to low F-F bond dissociation energy and very high hydration enthalpy of small F⁻ ion. Lithium (Li): Most negative reduction potential (-3.05 V) because, despite highest ionization enthalpy among alkali metals, Li⁺ has exceptionally high hydration enthalpy due to tiny ionic radius.",
+      "hint": "Hydration enthalpy plays the decisive role in aqueous electrode potentials."
+    }
+  ]
+}

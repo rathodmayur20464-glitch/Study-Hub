@@ -1,0 +1,183 @@
+{
+  "title": "Biomolecules",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Classify carbohydrates based on hydrolysis: Monosaccharides, Oligosaccharides, and Polysaccharides.",
+      "a": "1. Monosaccharides: Cannot be hydrolyzed into simpler carbohydrate units (e.g., Glucose C₆H₁₂O₆, Fructose, Ribose C₅H₁₀O₅). 2. Oligosaccharides: Yield 2 to 10 monosaccharide units on hydrolysis: Disaccharides (Sucrose, Maltose, Lactose yield 2 monosaccharides: C₁₂H₂₂O₁₁ + H₂O -> 2 C₆H₁₂O₆), Trisaccharides (Raffinose yields glucose + fructose + galactose). 3. Polysaccharides: High molecular mass polymers yielding a large number of monosaccharide units on hydrolysis (e.g., Starch, Cellulose, Glycogen (C₆H₁₀O₅)n).",
+      "hint": "Disaccharides yield 2 monosaccharides; polysaccharides yield hundreds/thousands."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Distinguish between Reducing and Non-Reducing Sugars with examples.",
+      "a": "Reducing Sugars: Carbohydrates containing a free aldehyde (-CHO) or α-hydroxy ketone (>C=O) group (or free hemiacetal/hemiketal OH at anomeric carbon) that reduce Fehling's solution (to red Cu₂O) and Tollen's reagent (to silver mirror). Examples: ALL monosaccharides (glucose, fructose, galactose) and disaccharides like Maltose and Lactose. Non-Reducing Sugars: Reducing groups (anomeric carbons) of both monosaccharide units are linked in glycosidic bond. Example: Sucrose (cane sugar).",
+      "hint": "Sucrose is non-reducing; maltose, lactose, and all monosaccharides are reducing."
+    },
+    {
+      "id": "c3",
+      "tag": "imp",
+      "q": "List five chemical reactions that confirm the open-chain structure of D-(+)-Glucose.",
+      "a": "1. Prolonged heating with HI: Gives n-hexane -> proves all 6 carbon atoms form an unbranched straight chain. 2. Reaction with Hydroxylamine (NH₂OH) gives an oxime; with HCN gives cyanohydrin -> proves presence of a carbonyl (>C=O) group. 3. Oxidation with mild Bromine water (Br₂/H₂O): Yields Gluconic acid (monocarboxylic) -> proves carbonyl group is an Aldehyde (-CHO). 4. Acetylation with Acetic anhydride: Yields Glucose Pentaacetate -> proves presence of five hydroxyl (-OH) groups on five different carbons. 5. Oxidation with conc. HNO₃: Yields Saccharic acid (dicarboxylic) -> proves presence of one primary alcohol (-CH₂OH) group.",
+      "hint": "HI -> straight chain; Br₂ water -> -CHO group; Ac₂O -> 5 -OH groups; HNO₃ -> -CH₂OH."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "What are Anomers? Explain α-D-glucopyranose and β-D-glucopyranose.",
+      "a": "Anomers are cyclic diastereomers of a monosaccharide that differ in configuration ONLY at C-1 (the carbonyl carbon, called the Anomeric Carbon): 1. α-D-(+)-glucopyranose: The -OH group at C-1 lies ON THE RIGHT side in Fischer projection (or pointing DOWNWARDS below the ring in Haworth projection). Melting point 419 K, specific rotation +112°. 2. β-D-(+)-glucopyranose: The -OH group at C-1 lies ON THE LEFT side in Fischer projection (pointing UPWARDS above the ring in Haworth projection). Melting point 423 K, specific rotation +19°.",
+      "hint": "Anomers differ only at C-1 (anomeric carbon)."
+    },
+    {
+      "id": "c5",
+      "tag": "imp",
+      "q": "What is Mutarotation? Explain with reference to Glucose.",
+      "a": "The spontaneous change in specific optical rotation of an optically active carbohydrate solution with time until it reaches a constant equilibrium value. When pure crystalline α-D-glucose ([α]D = +112°) or β-D-glucose ([α]D = +19°) is dissolved in water, the specific rotation gradually shifts over time and stabilizes at an equilibrium value of +52.7°. Cause: Dynamic equilibrium established in aqueous solution between α-anomer (36%), open-chain aldehyde form (0.02%), and β-anomer (64%).",
+      "hint": "Equilibrium rotation of D-glucose is +52.7° (36% α + 64% β)."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Explain why Sucrose is called Invert Sugar and why it is a non-reducing sugar.",
+      "a": "Sucrose (C₁₂H₂₂O₁₁) is dextrorotatory ([α]D = +66.5°). Upon acid or enzymatic (invertase) hydrolysis, it produces an equimolar mixture of D-(+)-glucose ([α]D = +52.7°) and D-(-)-fructose ([α]D = -92.4°). Because laevorotation of fructose is greater in magnitude than dextrorotation of glucose, the net resulting hydrolysate is LAEVOROTATORY ([α]D = -39.7°). The sign of rotation 'inverts' from (+) to (-), so the product is called Invert Sugar. Non-reducing because C-1 of α-glucose is glycosidically bonded to C-2 of β-fructose, leaving no free hemiacetal/anomeric OH.",
+      "hint": "Dextro sucrose hydrolyzes to net laevo mixture; C1-C2 glycosidic linkage."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Describe the glycosidic linkage and monomer units in Maltose and Lactose.",
+      "a": "1. Maltose (Malt sugar): Composed of two α-D-glucose units joined by an α-1,4-glycosidic bond (C-1 of first glucose linked to C-4 of second glucose). C-1 of second glucose has a free hemiacetal group; hence maltose is a REDUCING sugar and shows mutarotation. 2. Lactose (Milk sugar): Composed of β-D-galactose and β-D-glucose joined by a β-1,4-glycosidic bond (C-1 of galactose to C-4 of glucose). C-1 of glucose is free; hence lactose is a REDUCING sugar.",
+      "hint": "Maltose = α-1,4 glucose-glucose; Lactose = β-1,4 galactose-glucose."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Distinguish between Amylose and Amylopectin components of Starch.",
+      "a": "Starch is composed of two polysaccharides: 1. Amylose (15-20%): Water-soluble, linear unbranched chain of 200-1000 α-D-glucose units held exclusively by α-1,4-glycosidic bonds. Forms a helical coil that traps iodine molecules to give an intense deep BLUE color. 2. Amylopectin (80-85%): Water-insoluble, highly branched polymer. Main chains linked by α-1,4-glycosidic bonds, with branching points occurring every 20-25 glucose units linked by α-1,6-glycosidic bonds. Gives red-violet color with iodine.",
+      "hint": "Amylose: 15-20%, linear, α-1,4 (blue with I₂); Amylopectin: 80-85%, branched, α-1,4 + α-1,6."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Why can cattle digest Cellulose while humans cannot?",
+      "a": "Cellulose is a linear polymer of β-D-glucose units joined by β-1,4-glycosidic bonds forming extensive intermolecular hydrogen-bonded fibrous bundles. The human gastrointestinal tract lacks the enzyme Cellulase required to hydrolyze β-1,4-glycosidic linkages (humans only produce α-amylase which hydrolyzes α-1,4 bonds). Ruminant animals (cows, cattle) harbor symbiotic microorganisms (bacteria and protozoa) in their rumen that synthesize cellulase, allowing them to digest cellulose.",
+      "hint": "Humans lack cellulase enzyme to hydrolyze β-1,4 glycosidic bonds."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "What is Glycogen? Why is it called 'animal starch'?",
+      "a": "Glycogen is the primary storage polysaccharide of carbohydrates in animals and humans, stored mainly in the liver and skeletal muscles. Structurally, it resembles amylopectin but is MUCH MORE HIGHLY BRANCHED (branching occurs every 8 to 12 glucose units via α-1,6-glycosidic bonds, while straight chain is α-1,4). When the body requires glucose, the enzyme glycogen phosphorylase rapidly breaks down glycogen into glucose.",
+      "hint": "Stored in liver/muscles; more highly branched than amylopectin."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Define α-Amino Acids, Zwitterion, and Isoelectric Point (pI).",
+      "a": "α-Amino acids contain an amino (-NH₂) and carboxylic acid (-COOH) group attached to the same α-carbon: R-CH(NH₂)-COOH. Zwitterion (dipolar ion): In aqueous solution, acidic -COOH loses a proton and basic -NH₂ accepts it, forming an internal dipolar ion: R-CH(NH₃⁺)-COO⁻ having zero net electrical charge. Isoelectric Point (pI): The specific pH at which the amino acid exists predominantly as a neutral Zwitterion and does NOT migrate towards either cathode or anode in an electric field. (At pI, solubility is minimum).",
+      "hint": "Zwitterion has both + and - charges; no net migration at isoelectric point."
+    },
+    {
+      "id": "c12",
+      "tag": "imp",
+      "q": "Which amino acid is optically inactive and why? Name two essential amino acids.",
+      "a": "Glycine (H₂N-CH₂-COOH) is the ONLY optically inactive amino acid among the 20 standard proteinogenic amino acids because its α-carbon is bonded to two identical hydrogen atoms (lacks a chiral carbon center). All other 19 amino acids are chiral and exist in L-configuration. Essential amino acids cannot be synthesized by the human body and must be supplied in diet: Valine, Leucine, Isoleucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan.",
+      "hint": "Glycine is the only achiral amino acid (R = H)."
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "What is a Peptide Linkage (Peptide Bond)? Show its formation between two amino acids.",
+      "a": "A covalent amide linkage (-CO-NH-) formed between the carboxyl group (-COOH) of one α-amino acid and the amino group (-NH₂) of another, with elimination of a water molecule: H₂N-CH(R₁)-COOH + H₂N-CH(R₂)-COOH -> H₂N-CH(R₁)-CO-NH-CH(R₂)-COOH (Dipeptide) + H₂O. The peptide bond has partial double bond character due to resonance with the nitrogen lone pair, making it planar and rigid.",
+      "hint": "Peptide bond is an amide linkage (-CO-NH-) with partial double bond character."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Explain Primary, Secondary, Tertiary, and Quaternary structures of proteins.",
+      "a": "1. Primary: Specific linear sequence of amino acids linked by peptide bonds (covalent). 2. Secondary: Regular local folding of polypeptide backbone stabilized by Hydrogen bonds: α-Helix (right-handed spiral, intramolecular H-bonds between C=O of residue n and N-H of residue n+4) and β-Pleated Sheet (parallel or anti-parallel strands held by intermolecular H-bonds, e.g., fibroin in silk). 3. Tertiary: Overall 3D folding of polypeptide chain stabilized by disulfide bonds (-S-S-), hydrogen bonds, hydrophobic interactions, and ionic salt bridges (Fibrous vs Globular). 4. Quaternary: Spatial arrangement of two or more polypeptide subunits (e.g., Hemoglobin has 4 subunits: 2α + 2β).",
+      "hint": "Primary = sequence; Secondary = α-helix/β-sheet; Tertiary = 3D shape; Quaternary = multi-subunit."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Distinguish between Fibrous and Globular Proteins with examples.",
+      "a": "1. Fibrous Proteins: Polypeptide chains run parallel and form long fiber-like structures held by strong intermolecular H-bonds and disulfide bonds; insoluble in water; tough and flexible. Examples: Keratin (hair, wool, nails), Collagen (tendons, skin), Myosin (muscles), Fibroin (silk). 2. Globular Proteins: Polypeptide chains fold upon themselves into spherical/globular shapes with hydrophobic residues inside and hydrophilic residues outside; soluble in water. Examples: Insulin, Hemoglobin, Albumin, Enzymes, Antibodies.",
+      "hint": "Fibrous: insoluble, structural (keratin); Globular: soluble, functional (insulin, enzymes)."
+    },
+    {
+      "id": "c16",
+      "tag": "imp",
+      "q": "What is Denaturation of Proteins? What structures are disrupted and what happens to entropy?",
+      "a": "When a native protein is subjected to physical change (heat, UV rays) or chemical change (pH variation, salts, urea), the hydrogen bonds, hydrophobic interactions, and ionic attractions are disrupted. The globules unfold and helical coils uncoil, causing the protein to lose its biological activity. Disrupted: Secondary and Tertiary structures are completely destroyed. Unaffected: PRIMARY structure (covalent peptide bonds) remains completely intact! Thermodynamic trap: Denaturation causes entropy to INCREASE (ΔS > 0) due to uncoiling into random conformations. Examples: Coagulation of egg white on boiling; curdling of milk.",
+      "hint": "Primary structure remains intact during denaturation; entropy increases (ΔS > 0)."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Distinguish between DNA and RNA across: sugar, nitrogenous bases, structure, and function.",
+      "a": "1. Pentose Sugar: DNA contains β-D-2-deoxyribose (lacks oxygen at C-2'); RNA contains β-D-ribose (has -OH at C-2'). 2. Nitrogenous Bases: DNA has Adenine (A), Guanine (G), Cytosine (C), and Thymine (T); RNA has Adenine (A), Guanine (G), Cytosine (C), and Uracil (U) (Uracil replaces Thymine). 3. Structure: DNA is double-stranded complementary helix; RNA is single-stranded (mRNA, tRNA, rRNA). 4. Function: DNA stores genetic information; RNA synthesizes proteins.",
+      "hint": "DNA has Thymine and 2-deoxyribose; RNA has Uracil and Ribose."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Distinguish between a Nucleoside and a Nucleotide. What is the Phosphodiester linkage?",
+      "a": "1. Nucleoside: Base + Pentose Sugar. Nitrogenous base is linked to C-1' of pentose sugar via N-glycosidic linkage (e.g., Adenosine, Deoxythymidine). 2. Nucleotide: Base + Sugar + Phosphate group. Formed when phosphate group esterifies the -OH group at C-5' of pentose sugar (e.g., AMP, dATP). Nucleotides are monomers of nucleic acids. 3. Phosphodiester linkage: Adjacent nucleotides are joined between C-3' of one pentose sugar and C-5' of the next sugar by a 3',5'-phosphodiester bond to build nucleic acid chain.",
+      "hint": "Nucleoside = Base + Sugar; Nucleotide = Base + Sugar + Phosphate."
+    },
+    {
+      "id": "c19",
+      "tag": "imp",
+      "q": "Describe the Watson-Crick Double Helix Model of DNA and Chargaff's Rule.",
+      "a": "Watson and Crick (1953) model: DNA consists of two polynucleotide strands running in antiparallel directions (5' -> 3' and 3' -> 5') coiled around a central axis in a right-handed double helix. Bases point inward, paired by Hydrogen bonds: Adenine pairs with Thymine via TWO hydrogen bonds (A=T); Guanine pairs with Cytosine via THREE hydrogen bonds (G≡C). Pitch of helix = 3.4 nm (10 base pairs per turn, 0.34 nm between adjacent pairs). Chargaff's Rule: In double-stranded DNA, molar ratio of Adenine equals Thymine (A = T), and Guanine equals Cytosine (G = C); hence [A + G] = [T + C] (Purines = Pyrimidines).",
+      "hint": "A=T (2 H-bonds); G≡C (3 H-bonds); Chargaff: Total Purines = Total Pyrimidines."
+    },
+    {
+      "id": "c20",
+      "tag": "formula",
+      "q": "A sample of double-stranded DNA contains 28% Cytosine. Calculate the percentages of Adenine, Guanine, and Thymine.",
+      "a": "According to Chargaff's rule: % Guanine = % Cytosine = 28%. Total (G + C) = 28% + 28% = 56%. Remaining percentage for (A + T) = 100% - 56% = 44%. Since % Adenine = % Thymine: % Adenine = 44% / 2 = 22%, and % Thymine = 22%.",
+      "hint": "Use Chargaff's rule: %G = %C, and %A = %T = (100 - %G - %C) / 2."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "What are Enzymes? State two unique characteristics of enzyme action.",
+      "a": "Enzymes are biocatalysts, almost all of which are globular proteins (except ribozymes, which are RNA). Characteristics: 1. Extreme Catalytic Efficiency: Enzymes increase reaction rates by a factor of 10⁶ to 10²⁰ by dramatically lowering the activation energy (Ea). A single enzyme molecule can transform millions of substrate molecules per minute. 2. High Specificity: Each enzyme acts on a specific substrate and catalyzes a specific chemical reaction (Lock and Key / Induced Fit mechanism). Highly sensitive to optimum temperature (~37°C) and pH (~7.4).",
+      "hint": "Enzymes are highly specific biocatalysts that operate at optimum pH and temperature."
+    },
+    {
+      "id": "c22",
+      "tag": "imp",
+      "q": "Classify Vitamins into Water-Soluble and Fat-Soluble with examples and deficiency diseases.",
+      "a": "1. Water-Soluble Vitamins: Vitamin B-complex (B₁, B₂, B₆, B₁₂, folic acid) and Vitamin C (ascorbic acid). Excreted regularly in urine, cannot be stored in body (except B₁₂ stored in liver), require continuous daily dietary supply. Deficiencies: Vitamin C -> Scurvy (bleeding gums); Vitamin B₁ (thiamine) -> Beriberi; Vitamin B₁₂ -> Pernicious anemia. 2. Fat-Soluble Vitamins: Vitamins A, D, E, K. Soluble in fats and oils, stored in liver and adipose tissue; excess intake causes hypervitaminosis. Deficiencies: Vitamin A -> Night blindness, Xerophthalmia; Vitamin D -> Rickets (children), Osteomalacia; Vitamin K -> Defective blood clotting (increased bleeding time).",
+      "hint": "Water-soluble: B & C (not stored); Fat-soluble: A, D, E, K (stored in liver)."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "What is Central Dogma of Molecular Biology? Define Replication, Transcription, and Translation.",
+      "a": "Central Dogma (proposed by Francis Crick): Genetic information flows unidirectionally from DNA -> RNA -> Protein: 1. Replication: Synthesis of an identical replica of DNA from parent DNA template catalyzed by DNA polymerase. 2. Transcription: Synthesis of messenger RNA (mRNA) from DNA template strand catalyzed by RNA polymerase in the nucleus. 3. Translation: Synthesis of a specific polypeptide chain (protein) on ribosomes directed by the genetic codon sequence of mRNA with aminoacyl-tRNA.",
+      "hint": "Flow: DNA -> (transcription) -> mRNA -> (translation) -> Protein."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "What is the D- and L-notation for Monosaccharides and Amino Acids?",
+      "a": "Based on reference standard D-Glyceraldehyde: 1. Monosaccharides: Determined by the configuration of the highest-numbered chiral carbon (penultimate carbon, C-5 in aldohexoses). If the -OH group lies on the RIGHT in Fischer projection -> D-sugar; if on the LEFT -> L-sugar. Natural sugars are predominantly D-sugars. 2. Amino Acids: Determined by position of -NH₂ group on α-carbon. If -NH₂ is on the LEFT -> L-amino acid; if on the RIGHT -> D-amino acid. Natural proteinogenic amino acids are almost exclusively L-amino acids.",
+      "hint": "Natural sugars are mostly D; natural amino acids are almost all L."
+    },
+    {
+      "id": "c25",
+      "tag": "formula",
+      "q": "Why does D-Glucose NOT give Schiff's test, 2,4-DNP test, or form bisulfite addition compound despite having -CHO group?",
+      "a": "Because glucose exists predominantly in cyclic hemiacetal forms (α-D-glucopyranose and β-D-glucopyranose, >99.9%) where the aldehyde carbonyl carbon is engaged in an internal hemiacetal ring with C-5 hydroxyl group. The concentration of open-chain free aldehyde form in aqueous solution is extremely small (~0.02%), which is insufficient to react with weak nucleophiles/reagents like Schiff's reagent, 2,4-DNP, or sodium bisulfite (NaHSO₃). (Stronger oxidizing agents like Tollen's and Fehling's pull the open-chain equilibrium to completion).",
+      "hint": "Glucose exists >99.9% as cyclic pyranose hemiacetal; open -CHO is only ~0.02%."
+    }
+  ]
+}

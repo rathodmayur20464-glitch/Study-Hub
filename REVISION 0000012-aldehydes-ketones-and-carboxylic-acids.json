@@ -1,0 +1,183 @@
+{
+  "title": "Aldehydes, Ketones and Carboxylic Acids",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Describe Rosenmund Reduction for synthesis of aldehydes. Why is BaSO₄ poisoned with sulfur or quinoline?",
+      "a": "Acyl chloride (acid chloride) is hydrogenated with H₂ gas in boiling xylene in presence of Palladium catalyst supported on Barium sulfate: R-COCl + H₂ -(Pd/BaSO₄, quinoline/S)-> R-CHO + HCl. BaSO₄ and quinoline act as a catalyst poison (moderator) that deactivates Palladium just enough to prevent further over-reduction of the aldehyde to a primary alcohol.",
+      "hint": "Pd/BaSO₄ poisoned with sulfur converts -COCl to -CHO."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Explain Stephen Reaction for preparing aldehydes from nitriles.",
+      "a": "Alkyl or aryl nitrile is reduced with stannous chloride (SnCl₂) and concentrated HCl in dry ether to form an aldimine hydrochloride salt, which upon boiling with water (hydrolysis) yields an aldehyde: R-C≡N + 2[H] -(SnCl₂/HCl)-> R-CH=NH.HCl -(H₂O, warm)-> R-CHO + NH₄Cl. Example: Acetonitrile gives Acetaldehyde.",
+      "hint": "SnCl₂ + HCl reduces -C≡N to imine, hydrolyzed to -CHO."
+    },
+    {
+      "id": "c3",
+      "tag": "imp",
+      "q": "Explain Etard Reaction for synthesis of Benzaldehyde from Toluene.",
+      "a": "Toluene is oxidized by Chromyl chloride (CrO₂Cl₂) in dry CS₂ or CCl₄ solvent. A brown insoluble chromium complex is precipitated: C₆H₅CH₃ + 2CrO₂Cl₂ -(CS₂)-> C₆H₅CH(OCrOHCl₂)₂. Subsequent hydrolysis with warm water cleaves the complex to give Benzaldehyde (C₆H₅CHO) in high yield. The chromium complex prevents over-oxidation to benzoic acid.",
+      "hint": "CrO₂Cl₂ in CS₂ converts toluene to benzaldehyde."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Explain Gattermann-Koch Reaction for synthesis of Benzaldehyde.",
+      "a": "Benzene is treated with a mixture of Carbon monoxide (CO) and Hydrogen chloride (HCl) gas at high pressure in the presence of anhydrous Aluminium chloride (AlCl₃) and trace Cuprous chloride (CuCl) catalyst: C₆H₆ + CO + HCl -(anh. AlCl₃/CuCl)-> C₆H₅CHO + HCl. Electrophile generated is formyl cation [HCO⁺].",
+      "hint": "Benzene + CO + HCl -(AlCl₃)-> Benzaldehyde."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Explain Aldol Condensation with mechanism and example (Acetaldehyde).",
+      "a": "Aldehydes or ketones containing at least one α-hydrogen undergo condensation in presence of dilute base (dil. NaOH or Ba(OH)₂): 2CH₃CHO -(dil. NaOH)-> CH₃-CH(OH)-CH₂-CHO (3-hydroxybutanal, an 'aldol'). On heating, aldol readily loses water (dehydration) to give an α,β-unsaturated aldehyde: CH₃-CH=CH-CHO (But-2-enal / Crotonaldehyde). Mechanism: 1. Base removes α-H forming enolate carbanion. 2. Enolate nucleophilically attacks carbonyl carbon of 2nd molecule.",
+      "hint": "Requires α-hydrogen; product is an α,β-unsaturated carbonyl compound."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Explain Cross-Aldol Condensation. How many products are obtained from acetaldehyde + propanal?",
+      "a": "Condensation between two different carbonyl compounds both possessing α-hydrogens. Reaction of acetaldehyde (CH₃CHO) and propanal (CH₃CH₂CHO) yields FOUR aldol products: 1. Self-aldol of ethanal: But-2-enal. 2. Self-aldol of propanal: 2-methylpent-2-enal. 3. Cross-aldol (ethanal enolate + propanal): Pent-2-enal. 4. Cross-aldol (propanal enolate + ethanal): 2-methylbut-2-enal.",
+      "hint": "Two different aldehydes with α-H give 4 condensation products."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Explain Cannizzaro Reaction with an example. What is Cross-Cannizzaro?",
+      "a": "Aldehydes with NO α-hydrogen undergo self-oxidation and reduction (disproportionation) when treated with concentrated alkali (50% NaOH): 2HCHO -(50% NaOH)-> CH₃OH (methanol, reduced) + HCOONa (sodium formate, oxidized). 2C₆H₅CHO -(50% NaOH)-> C₆H₅CH₂OH (benzyl alcohol) + C₆H₅COONa (sodium benzoate). Cross-Cannizzaro: Between HCHO and benzaldehyde: HCHO is more reactive and oxidizes exclusively to formate, reducing benzaldehyde to benzyl alcohol: C₆H₅CHO + HCHO + NaOH -> C₆H₅CH₂OH + HCOONa.",
+      "hint": "Aldehydes lacking α-H disproportionate: one molecule oxidizes, one reduces."
+    },
+    {
+      "id": "c8",
+      "tag": "imp",
+      "q": "Compare Clemmensen Reduction and Wolff-Kishner Reduction for reducing carbonyl (>C=O) to methylene (>CH₂).",
+      "a": "Both convert >C=O to >CH₂ (hydrocarbons): 1. Clemmensen Reduction: Reagent is Zinc amalgam and concentrated HCl (Zn-Hg / conc. HCl). Acid-sensitive substrates cannot be used; ideal for base-sensitive molecules: R-CO-R' + 4[H] -(Zn-Hg/HCl)-> R-CH₂-R' + H₂O. 2. Wolff-Kishner Reduction: Carbonyl is heated with hydrazine (NH₂NH₂) to form hydrazone, then heated with KOH in ethylene glycol (453-473 K): R-CO-R' + NH₂NH₂ -> R-C(=NNH₂)-R' -(KOH/glycol, heat)-> R-CH₂-R' + N₂(g). Ideal for acid-sensitive molecules.",
+      "hint": "Clemmensen uses acid (Zn-Hg/HCl); Wolff-Kishner uses base (NH₂NH₂/KOH/glycol)."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Describe Tollen's Test (Silver Mirror Test). Which compounds give positive test?",
+      "a": "Reagent: Ammoniacal silver nitrate solution [Ag(NH₃)₂]⁺ OH⁻ (prepared from AgNO₃ + NH₄OH). Aldehyde is warmed with Tollen's reagent; aldehyde oxidizes to carboxylate ion while Ag⁺ is reduced to metallic silver, depositing as a brilliant shiny 'silver mirror' on inner test tube walls: R-CHO + 2[Ag(NH₃)₂]⁺ + 3OH⁻ -> R-COO⁻ + 2Ag(s) (mirror) + 4NH₃ + 2H₂O. Positive for: ALL aldehydes (both aliphatic and aromatic) and Formic acid (HCOOH). Ketones do NOT react.",
+      "hint": "Both aliphatic and aromatic aldehydes give silver mirror; ketones do not."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "Describe Fehling's Test. Why doesn't Benzaldehyde reduce Fehling's solution?",
+      "a": "Fehling's reagent: Equimolar mixture of Fehling A (aqueous CuSO₄) and Fehling B (alkaline sodium potassium tartrate / Rochelle salt). Aldehyde is boiled with Fehling's solution; Cu²⁺ is reduced to Cu⁺, forming a characteristic red precipitate of cuprous oxide (Cu₂O): R-CHO + 2Cu²⁺ + 5OH⁻ -> R-COO⁻ + Cu₂O(s) (red) + 3H₂O. Positive test is given by Aliphatic aldehydes. Benzaldehyde (aromatic aldehydes) fails to reduce Fehling's solution because resonance with benzene ring stabilizes carbonyl carbon, making it a weaker reducing agent.",
+      "hint": "Aliphatic aldehydes give red Cu₂O ppt; aromatic aldehydes (benzaldehyde) do NOT."
+    },
+    {
+      "id": "c11",
+      "tag": "formula",
+      "q": "What is Brady's Reagent? Write the reaction with acetone.",
+      "a": "Brady's Reagent: 2,4-Dinitrophenylhydrazine (2,4-DNP) in methanol and acid. Carbonyl compounds react with 2,4-DNP to form brightly colored yellow, orange, or red crystalline precipitate of 2,4-dinitrophenylhydrazone: (CH₃)₂C=O + H₂N-NH-C₆H₃(NO₂)₂ -(H⁺)-> (CH₃)₂C=N-NH-C₆H₃(NO₂)₂ (yellow/orange crystals) + H₂O. Confirmatory qualitative test for presence of carbonyl (>C=O) group in aldehydes and ketones.",
+      "hint": "2,4-DNP forms yellow/orange-red crystalline hydrazones with >C=O."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Why are Aldehydes generally more reactive than Ketones towards Nucleophilic Addition?",
+      "a": "1. Electronic factor: In ketones, two electron-donating alkyl groups (+I effect) reduce the electrophilic character (partial positive charge δ+) on carbonyl carbon much more than in aldehydes (which have only one alkyl group or none). 2. Steric factor: Ketones have two bulky alkyl groups attached to carbonyl carbon, creating steric crowding that hinders the trajectory of the attacking nucleophile in the transition state. Order: HCHO > R-CHO > R-CO-R.",
+      "hint": "+I effect and steric hindrance make ketones less reactive than aldehydes."
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "Explain nucleophilic addition of HCN to carbonyl compounds. Why is base catalyst required?",
+      "a": "Pure HCN is a very weak acid and dissociates poorly. A base catalyst (OH⁻) removes H⁺ from HCN to generate strong nucleophile cyanide ion (:CN⁻): HCN + OH⁻ <=> :CN⁻ + H₂O. Cyanide ion nucleophilically attacks carbonyl carbon to form a tetrahedral alkoxide intermediate, which protonates to yield a Cyanohydrin: >C=O + :CN⁻ -> >C(O⁻)-CN -(H⁺)-> >C(OH)-CN. Cyanohydrins are synthetically versatile: hydrolysis yields α-hydroxy acids (e.g., lactic acid).",
+      "hint": "Base generates the strong :CN⁻ nucleophile; product is a cyanohydrin."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Explain addition of Sodium Bisulfite (NaHSO₃) to aldehydes and ketones. What is its use in purification?",
+      "a": "Aldehydes and methyl ketones react with saturated aqueous NaHSO₃ to form white crystalline Bisulfite Addition Compounds: >C=O + NaHSO₃ <=> >C(OH)(SO₃⁻Na⁺). The nucleophile is the sulfite lone pair on sulfur. Purification application: The crystalline solid can be filtered, washed, and then decomposed with dilute mineral acid (HCl) or alkali (Na₂CO₃) to regenerate the pure aldehyde/ketone, separating it from non-carbonyl impurities.",
+      "hint": "Bisulfite adducts are crystalline solids used to purify aldehydes and methyl ketones."
+    },
+    {
+      "id": "c15",
+      "tag": "formula",
+      "q": "Explain the formation of Hemiacetals and Acetals from aldehydes with dry HCl gas.",
+      "a": "Aldehyde reacts with one molecule of anhydrous monohydric alcohol in presence of dry HCl gas to form an unstable intermediate Hemiacetal (alkoxy alcohol): R-CHO + R'OH -(dry HCl)-> R-CH(OH)(OR'). Hemiacetal reacts with second molecule of alcohol to form a stable gem-dialkoxy compound called an Acetal: R-CH(OH)(OR') + R'OH -(dry HCl)-> R-CH(OR')₂ + H₂O. Ketones react similarly with ethylene glycol to form cyclic Ketals.",
+      "hint": "Acetals protect carbonyl groups from oxidation and basic reagents."
+    },
+    {
+      "id": "c16",
+      "tag": "imp",
+      "q": "Why are Carboxylic Acids stronger acids than Phenols and Alcohols?",
+      "a": "Carboxylic acids (pKa ~ 4-5) are far more acidic than phenols (pKa ~ 10) and alcohols (pKa ~ 16). Reasons: In carboxylate ion (R-COO⁻), negative charge is completely delocalized across TWO highly electronegative OXYGEN atoms in two equivalent resonance structures. In phenoxide ion, negative charge is delocalized over less electronegative carbon atoms in non-equivalent structures. Alkoxide ions have localized negative charge with +I destabilization.",
+      "hint": "Carboxylate ion has 2 equivalent resonance structures sharing charge over 2 oxygen atoms."
+    },
+    {
+      "id": "c17",
+      "tag": "imp",
+      "q": "Explain the effect of substituents on acidity of carboxylic acids: -I vs +I.",
+      "a": "1. Electron-withdrawing groups (-NO₂, -CN, -F, -Cl via -I effect): Stabilize carboxylate anion by dispersing negative charge, increasing acidity. Order: FCH₂COOH > ClCH₂COOH > BrCH₂COOH > ICH₂COOH. Fluoroacetic acid is strongest due to highest electronegativity. Also: CCl₃COOH > CHCl₂COOH > CH₂ClCOOH > CH₃COOH. 2. Electron-donating groups (alkyl groups via +I effect): Intensify negative charge on carboxylate anion, destabilizing it and decreasing acidity: HCOOH > CH₃COOH > CH₃CH₂COOH.",
+      "hint": "Formic acid (HCOOH) is stronger than acetic acid (CH₃COOH) because CH₃ has +I effect."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "Explain Hell-Volhard-Zelinsky (HVZ) Reaction with chemical equation.",
+      "a": "Carboxylic acids possessing an α-hydrogen react with Chlorine or Bromine in the presence of a catalytic amount of red phosphorus (red P) to give α-halocarboxylic acids: R-CH₂-COOH + X₂ -(red P)-> R-CH(X)-COOH (α-monohalo acid) + HX (where X = Cl, Br). Mechanism proceeds via formation of acid halide intermediate (R-CH₂-COX) which enolizes rapidly to facilitate α-halogenation. Example: CH₃COOH + Cl₂ -(red P)-> ClCH₂COOH (chloroacetic acid).",
+      "hint": "Red P + X₂ halogenates strictly at the α-carbon of carboxylic acids."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Why does Formic Acid (HCOOH) show reducing properties like an aldehyde while Acetic Acid does not?",
+      "a": "Structure of formic acid: H-C(=O)-OH. It contains both a formyl/aldehyde group (H-C=O) and a carboxyl group (-C(=O)-OH). Due to the presence of the aldehydic C-H bond, formic acid acts as a reducing agent: 1. Reduces Tollen's reagent to silver mirror: HCOOH + 2[Ag(NH₃)₂]⁺ + 2OH⁻ -> CO₂ + 2Ag + 4NH₃ + 2H₂O. 2. Reduces Fehling's solution to red Cu₂O. Acetic acid (CH₃COOH) lacks an aldehydic hydrogen and does not show reducing properties.",
+      "hint": "Formic acid contains a formyl group; reduces Tollen's and Fehling's reagents."
+    },
+    {
+      "id": "c20",
+      "tag": "formula",
+      "q": "Explain Decarboxylation of carboxylic acids using Soda Lime.",
+      "a": "Sodium salt of a carboxylic acid is strongly heated with Soda Lime (mixture of NaOH and CaO in 3:1 ratio): R-COONa + NaOH -(CaO, heat)-> R-H (alkane with ONE LESS carbon atom) + Na₂CO₃. Role of CaO: Keeps NaOH dry (hygroscopic) and prevents melting of glass tube by moderating the violent reaction temperature. Example: Sodium acetate gives Methane: CH₃COONa + NaOH -(CaO, heat)-> CH₄ + Na₂CO₃.",
+      "hint": "Soda lime decarboxylation descends chain by removing -COONa as Na₂CO₃."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Explain Kolbe's Electrolytic Decarboxylation for preparing alkanes.",
+      "a": "Aqueous solution of sodium or potassium salt of carboxylic acid is electrolyzed: 2R-COOK + 2H₂O -(electrolysis)-> R-R + 2CO₂ + H₂ + 2KOH. Anode reaction (oxidation): 2R-COO⁻ -> 2R-COO• + 2e⁻ -> 2R• + 2CO₂; R• + R• -> R-R (alkane). Cathode reaction (reduction): 2H₂O + 2e⁻ -> H₂ + 2OH⁻. Methane CANNOT be prepared by this method (alkane produced has at least 2 carbons).",
+      "hint": "Alkane + CO₂ formed at Anode; H₂ + KOH at Cathode."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Why do carboxylic acids have higher boiling points than alcohols of similar molar mass? What is Dimerization?",
+      "a": "Carboxylic acids form stronger intermolecular hydrogen bonds than alcohols. In liquid state and even in vapor phase (or non-polar solvents like benzene), two carboxylic acid molecules associate through two hydrogen bonds to form a stable 8-membered cyclic Dimer: R-C(=O...H-O)-C(=O...H-O)-R. Consequently, their apparent molecular weight doubles, and substantially higher energy is required to vaporize them (Ethanoic acid BP = 118°C vs propan-1-ol BP = 97°C).",
+      "hint": "Carboxylic acids form cyclic dimers via two hydrogen bonds."
+    },
+    {
+      "id": "c23",
+      "tag": "formula",
+      "q": "How to convert Benzoic Acid into: 1. Benzoyl chloride, 2. Benzamide, 3. Benzyl alcohol?",
+      "a": "1. Benzoyl chloride: C₆H₅COOH + SOCl₂ -(heat)-> C₆H₅COCl + SO₂ + HCl. 2. Benzamide: C₆H₅COOH + NH₃ -> C₆H₅COONH₄ -(heat)-> C₆H₅CONH₂ + H₂O. 3. Benzyl alcohol: C₆H₅COOH + LiAlH₄ -(dry ether)-> C₆H₅CH₂OH (NaBH₄ cannot reduce carboxylic acids!).",
+      "hint": "LiAlH₄ reduces -COOH to -CH₂OH; NaBH₄ fails to reduce carboxylic acids."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "What is the difference in action of heat on Dicarboxylic acids: Oxalic, Malonic, and Succinic acids?",
+      "a": "1. Oxalic acid (HOOC-COOH): Heat with conc. H₂SO₄ gives CO + CO₂ + H₂O (or gentle heat gives HCOOH + CO₂). 2. Malonic acid (HOOC-CH₂-COOH, 1,3-dicarboxylic): Heating to 420 K causes decarboxylation to give Monocarboxylic acid: CH₃COOH + CO₂. 3. Succinic acid (HOOC-CH₂-CH₂-COOH, 1,4-dicarboxylic): Heating causes dehydration to form cyclic Succinic Anhydride: (CH₂CO)₂O + H₂O.",
+      "hint": "Malonic acid loses CO₂ (decarboxylates); Succinic acid loses H₂O (forms cyclic anhydride)."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "How does Benzaldehyde react with: 1. Tollen's reagent, 2. Fehling's solution, 3. Alcoholic KCN (Benzoin condensation)?",
+      "a": "1. Tollen's reagent: Gives positive silver mirror test (C₆H₅CHO + 2[Ag(NH₃)₂]⁺ -> C₆H₅COO⁻ + 2Ag). 2. Fehling's solution: NEGATIVE (fails to reduce Fehling's solution, no red precipitate). 3. Alcoholic KCN (Benzoin Condensation): Two molecules of benzaldehyde condense on boiling with alcoholic KCN to form Benzoin (α-hydroxy ketone): 2C₆H₅CHO -(alc. KCN, boil)-> C₆H₅-CH(OH)-CO-C₆H₅ (Benzoin).",
+      "hint": "Benzoin condensation is catalyzed by cyanide ion (:CN⁻)."
+    }
+  ]
+}

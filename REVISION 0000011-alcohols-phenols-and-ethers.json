@@ -1,0 +1,183 @@
+{
+  "title": "Alcohols, Phenols and Ethers",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Explain Hydroboration-Oxidation of alkenes to prepare alcohols. Why is it stereospecific?",
+      "a": "Alkene reacts with diborane (B₂H₆ / THF) followed by alkaline oxidation with hydrogen peroxide (H₂O₂ / OH⁻): 6R-CH=CH₂ + B₂H₆ -> 2(R-CH₂-CH₂)₃B -(3H₂O₂, OH⁻)-> 6R-CH₂-CH₂OH + 2H₃BO₃. Net outcome: Anti-Markovnikov addition of water across the double bond (OH attaches to less substituted carbon). Stereospecific: Syn-addition of H and OH occurs from the same face without any carbocation rearrangement.",
+      "hint": "Yields Anti-Markovnikov alcohol without rearrangement (propene -> propan-1-ol)."
+    },
+    {
+      "id": "c2",
+      "tag": "imp",
+      "q": "Explain Cumene Process (commercial preparation of Phenol). What valuable byproduct is formed?",
+      "a": "Step 1: Cumene (isopropylbenzene, from benzene + propene via Friedel-Crafts) is oxidized by air/O₂ in presence of cobalt naphthenate catalyst at 423 K to form Cumene Hydroperoxide: C₆H₅-CH(CH₃)₂ + O₂ -> C₆H₅-C(CH₃)₂-O-OH. Step 2: Cumene hydroperoxide is treated with dilute H₂SO₄, undergoing acid-catalyzed rearrangement to give Phenol (C₆H₅OH) and Acetone (CH₃COCH₃) as an equimolar, highly profitable commercial byproduct.",
+      "hint": "Valuable byproduct is Acetone (propan-2-one)."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Explain Dow's Process and preparation of Phenol from Benzene Diazonium Chloride.",
+      "a": "1. Dow's Process: Chlorobenzene is heated with 6-8% aqueous NaOH at 623 K and 300 atm pressure to form sodium phenoxide, followed by acidification with dil. HCl to give Phenol: C₆H₅Cl + 2NaOH -> C₆H₅ONa + NaCl + H₂O -(HCl)-> C₆H₅OH. 2. From Diazonium salt: Aniline is diazotized (NaNO₂ + HCl, 273-278 K) to form Benzene Diazonium Chloride (C₆H₅N₂⁺Cl⁻). On warming with water / dil. H₂SO₄: C₆H₅N₂⁺Cl⁻ + H₂O -(warm)-> C₆H₅OH + N₂(g) + HCl.",
+      "hint": "Diazonium route gives high-purity phenol in the laboratory."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Why is Phenol more acidic than Alcohols and Water? Order of acidity.",
+      "a": "Acidity order: Carboxylic acids > Phenol > Water > Alcohols. Reasons: 1. In phenol, -OH group is bonded to sp² carbon with high electronegativity, increasing O-H polarity. 2. Conjugate base of phenol (Phenoxide ion, C₆H₅O⁻) is stabilized by resonance across benzene ring (negative charge delocalized over ortho and para positions). In contrast, alkoxide ion (RO⁻) has negative charge localized on oxygen and is destabilized by +I electron-donating alkyl group.",
+      "hint": "Resonance stabilization of phenoxide ion makes phenol acidic (pKa ~ 10)."
+    },
+    {
+      "id": "c5",
+      "tag": "imp",
+      "q": "Explain effect of substituents on acidity of Phenol: -NO₂ vs -CH₃.",
+      "a": "1. Electron-withdrawing groups (-NO₂, -CN, -X): Increase acidity by dispersing negative charge of phenoxide ion through -M and -I effects. Ortho and para positions exert strongest effect. 2,4,6-Trinitrophenol (Picric acid, pKa 0.38) is stronger than most mineral acids! 2. Electron-donating groups (-CH₃, -OCH₃, -NH₂): Decrease acidity by intensifying negative charge via +I / +M effects. Order: Picric acid > 2,4-dinitrophenol > 4-nitrophenol > Phenol > m-cresol > p-cresol.",
+      "hint": "Picric acid is 2,4,6-trinitrophenol; extremely acidic despite lacking -COOH group."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Describe Lucas Test to distinguish 1°, 2°, and 3° alcohols.",
+      "a": "Reagent: Equimolar mixture of concentrated HCl and anhydrous ZnCl₂ (Lucas Reagent). Alcohol reacts to form insoluble alkyl chloride (turbidity): R-OH + HCl -(anh. ZnCl₂)-> R-Cl + H₂O. 1. Tertiary (3°) alcohol: Immediate turbidity/cloudiness appears within seconds (forms stable 3° carbocation). 2. Secondary (2°) alcohol: Turbidity appears after 5 to 10 minutes. 3. Primary (1°) alcohol: Solution remains clear at room temperature; turbidity appears only upon prolonged heating.",
+      "hint": "3° alcohol = immediate cloudiness; 1° alcohol = no cloudiness at room temperature."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "What products are obtained when 1°, 2°, and 3° alcohols undergo catalytic dehydrogenation with hot Copper (Cu at 573 K)?",
+      "a": "1. Primary (1°) alcohol: Undergoes dehydrogenation to form an Aldehyde: R-CH₂OH -(Cu, 573 K)-> R-CHO + H₂. 2. Secondary (2°) alcohol: Undergoes dehydrogenation to form a Ketone: R-CH(OH)-R' -(Cu, 573 K)-> R-CO-R' + H₂. 3. Tertiary (3°) alcohol: Has NO α-hydrogen; instead of dehydrogenation, it undergoes DEHYDRATION to yield an Alkene: (CH₃)₃C-OH -(Cu, 573 K)-> (CH₃)₂C=CH₂ (2-methylpropene) + H₂O.",
+      "hint": "3° alcohol gives ALKENE by dehydration (no α-H for dehydrogenation)."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Explain Kolbe's Reaction (Kolbe-Schmitt reaction) with chemical equation.",
+      "a": "Sodium phenoxide is heated with Carbon dioxide (CO₂) gas under pressure (4-7 atm) at 400 K, followed by acidification with dil. HCl: C₆H₅ONa + CO₂ -(400 K, 4-7 atm)-> Sodium salicylate -(HCl)-> Salicylic acid (2-hydroxybenzoic acid). Electrophile is neutral CO₂. Salicylic acid is the starting precursor for Aspirin (acetylsalicylic acid) and Methyl salicylate (oil of wintergreen).",
+      "hint": "Synthesizes Salicylic acid; precursor for Aspirin."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Explain Reimer-Tiemann Reaction. What is the active intermediate electrophile?",
+      "a": "Phenol is refluxed with Chloroform (CHCl₃) and aqueous NaOH at 340 K, followed by acidification: C₆H₅OH + CHCl₃ + 3NaOH -(340 K)-> Sodium salicylaldehyde intermediate -(HCl)-> Salicylaldehyde (2-hydroxybenzaldehyde, major) + minor p-isomer. Active intermediate electrophile: Dichlorocarbene (:CCl₂), a neutral singlet carbene formed by α-elimination of HCl from CHCl₃ by base: CHCl₃ + OH⁻ -> :CCl₂ + Cl⁻ + H₂O.",
+      "hint": "Electrophile is Dichlorocarbene (:CCl₂); product is Salicylaldehyde."
+    },
+    {
+      "id": "c10",
+      "tag": "imp",
+      "q": "How does Phenol react with: 1. Bromine water, 2. Bromine in CS₂ (non-polar solvent)?",
+      "a": "1. In aqueous medium (Bromine water): Water is a polar protic solvent that ionizes phenol into phenoxide ion, highly activating the benzene ring. Tribromination occurs instantly to give a white precipitate of 2,4,6-tribromophenol: C₆H₅OH + 3Br₂ -(H₂O)-> 2,4,6-tribromophenol(s) + 3HBr. 2. In non-polar solvent (Br₂ in CS₂ or CHCl₃ at 273 K): Phenol does not ionize; ring activation is moderate, yielding mono-bromophenol: 4-bromophenol (p-isomer, major) + 2-bromophenol (o-isomer, minor).",
+      "hint": "Br₂/H₂O -> 2,4,6-tribromophenol (white ppt); Br₂/CS₂ -> p-bromophenol (mono)."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "How does Phenol react with: 1. Dilute HNO₃, 2. Concentrated HNO₃ + H₂SO₄? How are ortho and para nitrophenols separated?",
+      "a": "1. Dilute HNO₃ (at 298 K): Yields mixture of o-nitrophenol and p-nitrophenol. Separation: Steam Distillation. o-Nitrophenol has intramolecular H-bonding (chelation), forms compact discrete molecules, is steam-volatile. p-Nitrophenol has intermolecular H-bonding, undergoes association, has higher boiling point, is non-steam-volatile. 2. Concentrated HNO₃ in conc. H₂SO₄: Extensive nitration gives 2,4,6-Trinitrophenol (Picric acid) in poor yield (better prepared via chlorobenzene sulfonation).",
+      "hint": "o-Nitrophenol is steam volatile due to INTRAmolecular H-bonding."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "What happens when Phenol is: 1. Heated with Zinc dust, 2. Oxidized by acidified Na₂Cr₂O₇?",
+      "a": "1. Reduction with Zinc dust: Phenol is deoxygenated to Benzene: C₆H₅OH + Zn -(heat)-> C₆H₆ (benzene) + ZnO. 2. Oxidation with acidified Na₂Cr₂O₇ (or chromic acid): Phenol undergoes oxidation to form a conjugated diketone: Benzoquinone (p-benzoquinone, yellow crystals): C₆H₅OH + [O] -(Na₂Cr₂O₇/H₂SO₄)-> p-benzoquinone + H₂O. (In air, phenol slowly oxidizes to quinone which couples with phenol to form pink phenoquinone).",
+      "hint": "Phenol + Zn dust -> Benzene; Phenol + chromic acid -> p-benzoquinone."
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "Explain Williamson Ether Synthesis. What are the essential limitations for choosing reactants?",
+      "a": "Reaction: Alkyl halide is heated with Sodium alkoxide/phenoxide: R-X + R'-ONa -> R-O-R' + NaX. Mechanism: SN2 displacement of halide ion by alkoxide nucleophile. Limitations: 1. Alkyl halide R-X MUST be PRIMARY (1°). 2. If a tertiary (3°) alkyl halide is used, alkoxide acts as a strong base, and ELIMINATION predominates exclusively to yield an ALKENE: (CH₃)₃C-Br + CH₃ONa -> (CH₃)₂C=CH₂ + CH₃OH + NaBr. To prepare tert-butyl methyl ether, use tert-butoxide + methyl iodide: (CH₃)₃C-ONa + CH₃I -> (CH₃)₃C-O-CH₃ + NaI.",
+      "hint": "Halide must be 1°; tertiary halide gives alkene instead of ether!"
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Explain the cleavage of Ethers with cold concentrated HI versus hot excess HI.",
+      "a": "1. With cold conc. HI (1 equivalent): Ether cleaves to form one alcohol and one alkyl iodide: R-O-R' + HI -> R-I + R'-OH. Halide attaches to smaller alkyl group via SN2. Exception: If one alkyl group is tertiary (3°), reaction proceeds via SN1 carbocation, and tertiary alkyl iodide is formed: (CH₃)₃C-O-CH₃ + HI -> (CH₃)₃C-I + CH₃OH. 2. With hot excess HI: Both alkyl groups are converted into alkyl iodides: R-O-R' + 2HI -(heat)-> R-I + R'-I + H₂O.",
+      "hint": "With 3° group, iodide attaches to 3° carbon via SN1 mechanism."
+    },
+    {
+      "id": "c15",
+      "tag": "imp",
+      "q": "What happens when Anisole (Methoxybenzene) reacts with HI? Why isn't Iodobenzene formed?",
+      "a": "Reaction: C₆H₅-O-CH₃ + HI -(373 K)-> C₆H₅OH (Phenol) + CH₃I (Methyl iodide). Mechanism: Oxygen protonates to form oxonium ion [C₆H₅-O⁺(H)-CH₃]. The C(sp²)-O bond between benzene ring and oxygen has partial double bond character due to resonance and is very strong. The C(sp³)-O bond of methyl is weaker and undergoes SN2 attack by I⁻ ion. Hence, cleavage gives Phenol and Methyl iodide; iodobenzene is NEVER formed.",
+      "hint": "Phenol + CH₃I are formed; C(aryl)-O bond cannot be cleaved by HI."
+    },
+    {
+      "id": "c16",
+      "tag": "concept",
+      "q": "Why do Ethers form explosive Peroxides on standing in air? How are they detected and removed?",
+      "a": "Ethers contain lone pairs on oxygen and α-hydrogens. On prolonged contact with atmospheric oxygen in presence of light, ethers undergo auto-oxidation to form unstable, explosive Ether Hydroperoxides: R-CH₂-O-CH₂-R + O₂ -(light)-> R-CH(OOH)-O-CH₂-R. Detection: Shaking ether with acidified ferrous sulfate (FeSO₄) and potassium thiocyanate (KCNS) develops blood red color (Fe³⁺ formed reacts with SCN⁻). Removal: Shaking with 5% aqueous FeSO₄ or washing with dilute NaHSO₃ destroys peroxides before distillation.",
+      "hint": "Never distill ether to dryness if peroxides are present!"
+    },
+    {
+      "id": "c17",
+      "tag": "formula",
+      "q": "Distinguish between intermolecular dehydration of ethanol at 413 K versus 443 K with conc. H₂SO₄.",
+      "a": "1. At 413 K (140°C) with excess ethanol: Bimolecular nucleophilic substitution (SN2) gives Diethyl Ether (ethoxyethane): 2C₂H₅OH -(conc. H₂SO₄, 413 K)-> C₂H₅-O-C₂H₅ + H₂O. 2. At 443 K (170°C) with excess conc. H₂SO₄: Intramolecular β-elimination (E1) predominates to give Ethene (alkene): C₂H₅OH -(conc. H₂SO₄, 443 K)-> CH₂=CH₂ + H₂O.",
+      "hint": "413 K = Diethyl ether; 443 K = Ethene."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "Why do alcohols have much higher boiling points than isomeric ethers and alkanes of similar molar mass?",
+      "a": "Alcohols possess a highly polar O-H bond, enabling molecules to form strong Intermolecular Hydrogen Bonds with each other. This results in extensive molecular association, requiring substantial thermal energy to separate molecules (BP of ethanol = 78°C). Ethers lack O-H bonds, cannot form intermolecular H-bonds with themselves, and are held only by weak dipole-dipole attractions (BP of dimethyl ether = -24°C). Alkanes have only weak dispersion forces (BP of propane = -42°C).",
+      "hint": "Intermolecular hydrogen bonding accounts for high boiling points of alcohols."
+    },
+    {
+      "id": "c19",
+      "tag": "formula",
+      "q": "Explain electrophilic substitution of Anisole: Bromination and Friedel-Crafts reaction.",
+      "a": "-OCH₃ group in anisole is strongly activating and ortho/para-directing (+M > -I): 1. Bromination: Reacts with Br₂ in ethanoic acid without catalyst: Anisole + Br₂ -(CH₃COOH)-> 4-bromoanisole (p-isomer, 90%, major) + 2-bromoanisole (o-isomer, 10%). 2. Friedel-Crafts Alkylation: Anisole + CH₃Cl -(anh. AlCl₃)-> 4-methoxytoluene (p-isomer, major) + 2-methoxytoluene (minor).",
+      "hint": "p-isomer is always the major product due to steric hindrance at ortho position."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "How does Phenol react with Neutral Ferric Chloride (FeCl₃)? What is its analytical significance?",
+      "a": "Phenol reacts with neutral aqueous FeCl₃ solution to give an intense deep violet/purple colored coordination complex: 6C₆H₅OH + FeCl₃ -> [Fe(OC₆H₅)₆]³⁻ (complex ion) + 3H⁺ + 3Cl⁻. Aliphatic alcohols do not give this color reaction. This is the characteristic qualitative confirmatory test for the phenolic (-OH) group.",
+      "hint": "Neutral FeCl₃ gives violet color with phenols; no reaction with aliphatic alcohols."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Describe the preparation of Aspirin (Acetylsalicylic acid) from Salicylic acid.",
+      "a": "Salicylic acid is acetylated by heating with Acetic anhydride in the presence of a few drops of concentrated H₂SO₄ (or pyridine): 2-HOC₆H₄COOH + (CH₃CO)₂O -(H⁺)-> 2-(CH₃COO)C₆H₄COOH (Acetylsalicylic acid / Aspirin) + CH₃COOH. Aspirin possesses analgesic (pain-relieving), antipyretic (fever-reducing), and anti-platelet aggregation (prevents blood clots/heart attacks) properties.",
+      "hint": "Acetylation of phenolic -OH group of salicylic acid yields Aspirin."
+    },
+    {
+      "id": "c22",
+      "tag": "formula",
+      "q": "How to convert: 1. Methanol to Ethanol, 2. Ethanol to Methanol?",
+      "a": "1. Methanol to Ethanol (Ascent of series): CH₃OH -(PCl₅)-> CH₃Cl -(KCN)-> CH₃CN -(Na/C₂H₅OH, Mendius reduction)-> CH₃CH₂NH₂ -(HNO₂)-> CH₃CH₂OH. 2. Ethanol to Methanol (Descent of series): CH₃CH₂OH -(KMnO₄/H⁺)-> CH₃COOH -(NH₃, heat)-> CH₃CONH₂ -(Br₂/KOH, Hoffmann bromamide)-> CH₃NH₂ -(HNO₂)-> CH₃OH.",
+      "hint": "Mendius reduction ascends chain (+1 C); Hoffmann bromamide descends chain (-1 C)."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "Explain why Ethers act as Lewis bases and dissolve in concentrated H₂SO₄.",
+      "a": "The ether oxygen atom possesses two unshared lone pairs of electrons. Hence, ethers behave as Lewis bases. When treated with cold concentrated sulfuric acid, ether molecules accept a proton (H⁺) to form stable, soluble Oxonium salts: R-O-R + H₂SO₄ -(cold)-> [R-O⁺(H)-R] HSO₄⁻ (Dialkyl oxonium hydrogen sulfate). Alkanes do not dissolve in cold conc. H₂SO₄; this distinguishes ethers from alkanes.",
+      "hint": "Ethers dissolve in cold conc. H₂SO₄ due to oxonium salt formation."
+    },
+    {
+      "id": "c24",
+      "tag": "imp",
+      "q": "What is Denatured Alcohol and Methylated Spirit?",
+      "a": "Commercial ethyl alcohol made unfit for drinking by adding toxic, unpalatable substances to prevent misuse for beverage purposes: Methylated spirit contains ~95% ethanol, 5% methanol (toxic, causes blindness and death), and traces of pyridine (foul-smelling base) and a blue dye (copper sulfate) for identification. Denatured alcohol is exempt from excise duty for industrial use.",
+      "hint": "Methanol and pyridine are added to ethanol to make it toxic and foul-smelling."
+    },
+    {
+      "id": "c25",
+      "tag": "concept",
+      "q": "Compare the reactivity of Primary, Secondary, and Tertiary alcohols towards: 1. Esterification, 2. Dehydration.",
+      "a": "1. Esterification (with carboxylic acid RCOOH): Involves nucleophilic attack of alcohol oxygen; steric hindrance around -OH slows reaction. Reactivity order: CH₃OH > 1° > 2° > 3° alcohol. 2. Dehydration (loss of H₂O to form alkene): Involves formation of carbocation intermediate; stability of carbocation controls rate. Reactivity order: 3° > 2° > 1° alcohol (3° dehydrates with mild 20% H₂SO₄ at 358 K, while 1° requires conc. H₂SO₄ at 443 K).",
+      "hint": "Esterification: 1° > 2° > 3° (steric); Dehydration: 3° > 2° > 1° (carbocation stability)."
+    }
+  ]
+}

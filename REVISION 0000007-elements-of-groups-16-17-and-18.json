@@ -1,0 +1,183 @@
+{
+  "title": "Elements of Groups 16, 17 and 18",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "List the elements of Group 16 (Chalcogens), Group 17 (Halogens), and Group 18 (Noble Gases) with their valence shell configurations.",
+      "a": "Group 16: O, S, Se, Te, Po (Valence shell: ns² np⁴). Group 17: F, Cl, Br, I, At (Valence shell: ns² np⁵). Group 18: He (1s²), Ne, Ar, Kr, Xe, Rn (Valence shell: ns² np⁶, complete octet/duplet).",
+      "hint": "Chalcogens = ore forming; Halogens = salt forming; Noble gases = inert gases."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Explain anomalous behavior of Oxygen and Fluorine compared to other group members.",
+      "a": "Both show anomalous behavior due to: 1. Extremely small atomic size. 2. High electronegativity. 3. High ionization enthalpy. 4. Absence of vacant d-orbitals in valence shell (n=2). Oxygen exhibits maximum covalency of 4 (usually 2) and cannot expand octet, whereas S, Se, Te form SF₆, SeF₆ with d-orbital participation. Fluorine shows only -1 oxidation state (no positive oxidation states).",
+      "hint": "Absence of vacant d-orbitals restricts both O and F to maximum covalency of 4."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Why is Electron Gain Enthalpy of Chlorine more negative than Fluorine, and Sulfur more negative than Oxygen?",
+      "a": "Fluorine and Oxygen have very small compact 2p-subshells. When an incoming electron enters the 2p orbital, it experiences strong interelectronic repulsions, which lowers electron affinity. In Chlorine and Sulfur, incoming electron enters the larger 3p subshell where interelectronic repulsions are much weaker. Order: Cl > F > Br > I, and S > Se > Te > Po > O.",
+      "hint": "Chlorine has the highest negative electron gain enthalpy in the entire periodic table."
+    },
+    {
+      "id": "c4",
+      "tag": "imp",
+      "q": "Explain the allotropes of Sulfur: Rhombic (α-sulfur) and Monoclinic (β-sulfur). What is Transition Temperature?",
+      "a": "Rhombic sulfur (α): yellow octahedral crystals, stable below 369 K, insoluble in water, soluble in CS₂. Monoclinic sulfur (β): needle-shaped crystals, stable above 369 K. Both contain puckered S₈ crown rings. Transition temperature = 369 K (96°C), at which both allotropic forms coexist in equilibrium with each other.",
+      "hint": "At T < 369 K α-sulfur is stable; at T > 369 K β-sulfur is stable."
+    },
+    {
+      "id": "c5",
+      "tag": "concept",
+      "q": "Describe the Contact Process for manufacture of Sulfuric Acid (H₂SO₄). What is the catalyst?",
+      "a": "Steps: 1. Burning S or iron pyrites to produce SO₂: S + O₂ -> SO₂. 2. Catalytic oxidation of SO₂ to SO₃: 2SO₂ + O₂ <=> 2SO₃ (ΔH = -196.6 kJ/mol) using V₂O₅ (vanadium pentoxide) catalyst at 720 K and 2 bar pressure (key rate & yield determining step). 3. Absorption of SO₃ in 98% H₂SO₄ to form Oleum: SO₃ + H₂SO₄ -> H₂S₂O₇. 4. Dilution of oleum with calculated water: H₂S₂O₇ + H₂O -> 2H₂SO₄.",
+      "hint": "SO₃ is NOT directly absorbed in water because it produces a dense uncontrollable acid fog/mist."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Name and draw structure formulas of four important Oxoacids of Sulfur with oxidation states.",
+      "a": "1. Sulfurous acid (H₂SO₃): S has +4; one lone pair, one P=O, two S-OH. 2. Sulfuric acid (H₂SO₄): S has +6; two S=O, two S-OH. 3. Peroxodisulfuric acid (Marshall's acid, H₂S₂O₈): S has +6; contains peroxy linkage (-O-O-): HO-SO₂-O-O-SO₂-OH. 4. Pyrosulfuric acid (Oleum, H₂S₂O₇): S has +6; contains S-O-S bridge: HO-SO₂-O-SO₂-OH.",
+      "hint": "Marshall's acid H₂S₂O₈ has peroxy (-O-O-) bond; oxidation state of S is +6, NOT +7."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Why is H₂O a liquid while H₂S is a gas at room temperature?",
+      "a": "Oxygen has high electronegativity and small atomic size, enabling water molecules to form extensive intermolecular hydrogen bonds, leading to association and a high boiling point (100°C, liquid). Sulfur has lower electronegativity and larger size; hence H₂S cannot form intermolecular hydrogen bonds and exists as discrete molecules held by weak dipole-dipole/van der Waals forces (boiling point -60°C, gas).",
+      "hint": "Intermolecular hydrogen bonding is unique to N, O, and F compounds."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Explain bleaching action of SO₂ vs Cl₂. Which one is permanent?",
+      "a": "SO₂ bleaches coloring matter by REDUCTION in presence of moisture: SO₂ + 2H₂O -> H₂SO₄ + 2[H]. The colored matter is reduced to a colorless substance; upon exposure to aerial oxygen, it gets re-oxidized, so SO₂ bleaching is TEMPORARY. Cl₂ bleaches by OXIDATION in presence of moisture: Cl₂ + H₂O -> 2HCl + [O]. Colored matter + [O] -> Oxidized colorless product. Chlorine bleaching is PERMANENT.",
+      "hint": "Cl₂ bleaches by oxidation (permanent); SO₂ bleaches by reduction (temporary)."
+    },
+    {
+      "id": "c9",
+      "tag": "imp",
+      "q": "What is the Deacon's Process for manufacture of Chlorine gas?",
+      "a": "Oxidation of hydrogen chloride gas by atmospheric oxygen in the presence of cupric chloride (CuCl₂) catalyst at 723 K: 4HCl + O₂ -(CuCl₂, 723 K)-> 2Cl₂ + 2H₂O. Deacon's process is a major industrial method for producing chlorine.",
+      "hint": "Catalyst used is CuCl₂ at 723 K."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "Why is bond dissociation enthalpy of F₂ less than that of Cl₂?",
+      "a": "Order of bond dissociation enthalpy: Cl₂ > Br₂ > F₂ > I₂. In F₂, extremely small bond length (142 pm) brings three lone pairs of electrons on each fluorine atom very close to each other. Strong lone pair-lone pair electrostatic repulsions weaken the F-F single bond compared to Cl-Cl bond (where 3p orbitals are larger and diffuse).",
+      "hint": "Cl-Cl bond is stronger than F-F bond due to absence of severe lone-pair repulsions."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "How does Chlorine react with cold dilute NaOH versus hot concentrated NaOH?",
+      "a": "With cold dilute NaOH (disproportionation): 2NaOH + Cl₂ -> NaCl + NaOCl + H₂O (products: Sodium chloride + Sodium hypochlorite). With hot concentrated NaOH (disproportionation): 6NaOH + 3Cl₂ -> 5NaCl + NaClO₃ + 3H₂O (products: Sodium chloride + Sodium chlorate).",
+      "hint": "Cold dil -> NaOCl (Cl at +1); Hot conc -> NaClO₃ (Cl at +5)."
+    },
+    {
+      "id": "c12",
+      "tag": "imp",
+      "q": "Arrange hydrogen halides (HF, HCl, HBr, HI) in increasing order of: 1. Thermal stability, 2. Acidic strength, 3. Reducing power, 4. Boiling point.",
+      "a": "1. Thermal stability: HI < HBr < HCl < HF (H-X bond length increases, bond strength decreases). 2. Acidic strength: HF < HCl < HBr < HI (HI dissociates easiest due to lowest H-X bond enthalpy). 3. Reducing power: HF < HCl < HBr < HI (I⁻ oxidizes easiest). 4. Boiling point: HCl < HBr < HI < HF (HF has highest BP due to strong intermolecular H-bonding).",
+      "hint": "HF has highest boiling point due to H-bonding, but is the weakest acid among HX."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "What are Interhalogen Compounds? Give their four general types and reactivity relative to halogens.",
+      "a": "Compounds formed by mutual combination of two different halogens: XX', XX'₃, XX'₅, XX'₇ (where X is larger halogen with lower electronegativity, X' is smaller halogen with higher electronegativity). Examples: ClF, ClF₃, BrF₅, IF₇. Reactivity: Interhalogen compounds are generally MORE reactive than pure halogens (except F₂) because the X-X' covalent bond is more polar and weaker than the X-X homeonuclear bond.",
+      "hint": "XX'₇ exists only as IF₇ due to maximum radius ratio between I and F."
+    },
+    {
+      "id": "c14",
+      "tag": "formula",
+      "q": "State the hybridization and molecular shapes of ClF₃, BrF₅, and IF₇.",
+      "a": "1. ClF₃: sp³d hybridization, 3 bond pairs + 2 lone pairs = T-shaped (bent T-shape). 2. BrF₅: sp³d² hybridization, 5 bond pairs + 1 lone pair = Square pyramidal. 3. IF₇: sp³d³ hybridization, 7 bond pairs + 0 lone pairs = Pentagonal bipyramidal.",
+      "hint": "ClF₃ has 2 equatorial lone pairs minimizing 90° lone-pair repulsions, giving T-shape."
+    },
+    {
+      "id": "c15",
+      "tag": "formula",
+      "q": "Name the Oxoacids of Chlorine with oxidation state and acidic strength order.",
+      "a": "1. Hypochlorous acid (HOCl, Cl = +1). 2. Chlorous acid (HClO₂, Cl = +3). 3. Chloric acid (HClO₃, Cl = +5). 4. Perchloric acid (HClO₄, Cl = +7). Acidic strength order: HOCl < HClO₂ < HClO₃ < HClO₄. Reason: Higher oxidation state of Cl increases electronegative pull on O-H bond, and conjugate base (ClO₄⁻) has greater resonance stabilization through 4 equivalent oxygen atoms.",
+      "hint": "HClO₄ is one of the strongest inorganic acids known."
+    },
+    {
+      "id": "c16",
+      "tag": "concept",
+      "q": "Why do Noble Gases have very low boiling points and exist only as monoatomic gases?",
+      "a": "Noble gases have completely filled valence shells (ns² np⁶), possessing high ionization enthalpies and zero/positive electron gain enthalpies. They do not form covalent bonds with themselves. The only interatomic forces present are very weak London dispersion forces, which require minimal thermal energy to overcome, resulting in extremely low boiling points (He has lowest BP of any substance: 4.2 K).",
+      "hint": "Helium has the lowest boiling point of any known element at 4.2 K."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Who prepared the first noble gas compound and on what basis?",
+      "a": "Neil Bartlett in 1962. He observed that platinum hexafluoride (PtF₆) oxidizes molecular oxygen to form an ionic compound [O₂]⁺[PtF₆]⁻. Since first ionization enthalpy of molecular oxygen (1175 kJ/mol) is almost identical to that of Xenon (1170 kJ/mol), he reacted Xe with PtF₆ and successfully synthesized the first noble gas compound: Xe⁺[PtF₆]⁻ (red crystalline solid).",
+      "hint": "Bartlett's rationale: Ionization enthalpy of Xe ≈ Ionization enthalpy of O₂."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Give preparation reactions of Xenon fluorides: XeF₂, XeF₄, and XeF₆.",
+      "a": "1. Xe + F₂ (2:1 ratio) -(673 K, 1 bar, Ni tube)-> XeF₂(s). 2. Xe + F₂ (1:5 ratio) -(873 K, 7 bar, Ni tube)-> XeF₄(s). 3. Xe + F₂ (1:20 ratio) -(573 K, 60-70 bar)-> XeF₆(s). Alternatively: XeF₄ + O₂F₂ -(143 K)-> XeF₆ + O₂.",
+      "hint": "Excess Xenon favors XeF₂; excess Fluorine (1:20) at high pressure favors XeF₆."
+    },
+    {
+      "id": "c19",
+      "tag": "formula",
+      "q": "State hybridization, number of lone pairs, and shapes of XeF₂, XeF₄, and XeO₃.",
+      "a": "1. XeF₂: sp³d hybridization, 2 bond pairs + 3 equatorial lone pairs = Linear. 2. XeF₄: sp³d² hybridization, 4 bond pairs + 2 axial lone pairs = Square planar. 3. XeO₃: sp³ hybridization, 3 bond pairs (with double bonds) + 1 lone pair = Pyramidal.",
+      "hint": "XeF₂ is linear despite 5 electron pairs because 3 lone pairs occupy equatorial positions."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "What happens when XeF₆ undergoes complete versus partial hydrolysis?",
+      "a": "Complete hydrolysis: XeF₆ + 3H₂O -> XeO₃ + 6HF (forms explosive solid xenon trioxide). Partial hydrolysis: 1. With 1 mole H₂O: XeF₆ + H₂O -> XeOF₄ + 2HF (xenon oxytetrafluoride, square pyramidal). 2. With 2 moles H₂O: XeF₆ + 2H₂O -> XeO₂F₂ + 4HF (xenon dioxydifluoride, see-saw shape).",
+      "hint": "XeO₃ is a colorless explosive hygroscopic solid."
+    },
+    {
+      "id": "c21",
+      "tag": "imp",
+      "q": "List major commercial uses of Helium, Neon, and Argon.",
+      "a": "Helium: 1. Filling observation weather balloons (non-flammable, light). 2. Diluent for oxygen in deep-sea diving (low solubility in blood prevents 'bends'). 3. Cryogenic agent to generate superconducting temperatures for NMR/MRI. Neon: Neon discharge lamps for advertising and beacon lights. Argon: Providing inert atmosphere in metallurgical processes (arc welding of Al and stainless steel) and filling electric incandescent bulbs.",
+      "hint": "He mixed with O₂ (80:20) prevents painful decompression sickness (bends) in scuba divers."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Explain why Oxygen shows oxidation state of +2 only in OF₂, and -1 in H₂O₂.",
+      "a": "Oxygen is the second most electronegative element (3.5), behind only Fluorine (4.0). With fluorine, oxygen has lower electronegativity, so electrons are pulled toward fluorine, giving oxygen an oxidation state of +2 in OF₂ (and +1 in O₂F₂). In peroxides like H₂O₂, two oxygen atoms share a single peroxy covalent bond (-O-O-), so each oxygen atom has oxidation state of -1.",
+      "hint": "OF₂ is an oxygen fluoride, not a fluorine oxide."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "What is Aqua Regia and how does it dissolve noble metals like Gold and Platinum?",
+      "a": "Aqua Regia is a 3:1 mixture of concentrated hydrochloric acid (HCl) and concentrated nitric acid (HNO₃). Reaction: 3HCl + HNO₃ -> NOCl + 2H₂O + 2[Cl]. Nascent chlorine attacks noble metals to form soluble chloro complexes: Au + 4HCl + HNO₃ -> H[AuCl₄] + NO + 2H₂O (chloroauric acid); Pt + 8HCl + 2HNO₃ -> H₂[PtCl₆] + 2NO + 4H₂O (chloroplatinic acid).",
+      "hint": "3 parts conc. HCl + 1 part conc. HNO₃ produces nascent chlorine."
+    },
+    {
+      "id": "c24",
+      "tag": "formula",
+      "q": "How is Ozone (O₃) estimated quantitatively?",
+      "a": "Ozone is treated with excess potassium iodide (KI) solution buffered with borate buffer (pH 9.2). Iodine is liberated: O₃ + 2I⁻ + H₂O -> O₂ + I₂ + 2OH⁻. The liberated iodine (I₂) is then quantitatively titrated against standard sodium thiosulfate (Na₂S₂O₃, hypo) solution using starch as indicator: I₂ + 2Na₂S₂O₃ -> Na₂S₄O₆ + 2NaI.",
+      "hint": "Liberation of 1 mole I₂ corresponds to 1 mole of O₃."
+    },
+    {
+      "id": "c25",
+      "tag": "concept",
+      "q": "Why does Ozone act as a powerful oxidizing agent?",
+      "a": "Ozone is thermodynamically unstable relative to oxygen (decomposition 2O₃ -> 3O₂ has ΔH < 0 and ΔS > 0, so ΔG is largely negative). It readily dissociates to liberate nascent oxygen: O₃ -> O₂ + [O]. Nascent oxygen oxidizes black PbS to white PbSO₄: PbS + 4O₃ -> PbSO₄ + 4O₂, and oxidizes I⁻ to I₂.",
+      "hint": "Ozone oxidation of PbS to PbSO₄ restores darkened oil paintings."
+    }
+  ]
+}

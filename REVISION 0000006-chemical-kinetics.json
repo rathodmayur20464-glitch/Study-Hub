@@ -1,0 +1,183 @@
+{
+  "title": "Chemical Kinetics",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Define Average Rate and Instantaneous Rate of a chemical reaction.",
+      "a": "Average rate = change in molar concentration of reactant or product divided by time interval: R_avg = -Δ[R]/Δt = +Δ[P]/Δt. Instantaneous rate = rate of reaction at a specific instant of time: R_inst = -d[R]/dt = +d[P]/dt (slope of concentration vs time curve at time t). Unit: mol L⁻¹ s⁻¹ or mol dm⁻³ s⁻¹.",
+      "hint": "Minus sign indicates reactant concentration decreases with time."
+    },
+    {
+      "id": "c2",
+      "tag": "formula",
+      "q": "For reaction 2N₂O₅ -> 4NO₂ + O₂, write relation between rates of disappearance and formation.",
+      "a": "Rate of reaction = -1/2 * (d[N₂O₅]/dt) = +1/4 * (d[NO₂]/dt) = +d[O₂]/dt. Thus, rate of formation of NO₂ is twice the rate of disappearance of N₂O₅, and 4 times the rate of formation of O₂.",
+      "hint": "Divide individual rates of appearance/disappearance by stoichiometric coefficients."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Define Order of a reaction and Molecularity of an elementary reaction. Distinguish them.",
+      "a": "Order: Sum of powers of concentration terms of reactants in experimentally determined rate law. Can be 0, fractional, integer, or negative; determined experimentally. Molecularity: Number of reactant species (atoms/ions/molecules) colliding simultaneously in an elementary step. Can only be positive whole numbers (1, 2, or 3); theoretical concept; cannot be 0 or fractional.",
+      "hint": "Molecularity > 3 is extremely rare due to low probability of simultaneous collisions."
+    },
+    {
+      "id": "c4",
+      "tag": "formula",
+      "q": "Derive the Integrated Rate Law for a First Order Reaction: A -> Products.",
+      "a": "Rate = -d[A]/dt = k[A]. Separating variables: -d[A]/[A] = k dt. Integrating from [A]₀ at t=0 to [A]t at t: ln([A]₀/[A]t) = kt. In common log: k = (2.303 / t) * log₁₀([A]₀ / [A]t). Exponential form: [A]t = [A]₀ * e⁻ᵏᵗ. Units of k: s⁻¹ or min⁻¹ (independent of concentration units).",
+      "hint": "Unit of rate constant k for nth order is (mol L⁻¹)^(1-n) s⁻¹."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Derive expression for Half-Life (t₁/₂) of a First Order Reaction.",
+      "a": "At t = t₁/₂, [A]t = [A]₀ / 2. Substituting into first-order equation: k = (2.303 / t₁/₂) * log₁₀(2) = (2.303 * 0.3010) / t₁/₂ = 0.693 / t₁/₂. Therefore: t₁/₂ = 0.693 / k. Key MHT-CET property: t₁/₂ of a first-order reaction is completely INDEPENDENT of initial reactant concentration [A]₀.",
+      "hint": "All radioactive decay processes follow first-order kinetics."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Derive Integrated Rate Law and Half-Life for a Zero Order Reaction: A -> Products.",
+      "a": "Rate = -d[A]/dt = k[A]⁰ = k. Integrating gives: [A]₀ - [A]t = k * t, or [A]t = -kt + [A]₀. Units of k: mol L⁻¹ s⁻¹. For half-life: at t = t₁/₂, [A]t = [A]₀/2, so t₁/₂ = [A]₀ / (2k). Notice: t₁/₂ of a zero-order reaction is DIRECTLY proportional to initial concentration [A]₀.",
+      "hint": "Decomposition of NH₃ on hot Pt surface is a classic zero-order reaction."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "What is a Pseudo-First-Order Reaction? Give two examples.",
+      "a": "A reaction that has higher molecularity (bimolecular) but obeys first-order kinetics because one of the reactants is present in large excess such that its concentration remains practically constant. Examples: 1. Acid-catalyzed hydrolysis of cane sugar (inversion of sucrose): C₁₂H₂₂O₁₁ + H₂O -(H⁺)-> C₆H₁₂O₆ + C₆H₁₂O₆ (Rate = k'[sucrose]). 2. Acid hydrolysis of methyl acetate: CH₃COOCH₃ + H₂O -(H⁺)-> CH₃COOH + CH₃OH.",
+      "hint": "k = k' * [H₂O], where [H₂O] is constant."
+    },
+    {
+      "id": "c8",
+      "tag": "formula",
+      "q": "State Arrhenius Equation and write its two-temperature form.",
+      "a": "k = A * e^(-Ea / RT), where A = frequency factor (pre-exponential factor), Ea = activation energy, R = gas constant, T = absolute temperature. In log form: log₁₀(k) = log₁₀(A) - Ea / (2.303 * R * T). For two temperatures T₁ and T₂: log₁₀(k₂ / k₁) = (Ea / 2.303 R) * [(T₂ - T₁) / (T₁ * T₂)].",
+      "hint": "Plot of log₁₀(k) vs 1/T is linear with slope = -Ea / (2.303 R) and intercept = log₁₀(A)."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Define Activation Energy (Ea) and Threshold Energy (Eth). Draw energy profile relation.",
+      "a": "Threshold energy (Eth): Minimum energy that colliding molecules must possess for collision to result in chemical reaction. Activation energy (Ea): Extra minimum energy that reactant molecules must absorb to reach threshold energy: Ea = Eth - Er (where Er = average energy of reactants). For endothermic reaction: ΔH = Ea(forward) - Ea(backward) > 0. For exothermic: ΔH < 0.",
+      "hint": "Activated complex (transition state) exists at the energy peak (Eth)."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "What are the two requirements for an effective collision according to Collision Theory?",
+      "a": "1. Energy factor: Colliding molecules must possess kinetic energy equal to or greater than activation energy Ea (fraction of molecules having E >= Ea is f = e^(-Ea/RT)). 2. Orientation factor: Colliding molecules must have proper spatial orientation at the time of collision to facilitate bond breaking and bond making. Rate = P * Z_AB * e^(-Ea/RT), where P = steric/probability factor.",
+      "hint": "High collision frequency alone does not ensure high reaction rate without proper orientation."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "How does a catalyst increase the rate of reaction? Does it alter ΔH or equilibrium constant?",
+      "a": "A catalyst provides an alternate reaction pathway with a lower activation energy (Ea). Because fraction of molecules having energy >= Ea increases exponentially, reaction rate increases. A catalyst accelerates both forward and reverse reactions equally, so it: 1. Does NOT change ΔH. 2. Does NOT change equilibrium constant (K). 3. Does NOT alter Gibbs free energy (ΔG).",
+      "hint": "A catalyst only shortens the time to reach equilibrium; it cannot make a non-spontaneous reaction spontaneous."
+    },
+    {
+      "id": "c12",
+      "tag": "formula",
+      "q": "For a first-order gas-phase reaction A(g) -> B(g) + C(g), express rate constant k in terms of total pressure.",
+      "a": "Initial pressure: Pi. At time t: PA = Pi - x, PB = x, PC = x. Total pressure Pt = (Pi - x) + x + x = Pi + x, so x = Pt - Pi. Thus PA = Pi - (Pt - Pi) = 2Pi - Pt. Rate constant k = (2.303 / t) * log₁₀[Pi / (2Pi - Pt)].",
+      "hint": "Classic HSC board derivation for gas phase decomposition."
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "Show that for a first order reaction, time required for 99.9% completion is 10 times the half-life (t₁/₂).",
+      "a": "For 99.9% completion: [A]t = [A]₀ - 0.999[A]₀ = 0.001[A]₀ = 10⁻³[A]₀. t_99.9% = (2.303/k) * log₁₀([A]₀ / 10⁻³[A]₀) = (2.303/k) * log₁₀(10³) = (3 * 2.303) / k = 6.909 / k. Since t₁/₂ = 0.693 / k: t_99.9% / t₁/₂ = 6.909 / 0.693 = 9.97 ≈ 10. Thus t_99.9% = 10 * t₁/₂.",
+      "hint": "Also note: t_99% = 2 * t_90% and t_75% = 2 * t_50% for first order."
+    },
+    {
+      "id": "c14",
+      "tag": "imp",
+      "q": "How to determine the rate law using the Initial Rates method?",
+      "a": "Measure initial reaction rates with different starting concentrations of reactants. Compare two experiments where concentration of one reactant is varied while others are kept constant: Rate₂ / Rate₁ = ([A]₂ / [A]₁)ˣ. If doubling [A] doubles rate, x = 1 (1st order); if rate quadruples, x = 2 (2nd order); if rate remains unchanged, x = 0 (zero order).",
+      "hint": "Frequently tested 3-mark numerical in HSC board exams."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "What is the Rate-Determining Step (RDS) in a multi-step (complex) reaction?",
+      "a": "The slowest elementary step in a complex reaction mechanism is the rate-determining step. The rate law of the overall reaction is determined strictly by the stoichiometry of the reactants involved in this slowest step (or preceding fast equilibria that supply intermediates). Intermediates must be eliminated from final rate law.",
+      "hint": "Reaction intermediates are formed in one step and consumed in a subsequent step."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "What is the unit of rate constant (k) for zero, first, second, and nth order reactions?",
+      "a": "General formula: (mol L⁻¹)^(1-n) * s⁻¹ or (mol dm⁻³)^(1-n) * s⁻¹. Zero order (n=0): mol L⁻¹ s⁻¹. First order (n=1): s⁻¹ or min⁻¹. Second order (n=2): L mol⁻¹ s⁻¹ or dm³ mol⁻¹ s⁻¹. Third order (n=3): L² mol⁻² s⁻¹.",
+      "hint": "MHT-CET shortcut: Identify reaction order instantly from the unit of k!"
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "What is the Temperature Coefficient of a reaction?",
+      "a": "The ratio of the rate constant of a reaction at temperature (T + 10 K) to that at temperature T K: Temperature coefficient = k_(T+10) / k_T. For most chemical reactions, this value lies between 2 and 3, meaning reaction rate doubles or triples for every 10°C rise in temperature.",
+      "hint": "This 2- to 3-fold rise is due to drastic increase in fraction of molecules with E >= Ea."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "For reaction A -> B, rate constant doubles when temperature increases from 300 K to 310 K. Calculate activation energy Ea. (R = 8.314 J K⁻¹ mol⁻¹, log 2 = 0.3010)",
+      "a": "log₁₀(k₂ / k₁) = (Ea / 2.303 R) * [(T₂ - T₁) / (T₁ * T₂)]. log₁₀(2) = (Ea / (2.303 * 8.314)) * [10 / (300 * 310)]. 0.3010 = (Ea / 19.147) * [10 / 93000]. Ea = (0.3010 * 19.147 * 93000) / 10 = 53596 J mol⁻¹ = 53.6 kJ mol⁻¹.",
+      "hint": "Formula: Ea = 2.303 * R * T₁ * T₂ * log₁₀(k₂/k₁) / (T₂ - T₁)."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Draw and explain the plot of log₁₀(k) versus 1/T (Arrhenius plot).",
+      "a": "From Arrhenius equation: log₁₀(k) = log₁₀(A) - Ea / (2.303 R T). This is in the form y = mx + c where y = log₁₀(k), x = 1/T. Slope = -Ea / (2.303 R) (negative slope). Intercept on y-axis = log₁₀(A). Activation energy is directly obtained: Ea = -2.303 * R * slope.",
+      "hint": "A steeper negative slope indicates a reaction with higher activation energy."
+    },
+    {
+      "id": "c20",
+      "tag": "imp",
+      "q": "Identify the order from the following graphical linear relationships: 1. [A] vs t, 2. ln[A] vs t, 3. 1/[A] vs t.",
+      "a": "1. Plot of [A] vs t is linear: Zero Order (slope = -k, intercept = [A]₀). 2. Plot of ln[A] or log₁₀[A] vs t is linear: First Order (slope = -k or -k/2.303). 3. Plot of 1/[A] vs t is linear: Second Order (slope = +k, intercept = 1/[A]₀).",
+      "hint": "Zero order decreases linearly; first order decreases exponentially."
+    },
+    {
+      "id": "c21",
+      "tag": "formula",
+      "q": "A first order reaction is 50% complete in 20 minutes. Calculate time required for 80% completion. (log 5 = 0.6990)",
+      "a": "k = 0.693 / t₁/₂ = 0.693 / 20 = 0.03465 min⁻¹. For 80% completion: [A]t = [A]₀ - 0.8[A]₀ = 0.2[A]₀ = [A]₀ / 5. t = (2.303 / k) * log₁₀([A]₀ / 0.2[A]₀) = (2.303 / 0.03465) * log₁₀(5) = 66.46 * 0.6990 = 46.46 minutes.",
+      "hint": "Always calculate rate constant k first from half-life."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "What is the effect of physical state and surface area of reactants on reaction rate?",
+      "a": "1. Physical state: Reactions involving gaseous or dissolved ionic reactants are faster than solid-phase reactions due to greater mobility and collision frequency. 2. Surface area: For heterogeneous reactions involving solids, smaller particle size provides a larger specific surface area, giving more exposed sites for collisions and dramatically increasing the reaction rate.",
+      "hint": "Powdered CaCO₃ reacts much faster with dilute HCl than large marble chips."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "What is the relation between half-life (t₁/₂) and initial concentration [A]₀ for an nth order reaction?",
+      "a": "General relation: t₁/₂ ∝ 1 / [A]₀^(n-1). For n=0: t₁/₂ ∝ [A]₀ (directly proportional). For n=1: t₁/₂ ∝ [A]₀⁰ = constant (independent). For n=2: t₁/₂ ∝ 1 / [A]₀ (inversely proportional). For n=3: t₁/₂ ∝ 1 / [A]₀².",
+      "hint": "MHT-CET trap: If doubling concentration halves the half-life, the reaction is second order!"
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "Can molecularity be zero, fractional, or negative? Explain why or why not.",
+      "a": "No, molecularity CANNOT be zero, fractional, or negative. Molecularity represents the actual count of reactant molecules colliding simultaneously in an elementary step. A collision cannot involve zero molecules or a fraction of a molecule. In contrast, order of reaction is an empirical parameter derived from experimental rate law and CAN be zero, fractional, or negative.",
+      "hint": "Molecularity is defined only for elementary reactions, not for complex overall reactions."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "What is the difference between Exothermic and Endothermic reactions in terms of Activation Energy?",
+      "a": "Forward activation energy = Ea(f), backward activation energy = Ea(b). Relation: ΔH = Ea(f) - Ea(b). Exothermic reaction: ΔH < 0, therefore Ea(f) < Ea(b); products have lower potential energy than reactants. Endothermic reaction: ΔH > 0, therefore Ea(f) > Ea(b); products have higher potential energy than reactants.",
+      "hint": "For an endothermic reaction, Ea(f) is always strictly greater than ΔH."
+    }
+  ]
+}

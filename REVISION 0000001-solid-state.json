@@ -1,0 +1,183 @@
+{
+  "title": "Solid State",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Crystalline vs Amorphous solids: Fundamental differences and Isotropy vs Anisotropy?",
+      "a": "1. Crystalline Solids: Long-range order, sharp melting point, definite heat of fusion, true solids.\n- Anisotropic: Physical properties (refractive index, electrical conductance) have DIFFERENT values in different directions due to ordered directional particle arrangement.\n2. Amorphous Solids: Short-range order, soften over a range of temperature, pseudo-solids or supercooled liquids (e.g. glass, rubber, plastics).\n- Isotropic: Physical properties are identical in all directions due to random, disordered particle arrangement.",
+      "hint": "Crystalline solids are ANISOTROPIC; Amorphous solids are ISOTROPIC."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Classification of Crystalline Solids: 4 classes, constituent particles, and bonding?",
+      "a": "1. Molecular Solids: Molecules held by London dispersion (solid Ar, $H_2$), dipole-dipole ($HCl, SO_2$), or H-bonds (Ice, solid $NH_3$); soft, non-conductors, low MP.\n2. Ionic Solids: Cations and anions held by electrostatic Coulombic forces (NaCl, $KNO_3$, $ZnS$); hard, brittle, insulators in solid state but conductors in molten/aqueous state.\n3. Metallic Solids: Positive metal ions (kernels) in sea of mobile valence electrons (Cu, Fe, Ag, Na); highly malleable, ductile, thermal/electrical conductors.\n4. Covalent / Network Solids: Atoms held by giant continuous covalent bonds (Diamond, Quartz $SiO_2$, SiC, Graphite); extremely hard, high MP.",
+      "hint": "Graphite is a covalent solid that conducts electricity because of free delocalized pi-electrons between its hexagonal sp2 layers."
+    },
+    {
+      "id": "c3",
+      "tag": "formula",
+      "q": "Number of atoms per unit cell (Z) in Simple Cubic, Body-Centered Cubic, and Face-Centered Cubic lattices?",
+      "a": "1. Simple Cubic (SCC): 8 corner atoms $\\times (1/8) = 1$ atom.\n2. Body-Centered Cubic (BCC): [8 corners $\\times (1/8)$] + [1 center $\\times 1$] = $1 + 1 = 2$ atoms.\n3. Face-Centered Cubic (FCC / CCP): [8 corners $\\times (1/8)$] + [6 faces $\\times (1/2)$] = $1 + 3 = 4$ atoms.\n4. End-Centered Orthorhombic: [8 corners $\\times (1/8)$] + [2 opposite faces $\\times (1/2)$] = $1 + 1 = 2$ atoms.",
+      "hint": "Values of Z: SCC = 1, BCC = 2, FCC = 4. Essential for unit cell density calculations!"
+    },
+    {
+      "id": "c4",
+      "tag": "formula",
+      "q": "Relationship between Edge Length (a) and Atomic Radius (r) for SCC, BCC, and FCC?",
+      "a": "1. Simple Cubic (SCC): Atoms touch along edge $\\Rightarrow a = 2r \\Rightarrow r = a / 2 = 0.5 a$.\n2. Body-Centered Cubic (BCC): Atoms touch along body diagonal $\\Rightarrow \\sqrt{3} a = 4r \\Rightarrow r = \\frac{\\sqrt{3}}{4} a \\approx 0.433 a$.\n3. Face-Centered Cubic (FCC): Atoms touch along face diagonal $\\Rightarrow \\sqrt{2} a = 4r \\Rightarrow r = \\frac{\\sqrt{2}}{4} a = \\frac{a}{2\\sqrt{2}} \\approx 0.3535 a$.",
+      "hint": "Body diagonal = $\\sqrt{3}a$; Face diagonal = $\\sqrt{2}a$. Remember which diagonal particles touch along!"
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Packing Efficiency and Void Fraction percentages in SCC, BCC, and FCC?",
+      "a": "Packing Efficiency = [Volume of spheres in unit cell / Total volume of unit cell] $\\times 100$.\n1. Simple Cubic (SCC):\n- Packing Efficiency = 52.36% ($\\approx 52.4\\%$)\n- Void Fraction / Free Space = 47.64% ($\\approx 47.6\\%$).\n2. Body-Centered Cubic (BCC):\n- Packing Efficiency = 68.04% ($\\approx 68\\%$)\n- Void Fraction = 31.96% ($\\approx 32\\%$).\n3. Face-Centered Cubic / HCP / CCP:\n- Packing Efficiency = 74.05% ($\\approx 74\\%$)\n- Void Fraction = 25.95% ($\\approx 26\\%$).",
+      "hint": "FCC/CCP and HCP have the highest packing efficiency (74%), leaving the minimum free space (26%)."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Unit Cell Density Formula and molar mass calculations?",
+      "a": "Density formula:\n$\\rho = \\frac{Z \\times M}{a^3 \\times N_A}$\nWhere:\n- $\\rho$ = density of substance in $g/cm^3$ or $kg/m^3$\n- $Z$ = number of atoms per unit cell (1 for SCC, 2 for BCC, 4 for FCC)\n- $M$ = molar mass of substance in $g/mol$\n- $a$ = edge length of cubic unit cell (convert $pm$ to $cm$: $1\\text{ pm} = 10^{-10}\\text{ cm}$)\n- $N_A$ = Avogadro's number ($6.022 \\times 10^{23}\\text{ mol}^{-1}$).",
+      "hint": "MHT-CET Trap: Always check units! If a is in pm, $a^3 = (a \\times 10^{-10}\\text{ cm})^3 = a^3 \\times 10^{-30}\\text{ cm}^3$."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Coordination Number of spheres in 1D, 2D, and 3D crystal packings?",
+      "a": "Coordination number (CN): Number of nearest neighboring spheres in contact.\n- 1D linear close packing: $\\text{CN} = 2$.\n- 2D Square Close Packing (AAA type): $\\text{CN} = 4$.\n- 2D Hexagonal Close Packing (ABAB type): $\\text{CN} = 6$.\n- 3D Simple Cubic (AAA type): $\\text{CN} = 6$.\n- 3D BCC structure: $\\text{CN} = 8$.\n- 3D HCP and CCP / FCC structures: $\\text{CN} = 12$.",
+      "hint": "Maximum coordination number in close-packed metallic crystals is 12 (in FCC and HCP)."
+    },
+    {
+      "id": "c8",
+      "tag": "formula",
+      "q": "Tetrahedral and Octahedral Voids: Count relation and Radius Ratios?",
+      "a": "In a close-packed lattice of $N$ spheres:\n- Number of Octahedral voids = $N$\n- Number of Tetrahedral voids = $2N$\n- Total voids = $3N$.\nRadius Ratios ($r_{\\text{void}} / r_{\\text{sphere}}$):\n1. Triangular void: $0.155 \\le r/R < 0.225$ (CN = 3)\n2. Tetrahedral void: $0.225 \\le r/R < 0.414$ (CN = 4)\n3. Octahedral void: $0.414 \\le r/R < 0.732$ (CN = 6)\n4. Cubic void: $0.732 \\le r/R < 1.000$ (CN = 8).",
+      "hint": "For NaCl, $r_{Na^+}/r_{Cl^-} = 0.525$ (octahedral, CN = 6). For CsCl, $r_{Cs^+}/r_{Cl^-} = 0.93$ (cubic, CN = 8)."
+    },
+    {
+      "id": "c9",
+      "tag": "imp",
+      "q": "Schottky Defect: Conditions, consequences on density, and examples?",
+      "a": "Stoichiometric vacancy defect in ionic solids:\n- Cause: Equal number of cations and anions are missing from their regular lattice sites, creating pairs of cation and anion vacancies.\n- Conditions: Highly ionic compounds with high coordination number and small difference in cation/anion sizes ($r_+ \\approx r_-$).\n- Consequences: Density of substance DECREASES; crystal electrical neutrality is preserved; electrical conductivity slightly increases.\n- Examples: NaCl, KCl, CsCl, AgBr.",
+      "hint": "AgBr is the classic exceptional ionic compound that exhibits BOTH Schottky and Frenkel defects!"
+    },
+    {
+      "id": "c10",
+      "tag": "imp",
+      "q": "Frenkel Defect: Conditions, consequences on density, and examples?",
+      "a": "Stoichiometric dislocation defect in ionic solids:\n- Cause: An ion (usually the smaller cation) is dislocated from its normal lattice site to an interstitial space.\n- Conditions: Large difference in size between cation and anion ($r_+ \\ll r_-$) and low coordination number.\n- Consequences: Density remains UNCHANGED (mass and volume are identical); dielectric constant of crystal increases; neutrality preserved.\n- Examples: ZnS, AgCl, AgBr, AgI (due to small size of $Zn^{2+}$ and $Ag^+$ ions).",
+      "hint": "Schottky defect decreases density; Frenkel defect leaves density unchanged."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Non-Stoichiometric Metal Excess Defects and F-Centers?",
+      "a": "Defect causing excess metal cations over anions:\n1. Anion Vacancies (F-Centers):\n- When NaCl crystal is heated in sodium vapor, $Na$ atoms deposit on surface; $Cl^-$ ions diffuse to surface forming NaCl.\n- Released electrons diffuse into the crystal and occupy the vacant anion sites $\\rightarrow$ termed F-centers (Farbenzenter / color centers).\n- Color effects: NaCl appears yellow; LiCl appears pink; KCl appears violet/lilac.\n2. Extra Cations in Interstitial Sites:\n- When ZnO is heated, it loses oxygen: $\\text{ZnO} \\xrightarrow{\\Delta} \\text{Zn}^{2+} + \\frac{1}{2}O_2 + 2e^-$.\n- $Zn^{2+}$ and electrons occupy interstitial sites; white ZnO turns yellow on heating.",
+      "hint": "F-centers are trapped electrons in anion vacancies responsible for color and paramagnetism."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Doping of Semiconductors: n-type vs p-type extrinsic semiconductors?",
+      "a": "Doping: Adding trace impurities to intrinsic Group 14 elements (Si, Ge) to increase conductivity:\n1. n-type Semiconductor:\n- Si/Ge doped with electron-rich Group 15 pentavalent impurity (P, As, Sb).\n- 4 valence electrons form covalent bonds; 5th extra electron is delocalized and conducts current (majority carriers = free electrons; n = negative).\n2. p-type Semiconductor:\n- Si/Ge doped with electron-deficient Group 13 trivalent impurity (B, Al, Ga, In).\n- 3 valence electrons bond, leaving an electron vacancy (hole) in the 4th bond (majority carriers = positive holes; p = positive).",
+      "hint": "Doping Si with As yields n-type; doping Si with B yields p-type."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Magnetic Properties of Solids: Paramagnetic, Diamagnetic, and Ferromagnetic?",
+      "a": "1. Diamagnetic: Weakly repelled by magnetic field; all electrons are paired ($TiO_2, NaCl, H_2O, C_6H_6$); zero permanent dipole moment.\n2. Paramagnetic: Weakly attracted by magnetic field; contains one or more unpaired electrons ($O_2, Cu^{2+}, Fe^{3+}, Cr^{3+}$); lose magnetism when field is removed.\n3. Ferromagnetic: Strongly attracted and permanently magnetized by magnetic field; magnetic domains align parallel in direction of field ($Fe, Co, Ni, Gd, CrO_2$).\n4. Antiferromagnetic: Domains align in equal and opposite directions, yielding net zero magnetic moment (MnO).\n5. Ferrimagnetic: Domains aligned in parallel and antiparallel directions in unequal numbers, giving small net magnetic moment ($Fe_3O_4$, ferrites).",
+      "hint": "$CrO_2$ (chromium dioxide) is ferromagnetic and used in magnetic audio/video recording tapes."
+    },
+    {
+      "id": "c14",
+      "tag": "formula",
+      "q": "Formula for number of atoms and unit cells in mass x of a metal?",
+      "a": "1. Number of atoms in mass $x$:\n$N_{\\text{atoms}} = \\frac{x \\times N_A}{M}$\n2. Number of unit cells in mass $x$:\n$N_{\\text{cells}} = \\frac{x \\times N_A}{Z \\times M} = \\frac{x}{\\rho \\times a^3}$\n3. Number of unit cells in volume $V$:\n$N_{\\text{cells}} = \\frac{V}{a^3}$.",
+      "hint": "Number of unit cells = Total atoms / Z (where Z = 1 for SC, 2 for BCC, 4 for FCC)."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Bravais Lattices: How many crystal systems and Bravais lattices exist?",
+      "a": "There are 7 primitive Crystal Systems based on unit cell parameters ($a, b, c$ and $\\alpha, \\beta, \\gamma$):\n1. Cubic ($a = b = c, \\alpha = \\beta = \\gamma = 90^\\circ$): 3 Bravais lattices (SC, BCC, FCC).\n2. Tetragonal ($a = b \\ne c, \\alpha = \\beta = \\gamma = 90^\\circ$): 2 lattices (SC, BCC).\n3. Orthorhombic ($a \\ne b \\ne c, \\alpha = \\beta = \\gamma = 90^\\circ$): 4 lattices (SC, BCC, FCC, End-centered).\n4. Monoclinic ($a \\ne b \\ne c, \\alpha = \\gamma = 90^\\circ, \\beta \\ne 90^\\circ$): 2 lattices (SC, End-centered).\n5. Triclinic ($a \\ne b \\ne c, \\alpha \\ne \\beta \\ne \\gamma \\ne 90^\\circ$): 1 lattice (SC - most unsymmetrical).\n6. Hexagonal ($a = b \\ne c, \\alpha = \\beta = 90^\\circ, \\gamma = 120^\\circ$): 1 lattice.\n7. Rhombohedral / Trigonal ($a = b = c, \\alpha = \\beta = \\gamma \\ne 90^\\circ$): 1 lattice.\nTotal = Exactly 14 Bravais Lattices.",
+      "hint": "Orthorhombic system exhibits all 4 types of unit cells (SC, BCC, FCC, End-centered)."
+    },
+    {
+      "id": "c16",
+      "tag": "imp",
+      "q": "Hexagonal Close Packing (HCP) vs Cubic Close Packing (CCP / FCC)?",
+      "a": "Formed by stacking 2D hexagonal close packed layers:\n1. HCP (ABAB... pattern):\n- Third layer spheres are placed over the Tetrahedral voids of the second layer.\n- Stacking sequence: ABABAB...; Unit cell has 6 atoms per unit cell ($Z = 6$);\n- Coordination number = 12; Packing efficiency = 74%; Examples: Mg, Zn, Be.\n2. CCP / FCC (ABCABC... pattern):\n- Third layer spheres are placed over the Octahedral voids of the second layer.\n- Stacking sequence: ABCABC...; Unit cell has 4 atoms ($Z = 4$);\n- Coordination number = 12; Packing efficiency = 74%; Examples: Cu, Ag, Au, Al, Ni.",
+      "hint": "Both HCP and CCP have identical coordination number (12) and packing efficiency (74%)."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Structure of NaCl (Rock Salt) and CsCl (Cesium Chloride)?",
+      "a": "1. NaCl Structure:\n- $Cl^-$ ions form an FCC lattice; $Na^+$ ions occupy all Octahedral voids (at body center and 12 edge centers).\n- Coordination number of $Na^+ = 6$, of $Cl^- = 6$ (6:6 coordination).\n- Number of NaCl formula units per unit cell = 4 ($Z = 4$).\n2. CsCl Structure:\n- $Cl^-$ ions form simple cubic lattice; single $Cs^+$ ion occupies central cubic void.\n- Coordination number of $Cs^+ = 8$, of $Cl^- = 8$ (8:8 coordination).\n- Number of CsCl formula units per unit cell = 1 ($Z = 1$).",
+      "hint": "Heating CsCl (8:8) changes it to NaCl structure (6:6); applying high pressure to NaCl (6:6) converts it to CsCl structure (8:8)."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Compound Formula Determination from Void Occupancy (MHT-CET Problem Model)?",
+      "a": "Rules:\n1. Atoms forming the CCP/FCC lattice = $N$ (or assume 1).\n2. Number of octahedral voids = $N$; number of tetrahedral voids = $2N$.\nExample Problem: An oxide has $O^{2-}$ ions in CCP lattice. Cation A occupies 1/3 of tetrahedral voids, cation B occupies 1/2 of octahedral voids. What is formula?\n- $O = 4$\n- Tetrahedral voids = 8 $\\Rightarrow A = \\frac{1}{3} \\times 8 = \\frac{8}{3}$\n- Octahedral voids = 4 $\\Rightarrow B = \\frac{1}{2} \\times 4 = 2$\n- Ratio $A : B : O = \\frac{8}{3} : 2 : 4 = 8 : 6 : 12 = 4 : 3 : 6 \\Rightarrow A_4 B_3 O_6$.",
+      "hint": "Always set lattice atoms to N, then write tetrahedral voids as 2N and octahedral voids as N."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "What is Curie Temperature ($T_c$)?",
+      "a": "Curie Temperature ($T_c$) is the critical temperature above which a FERROMAGNETIC substance loses its permanent domain magnetization and transforms into a PARAMAGNETIC substance due to thermal randomization of domains.\n- Example: For Iron ($Fe$), $T_c = 1043\\text{ K}$ ($770^\\circ\\text{C}$).\n- For Gadolinium ($Gd$), $T_c = 289\\text{ K}$ ($16^\\circ\\text{C}$).",
+      "hint": "Above Curie temperature, thermal energy overcomes exchange coupling between ferromagnetic spins."
+    },
+    {
+      "id": "c20",
+      "tag": "imp",
+      "q": "Metal Deficiency Defect: Non-stoichiometric FeO composition?",
+      "a": "Occurs when a compound has less metal cations than the ideal stoichiometric formula:\n- Common in transition metals exhibiting variable oxidation states (Fe, Ni, Co).\n- In $FeO$, non-stoichiometric composition is typically $Fe_{0.93}O$ to $Fe_{0.95}O$.\n- Cause: Some $Fe^{2+}$ cations are missing from lattice; to maintain electrical neutrality, an equivalent number of neighboring iron ions oxidize to $Fe^{3+}$ state (2 $Fe^{3+}$ replace 3 $Fe^{2+}$).",
+      "hint": "Missing positive charges are balanced by higher oxidation state of adjacent transition metal cations."
+    },
+    {
+      "id": "c21",
+      "tag": "formula",
+      "q": "Radius of Octahedral Void ($r_o$) vs Tetrahedral Void ($r_t$) in terms of sphere radius (R)?",
+      "a": "1. Tetrahedral Void:\n$r_t = 0.225 R$\n2. Octahedral Void:\n$r_o = 0.414 R$\nComparison:\nAn octahedral void ($0.414 R$) is substantially LARGER than a tetrahedral void ($0.225 R$).",
+      "hint": "Octahedral void is almost twice as large as a tetrahedral void."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Classification of Solids on Electrical Conductivity (Conductors, Insulators, Semiconductors)?",
+      "a": "Based on conductivity values ($\\kappa$ in $\\Omega^{-1}\\cdot m^{-1}$):\n1. Conductors: Very high conductivity ($10^4$ to $10^7\\ \\Omega^{-1}\\cdot m^{-1}$); valence band and conduction band overlap or gap is very small (Metals $\\sim 10^7$).\n2. Insulators: Extremely low conductivity ($10^{-20}$ to $10^{-10}\\ \\Omega^{-1}\\cdot m^{-1}$); large forbidden energy band gap ($E_g > 3\\text{ eV}$); e.g. wood, diamond, rubber.\n3. Semiconductors: Intermediate conductivity ($10^{-6}$ to $10^4\\ \\Omega^{-1}\\cdot m^{-1}$); small energy band gap ($E_g < 3\\text{ eV}$); e.g. Si, Ge.",
+      "hint": "Conductivity of semiconductors INCREASES with temperature (electrons jump across small band gap); conductivity of metals DECREASES with temperature."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "Edge length and volume of Hexagonal Close Packed (HCP) unit cell?",
+      "a": "For a standard HCP unit cell:\n- Basal edge length = $a = 2r$\n- Height of unit cell = $c = 4r \\sqrt{\\frac{2}{3}} = 2a \\sqrt{\\frac{2}{3}} \\approx 1.633 a$\n- Volume of HCP unit cell = $24\\sqrt{2} r^3$\n- Number of atoms per unit cell ($Z$) = 6\n- Packing fraction = 74.05%.",
+      "hint": "The height to base ratio in ideal HCP is $c/a = \\sqrt{8/3} \\approx 1.633$."
+    },
+    {
+      "id": "c24",
+      "tag": "formula",
+      "q": "Formula for distance between nearest neighbors (d) in cubic crystals?",
+      "a": "Distance of closest approach ($d = 2r$):\n1. Simple Cubic: $d = a$\n2. Body-Centered Cubic: $d = 2r = \\frac{\\sqrt{3}}{2} a \\approx 0.866 a$\n3. Face-Centered Cubic: $d = 2r = \\frac{a}{\\sqrt{2}} \\approx 0.707 a$.",
+      "hint": "In BCC, nearest neighbors touch along the body diagonal; in FCC, along the face diagonal."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "MHT-CET Quick Trap: Which defect preserves crystal density and which decreases it?",
+      "a": "- Schottky Defect $\\rightarrow$ DECREASES density (atoms leave the lattice completely).\n- Frenkel Defect $\\rightarrow$ DENSITY UNCHANGED (atoms simply relocate to interstitial spaces).\n- Interstitial Defect $\\rightarrow$ INCREASES density (extra atoms occupy empty voids).\n- Vacancy Defect $\\rightarrow$ DECREASES density.",
+      "hint": "Direct MHT-CET trap question! Density drop = Schottky/Vacancy; Density unchanged = Frenkel."
+    }
+  ]
+}

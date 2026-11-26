@@ -1,0 +1,183 @@
+{
+  "title": "Transition and Inner Transition Elements",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Define Transition Elements. Why are Zn, Cd, and Hg not regarded as true transition elements?",
+      "a": "Transition elements are defined as elements having incompletely filled (partially filled) (n-1)d orbitals either in their elementary ground state or in any of their common oxidation states. General configuration: (n-1)d¹⁻¹⁰ ns¹⁻². Zn ([Ar] 3d¹⁰ 4s²), Cd ([Kr] 4d¹⁰ 5s²), and Hg ([Xe] 4f¹⁴ 5d¹⁰ 6s²) have fully filled d-subshells (d¹⁰) both in atomic state and in their common +2 oxidation states (Zn²⁺, Cd²⁺, Hg²⁺: d¹⁰); hence they are not true transition elements.",
+      "hint": "Zn, Cd, Hg belong to d-block but not true transition metals due to filled d¹⁰."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Explain anomalous electronic configurations of Chromium (Cr, Z=24) and Copper (Cu, Z=29).",
+      "a": "Cr (Z=24): Expected [Ar] 3d⁴ 4s² -> Actual [Ar] 3d⁵ 4s¹. Cu (Z=29): Expected [Ar] 3d⁹ 4s² -> Actual [Ar] 3d¹⁰ 4s¹. Reasons: 1. Half-filled (d⁵) and completely filled (d¹⁰) subshells have extra stability due to symmetrical distribution of electron charge. 2. Maximum exchange energy among parallel spin electrons minimizes repulsive energy.",
+      "hint": "Extra stability of half-filled (d⁵) and completely filled (d¹⁰) configurations."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Why do transition elements exhibit variable oxidation states?",
+      "a": "Because the energy difference between the valence ns orbitals and the inner (n-1)d orbitals is very small. Electrons from both ns and (n-1)d orbitals can participate in chemical bond formation. In 3d series, minimum oxidation state is +1 (for Cu) or +2 (loss of ns electrons), and maximum oxidation state increases up to Manganese (+7 in KMnO₄ = 2 + 5 electrons), then decreases as d-electrons pair up.",
+      "hint": "Mn exhibits maximum oxidation state (+7) in the 3d series."
+    },
+    {
+      "id": "c4",
+      "tag": "formula",
+      "q": "State the Spin-Only Magnetic Moment formula and calculate μ for Fe³⁺ (Z=26) and Ti³⁺ (Z=22).",
+      "a": "Formula: μ = √(n(n+2)) Bohr Magnetons (BM), where n = number of unpaired d-electrons. Fe³⁺ (3d⁵): n = 5 unpaired electrons -> μ = √(5*(5+2)) = √35 = 5.92 BM. Ti³⁺ (3d¹): n = 1 unpaired electron -> μ = √(1*(1+2)) = √3 = 1.73 BM. Diamagnetic if n=0 (μ=0), paramagnetic if n >= 1.",
+      "hint": "Sc³⁺ (3d⁰) and Zn²⁺ (3d¹⁰) have n=0 and are diamagnetic (μ = 0)."
+    },
+    {
+      "id": "c5",
+      "tag": "concept",
+      "q": "Why are most transition metal ions and their complexes colored?",
+      "a": "In an isolated gaseous ion, five d-orbitals are degenerate. In presence of surrounding ligands or water molecules, the d-orbitals split into two sets of different energies (t₂g and eg). When visible light falls on the complex, an electron from a lower d-orbital absorbs specific wavelength light and gets excited to a higher d-orbital (d-d transition). The transmitted (complementary) color is observed.",
+      "hint": "Ions with d⁰ (Sc³⁺, Ti⁴⁺) or d¹⁰ (Zn²⁺, Cu⁺) cannot undergo d-d transition and are COLORLESS."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Why do transition metals and their compounds act as excellent catalysts?",
+      "a": "1. Variable oxidation states: They can easily change oxidation states to form unstable reaction intermediates with reactants, providing a pathway of lower activation energy (e.g., Fe³⁺ in persulfate-iodide reaction). 2. Large surface area and vacant d-orbitals: Provide adsorption sites on their solid surface to weaken reactant bonds and increase local reactant concentration (e.g., Ni in hydrogenation, V₂O₅ in Contact process, Fe in Haber process).",
+      "hint": "Variable valence + vacant d-orbitals allow formation of unstable intermediate complexes."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "What are Interstitial Compounds? List three characteristic properties.",
+      "a": "Compounds formed when small non-metal atoms (H, B, C, N) get trapped in the interstitial voids of transition metal crystal lattices (e.g., TiC, Fe₃H, Mn₄N). Properties: 1. Very high melting points, higher than parent pure metals. 2. Extremely hard (some borides approach diamond hardness). 3. Retain metallic electrical and thermal conductivity. 4. Chemically inert.",
+      "hint": "Non-stoichiometric compounds that retain electrical conductivity."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "What is Alloy formation in transition metals? State Hume-Rothery rule.",
+      "a": "Transition metals readily form alloys because their atomic radii are very similar (within 15% of each other, per Hume-Rothery rule). An atom of one metal can easily replace an atom of another metal in the crystal lattice to form a solid solution (substitutional alloy). Examples: Brass (Cu + Zn), Bronze (Cu + Sn), Stainless steel (Fe + Cr + Ni).",
+      "hint": "Atomic sizes differ by less than 15%, allowing mutual lattice substitution."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Define Lanthanoid Contraction. What is its fundamental cause?",
+      "a": "The steady, gradual decrease in atomic and ionic radii (Ln³⁺) of lanthanoids with increasing atomic number from Lanthanum (La, Z=57) to Lutetium (Lu, Z=71). Cause: As atomic number increases by 1, the added electron enters the inner 4f subshell. 4f electrons have very diffuse shapes and provide extremely poor shielding/screening effect on outer valence electrons against increasing effective nuclear charge (Zeff), causing the electron cloud to contract.",
+      "hint": "Imperfect shielding of 4f electrons causes Lanthanoid Contraction."
+    },
+    {
+      "id": "c10",
+      "tag": "imp",
+      "q": "List three important consequences of Lanthanoid Contraction.",
+      "a": "1. Similarity in size of 4d and 5d transition elements: Zr (160 pm) and Hf (159 pm), Nb and Ta have nearly identical radii and show virtually identical chemical properties, making their separation extremely difficult. 2. Decrease in basic strength of Ln(OH)₃: From La(OH)₃ to Lu(OH)₃, ionic size decreases, covalent character increases; hence La(OH)₃ is most basic and Lu(OH)₃ is least basic. 3. Small variation in chemical properties allows separation only by ion-exchange chromatography.",
+      "hint": "Zr and Hf are chemical twins because of lanthanoid contraction."
+    },
+    {
+      "id": "c11",
+      "tag": "formula",
+      "q": "Describe preparation of Potassium Dichromate (K₂Cr₂O₇) from Chromite ore.",
+      "a": "1. Fusion with soda ash: 4FeCr₂O₄ + 8Na₂CO₃ + 7O₂ -> 8Na₂CrO₄ (yellow) + 2Fe₂O₃ + 8CO₂. 2. Acidification of chromate: 2Na₂CrO₄ + H₂SO₄ -> Na₂Cr₂O₇ (orange) + Na₂SO₄ + H₂O. 3. Conversion to potassium salt: Na₂Cr₂O₇ + 2KCl -> K₂Cr₂O₇ (orange crystals, less soluble) + 2NaCl.",
+      "hint": "In alkaline medium, orange Cr₂O₇²⁻ converts to yellow CrO₄²⁻; in acid, it reverts to orange Cr₂O₇²⁻."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Explain the pH-dependent interconversion between Chromate (CrO₄²⁻) and Dichromate (Cr₂O₇²⁻).",
+      "a": "They exist in equilibrium: 2CrO₄²⁻ (yellow) + 2H⁺ <=> Cr₂O₇²⁻ (orange) + H₂O. In acidic medium (low pH), equilibrium shifts forward, forming orange dichromate ion. In basic/alkaline medium (high pH, OH⁻ consumes H⁺), equilibrium shifts backward, forming yellow chromate ion. Oxidation state of Cr remains +6 in both ions.",
+      "hint": "MHT-CET trap: Oxidation state of Cr is +6 in both CrO₄²⁻ and Cr₂O₇²⁻!"
+    },
+    {
+      "id": "c13",
+      "tag": "formula",
+      "q": "Describe preparation of Potassium Permanganate (KMnO₄) from Pyrolusite ore (MnO₂).",
+      "a": "1. Fusion of MnO₂ with KOH and oxidizing agent (KNO₃ or O₂): 2MnO₂ + 4KOH + O₂ -> 2K₂MnO₄ (dark green potassium manganate) + 2H₂O. 2. Disproportionation/electrolytic oxidation: In acidic solution: 3MnO₄²⁻ + 4H⁺ -> 2MnO₄⁻ (purple permanganate) + MnO₂ + 2H₂O. Commercially: Alkaline manganate is oxidized electrolytically: MnO₄²⁻ -> MnO₄⁻ + e⁻.",
+      "hint": "Manganate (MnO₄²⁻, Mn=+6) is green; Permanganate (MnO₄⁻, Mn=+7) is purple."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Why is KMnO₄ deeply colored (intense purple) even though Mn is in +7 oxidation state (d⁰)?",
+      "a": "In MnO₄⁻, Mn⁷⁺ has 3d⁰ configuration with no unpaired d-electrons; hence d-d transitions are impossible. The intense purple color is due to Charge Transfer Spectra (ligand-to-metal charge transfer, LMCT): a momentary transfer of an electron from oxygen (ligand p-orbital) to manganese (empty d-orbital) upon absorption of green-yellow light in the visible spectrum.",
+      "hint": "Color of KMnO₄ is due to Charge Transfer (LMCT), NOT d-d transition."
+    },
+    {
+      "id": "c15",
+      "tag": "formula",
+      "q": "Give the equivalent weight and oxidation reactions of KMnO₄ in acidic medium.",
+      "a": "In acidic medium: MnO₄⁻ + 8H⁺ + 5e⁻ -> Mn²⁺ + 4H₂O (n-factor = 5). Equivalent weight = M / 5 = 158 / 5 = 31.6 g/eq. Oxidations: 1. Fe²⁺ (ferrous) -> Fe³⁺ (ferric): 5Fe²⁺ + MnO₄⁻ + 8H⁺ -> 5Fe³⁺ + Mn²⁺ + 4H₂O. 2. Oxalate C₂O₄²⁻ -> 2CO₂. 3. Iodide 2I⁻ -> I₂.",
+      "hint": "Acidic medium n-factor = 5 (Mn⁷⁺ -> Mn²⁺); Neutral = 3 (Mn⁴⁺); Alkaline = 1 (Mn⁶⁺)."
+    },
+    {
+      "id": "c16",
+      "tag": "concept",
+      "q": "What is Mischmetal? State its composition and major use.",
+      "a": "Mischmetal is an alloy of lanthanoid metals. Composition: ~95% lanthanoid metals (chiefly Cerium ~50%, Lanthanum and Neodymium ~40%), ~5% Iron, and traces of S, C, Ca, Al. Major use: Production of pyrophoric alloy for lighter flints, bullet jackets, and artillery shells.",
+      "hint": "Mischmetal contains ~50% Cerium + ~5% Iron."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Compare Lanthanoids (4f) and Actinoids (5f) across three key properties.",
+      "a": "1. Oxidation states: Lanthanoids show predominantly +3 (rarely +2, +4). Actinoids show a wider range of oxidation states (+3, +4, +5, +6, +7) because 5f, 6d, and 7s levels have comparable energies. 2. Radioactivity: Only Promethium (Pm) is radioactive in lanthanoids; ALL actinoids are radioactive. 3. Complex formation: Actinoids have higher charge densities and form complexes much more readily than lanthanoids.",
+      "hint": "Actinoid contraction is greater from element to element than lanthanoid contraction due to poorer 5f shielding."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "Why is Actinoid Contraction greater than Lanthanoid Contraction?",
+      "a": "Because 5f electrons in actinoids have poorer shielding effect than 4f electrons in lanthanoids against the increasing nuclear charge. The 5f orbitals extend further in space beyond 6s and 6p, resulting in less effective shielding, so valence electrons experience greater effective nuclear pull and greater contraction per element.",
+      "hint": "5f electrons shield less effectively than 4f electrons."
+    },
+    {
+      "id": "c19",
+      "tag": "imp",
+      "q": "Explain why Cu⁺ is unstable in aqueous solution and undergoes disproportionation.",
+      "a": "In aqueous solution, Cu⁺ undergoes disproportionation: 2Cu⁺(aq) -> Cu²⁺(aq) + Cu(s). Although removing second electron from Cu⁺ requires high second ionization enthalpy, Cu²⁺ has a much higher charge density than Cu⁺ and releases an enormous amount of Hydration Enthalpy (ΔH_hyd for Cu²⁺ is -2121 kJ/mol vs -580 kJ/mol for Cu⁺). This large negative hydration energy overcompensates for the second ionization energy.",
+      "hint": "High hydration enthalpy of Cu²⁺ drives the disproportionation of Cu⁺ in water."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Which 3d transition metal exhibits the highest melting point and why? What about highest density?",
+      "a": "Chromium (Cr) has the highest melting point in the 3d series (~1907°C) due to maximum number of unpaired electrons (3d⁵ 4s¹ = 6 unpaired electrons) forming extremely strong interatomic metallic/covalent bonds. (In overall transition metals, Tungsten (W) has highest MP, 3422°C). Highest density in 3d series: Copper (Cu) and Nickel (Ni) (~8.9 g/cm³); in overall d-block: Osmium (Os, 22.59 g/cm³) and Iridium (Ir, 22.61 g/cm³).",
+      "hint": "Melting point reaches peak near middle of series due to maximum unpaired d-electrons."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Explain why Ce⁴⁺ and Eu²⁺ are well-known stable oxidation states in lanthanoids.",
+      "a": "Cerium (Ce, Z=58) has configuration [Xe] 4f¹ 5d¹ 6s². On losing 4 electrons, Ce⁴⁺ attains the exceptionally stable noble gas configuration of Xenon ([Xe] 4f⁰). Thus Ce⁴⁺ is stable (and acts as a strong oxidizing agent reverting to Ce³⁺). Europium (Eu, Z=63) has [Xe] 4f⁷ 6s². On losing 2 electrons, Eu²⁺ attains a stable half-filled 4f⁷ configuration (acts as a reducing agent).",
+      "hint": "Ce⁴⁺ has noble gas core [Xe] 4f⁰; Eu²⁺ has half-filled 4f⁷."
+    },
+    {
+      "id": "c22",
+      "tag": "imp",
+      "q": "What are Transuranic elements? Name the first two synthesized transuranic elements.",
+      "a": "Elements with atomic number greater than Uranium (Z > 92) in the actinoid series are called Transuranic elements. They are man-made synthetic radioactive elements produced by nuclear bombardment reactions. The first synthesized transuranic element is Neptunium (Np, Z=93), followed by Plutonium (Pu, Z=94).",
+      "hint": "All elements beyond uranium (Z=92) are synthetic and radioactive."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "Why do transition metal oxides change character from basic to amphoteric to acidic as oxidation state increases?",
+      "a": "In lower oxidation states (e.g., MnO, FeO: +2), metal retains electropositive/ionic character and readily donates O²⁻ ions in acid, acting as BASIC. In intermediate oxidation states (e.g., Mn₂O₃, Cr₂O₃: +3), covalent character increases, making them AMPHOTERIC. In highest oxidation states (e.g., CrO₃, Mn₂O₇: +6, +7), high polarizing power of small cation pulls electron density completely, forming covalent bonds with oxygen and acting as ACIDIC oxides.",
+      "hint": "MnO (basic) -> MnO₂ (amphoteric) -> Mn₂O₇ (covalent acidic green oil)."
+    },
+    {
+      "id": "c24",
+      "tag": "formula",
+      "q": "Calculate the magnetic moment of Mn²⁺ and V³⁺ ions.",
+      "a": "Mn²⁺ (Z=25): [Ar] 3d⁵. n = 5 unpaired electrons -> μ = √(5*(5+2)) = √35 = 5.92 BM. V³⁺ (Z=23): [Ar] 3d². n = 2 unpaired electrons -> μ = √(2*(2+2)) = √8 = 2.84 BM.",
+      "hint": "Always write d-electron configuration after removing ns electrons first!"
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "Why is standard electrode potential E°(Cu²⁺/Cu) positive (+0.34 V) unlike other 3d transition metals?",
+      "a": "E° value depends on sum of three enthalpy terms: sublimation enthalpy (ΔH_sub), ionization enthalpy (IE₁ + IE₂), and hydration enthalpy (ΔH_hyd). Copper has high sublimation enthalpy and exceptionally high second ionization enthalpy (removing electron from stable 3d¹⁰). The hydration enthalpy of Cu²⁺ is insufficient to compensate for the high sum of (ΔH_sub + IE₁ + IE₂). Hence overall ΔH is positive and E°(Cu²⁺/Cu) is positive (+0.34 V).",
+      "hint": "Cu cannot displace H₂ from dilute acids because of its positive E° (+0.34 V)."
+    }
+  ]
+}

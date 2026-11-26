@@ -1,0 +1,183 @@
+{
+  "title": "Ionic Equilibria",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Electrolytes vs Non-electrolytes: Strong vs Weak Electrolytes?",
+      "a": "Electrolytes: Substances whose aqueous solutions conduct electricity due to the presence of free ions.\n1. Strong Electrolytes: Ionize almost completely (Degree of dissociation $\\alpha \\approx 1$) in aqueous solution (e.g. strong acids: $HCl, HNO_3, H_2SO_4$; strong bases: $NaOH, KOH$; all water-soluble salts: $NaCl, KCl$).\n2. Weak Electrolytes: Ionize to a small extent ($\\alpha \\ll 1$) in aqueous solution, establishing dynamic equilibrium between ions and unionized molecules (e.g. weak acids: $CH_3COOH, HCN, HCOOH$; weak bases: $NH_4OH, Cu(OH)_2$).\nNon-electrolytes: Do not ionize in solution; non-conductors (e.g. Urea, Glucose, Sucrose).",
+      "hint": "Degree of dissociation $\\alpha = [\\text{Number of moles dissociated}] / [\\text{Total moles initial}]$."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Acid-Base Theories: Arrhenius, Brønsted-Lowry, and Lewis concepts?",
+      "a": "1. Arrhenius Theory: Acid produces $H^+$ ($H_3O^+$) in water; Base produces $OH^-$ in water (limited strictly to aqueous solutions).\n2. Brønsted-Lowry (Protonic) Theory: Acid is a PROTON ($H^+$) DONOR; Base is a PROTON ($H^+$) ACCEPTOR.\n- Conjugate Acid-Base Pair: Differ by exactly one proton ($H^+$) (e.g. $HCl / Cl^-$ or $NH_4^+ / NH_3$). Conjugate base of strong acid is weak.\n3. Lewis (Electronic) Theory: Acid is an ELECTRON-PAIR ACCEPTOR (electrophile, e.g. $BF_3, AlCl_3$, cations $Cu^{2+}$); Base is an ELECTRON-PAIR DONOR (nucleophile, e.g. $:NH_3, H_2\\ddot{O}:$, anions $OH^-, CN^-$).",
+      "hint": "All Arrhenius acids are Bronsted acids, but all Lewis acids are NOT Bronsted acids (e.g. $BF_3$ has no proton)."
+    },
+    {
+      "id": "c3",
+      "tag": "formula",
+      "q": "Ostwald's Dilution Law for Weak Acids and Weak Bases?",
+      "a": "Applies to weak electrolytes in dilute aqueous solution:\nFor weak monobasic acid: $HA + H_2O \\rightleftharpoons H_3O^+ + A^-$\nIonization constant: $K_a = \\frac{[H^+][A^-]}{[HA]} = \\frac{C\\alpha \\cdot C\\alpha}{C(1 - \\alpha)} = \\frac{\\alpha^2 C}{1 - \\alpha}$\nSince $\\alpha \\ll 1$ for weak electrolytes, $(1 - \\alpha) \\approx 1$:\n$K_a = \\alpha^2 C = \\frac{\\alpha^2}{V} \\Rightarrow \\alpha = \\sqrt{\\frac{K_a}{C}} = \\sqrt{K_a \\cdot V}$\nSimilarly, for weak base: $\\alpha = \\sqrt{\\frac{K_b}{C}} = \\sqrt{K_b \\cdot V}$.",
+      "hint": "Degree of dissociation is inversely proportional to square root of concentration, and directly proportional to square root of dilution (volume V)."
+    },
+    {
+      "id": "c4",
+      "tag": "formula",
+      "q": "Ionic Product of Water ($K_w$) and its temperature dependence?",
+      "a": "Autoionization of pure water: $H_2O + H_2O \\rightleftharpoons H_3O^+ + OH^-$\nIonic product equation:\n$K_w = [H_3O^+][OH^-]$\nAt 298 K (25°C):\n- $[H_3O^+] = [OH^-] = 1.0 \\times 10^{-7}\\text{ M}$\n- $K_w = (1.0 \\times 10^{-7})(1.0 \\times 10^{-7}) = 1.0 \\times 10^{-14}\\text{ mol}^2\\cdot\\text{L}^{-2}$\nTaking negative log: $pK_w = pH + pOH = 14$.\nTemperature Effect:\nAutoionization of water is ENDOTHERMIC $\\rightarrow$ as temperature increases, $K_w$ increases (at 373 K, $K_w \\approx 10^{-12}$, neutral pH = 6).",
+      "hint": "Pure water is neutral at all temperatures because $[H^+] = [OH^-]$ always, even though neutral pH shifts with temperature."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Definitions of pH, pOH, and relationship between pH and pOH?",
+      "a": "Introduced by Sørensen (1909):\n1. $pH = -\\log_{10}[H_3O^+] = -\\log_{10}[H^+]$\n2. $pOH = -\\log_{10}[OH^-]$\n3. $[H^+] = 10^{-pH}$ and $[OH^-] = 10^{-pOH}$\nRelationship at 298 K:\n$pH + pOH = pK_w = 14.0$\n- Neutral solution: $pH = 7$ ($[H^+] = [OH^-] = 10^{-7}\\text{ M}$)\n- Acidic solution: $pH < 7$ ($[H^+] > 10^{-7}\\text{ M}$)\n- Basic solution: $pH > 7$ ($[H^+] < 10^{-7}\\text{ M}$).",
+      "hint": "A 1-unit decrease in pH represents a 10-fold increase in $[H^+]$ concentration."
+    },
+    {
+      "id": "c6",
+      "tag": "formula",
+      "q": "Calculation of pH for Weak Acids and Weak Bases?",
+      "a": "For weak acid $HA$ of concentration $C$:\n1. $[H^+] = \\alpha C = \\sqrt{K_a \\cdot C}$\n2. $pH = \\frac{1}{2} [pK_a - \\log_{10}C]$\nFor weak base $BOH$ of concentration $C$:\n1. $[OH^-] = \\alpha C = \\sqrt{K_b \\cdot C}$\n2. $pOH = \\frac{1}{2} [pK_b - \\log_{10}C]$\n3. $pH = 14 - pOH = 14 - \\frac{1}{2}[pK_b - \\log_{10}C]$.",
+      "hint": "For a strong monobasic acid ($0.01\\text{ M } HCl$): $[H^+] = 10^{-2}\\text{ M} \\Rightarrow pH = 2$."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Hydrolysis of Salts: Types of salts and their behavior in water?",
+      "a": "Interaction of salt ions with water producing excess $H^+$ or $OH^-$:\n1. Salt of Strong Acid + Strong Base ($NaCl, KNO_3$): Neither cation nor anion hydrolyzes $\\rightarrow$ Neutral solution ($pH = 7$).\n2. Salt of Strong Acid + Weak Base ($NH_4Cl, CuSO_4$): Cation ($NH_4^+$) hydrolyzes with water releasing $H_3O^+$ (Cationic Hydrolysis) $\\rightarrow$ ACIDIC solution ($pH < 7$).\n3. Salt of Weak Acid + Strong Base ($CH_3COONa, NaCN$): Anion ($CH_3COO^-$) hydrolyzes with water releasing $OH^-$ (Anionic Hydrolysis) $\\rightarrow$ BASIC solution ($pH > 7$).\n4. Salt of Weak Acid + Weak Base ($CH_3COONH_4, NH_4CN$): Both cation and anion hydrolyze.",
+      "hint": "Cationic hydrolysis gives acidic solution; anionic hydrolysis gives basic solution."
+    },
+    {
+      "id": "c8",
+      "tag": "formula",
+      "q": "pH formulas for Hydrolyzed Salts: Weak Acid + Strong Base vs Strong Acid + Weak Base?",
+      "a": "1. Salt of Weak Acid + Strong Base ($CH_3COONa$):\n$pH = 7 + \\frac{1}{2} pK_a + \\frac{1}{2} \\log_{10} C$\n($pH > 7$; alkaline)\n2. Salt of Strong Acid + Weak Base ($NH_4Cl$):\n$pH = 7 - \\frac{1}{2} pK_b - \\frac{1}{2} \\log_{10} C$\n($pH < 7$; acidic)\n3. Salt of Weak Acid + Weak Base ($CH_3COONH_4$):\n$pH = 7 + \\frac{1}{2} pK_a - \\frac{1}{2} pK_b$\n(Independent of salt concentration $C$!).",
+      "hint": "The pH of a salt of weak acid + weak base is independent of concentration."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Buffer Solutions: Types, definitions, and applications?",
+      "a": "A solution that resists drastic changes in pH upon addition of small amounts of strong acid, strong base, or on dilution.\nTypes:\n1. Acidic Buffer: Weak acid + its salt with a strong base (e.g. $CH_3COOH + CH_3COONa$). Maintains $pH < 7$.\n2. Basic Buffer: Weak base + its salt with a strong acid (e.g. $NH_4OH + NH_4Cl$). Maintains $pH > 7$.\nApplications:\n- Human blood maintains pH at 7.35-7.45 via $H_2CO_3 / HCO_3^-$ buffer.\n- Pharmaceutical formulations and microbiological cultures.",
+      "hint": "Buffer capacity is maximum when $[\\text{Salt}] = [\\text{Acid}]$, i.e. when $pH = pK_a$."
+    },
+    {
+      "id": "c10",
+      "tag": "formula",
+      "q": "Henderson-Hasselbalch Equations for Acidic and Basic Buffers?",
+      "a": "1. For Acidic Buffer ($CH_3COOH + CH_3COONa$):\n$pH = pK_a + \\log_{10} \\left( \\frac{[\\text{Salt}]}{[\\text{Acid}]} \\right)$\nBuffer action range: $pH = pK_a \\pm 1$.\n2. For Basic Buffer ($NH_4OH + NH_4Cl$):\n$pOH = pK_b + \\log_{10} \\left( \\frac{[\\text{Salt}]}{[\\text{Base}]} \\right)$\n$pH = 14 - pOH = 14 - \\left[ pK_b + \\log_{10} \\left( \\frac{[\\text{Salt}]}{[\\text{Base}]} \\right) \\right]$.",
+      "hint": "If $[\\text{Salt}] = [\\text{Acid}]$, then $\\log_{10}(1) = 0 \\Rightarrow pH = pK_a$."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Common Ion Effect: Statement, mechanism, and qualitative analysis applications?",
+      "a": "Statement: The suppression of the degree of dissociation of a weak electrolyte by the addition of a strong electrolyte containing a common ion.\nMechanism:\n- In weak acid: $CH_3COOH \\rightleftharpoons CH_3COO^- + H^+$.\n- Adding strong electrolyte $CH_3COONa \\rightarrow CH_3COO^- + Na^+$ introduces excess common $CH_3COO^-$ ions.\n- By Le Chatelier's principle, equilibrium shifts to the left, suppressing $CH_3COOH$ dissociation.\nApplications:\n1. Group II Cations: Precipitation of $Cu^{2+}, Pb^{2+}$ as sulfides using $H_2S$ in presence of dil. $HCl$ ($H^+$ suppresses $H_2S$ dissociation $\\rightarrow$ low $[S^{2-}]$ precipitates only Group II with very low $K_{sp}$).\n2. Group III Cations: Precipitation of $Fe^{3+}, Al^{3+}$ using $NH_4OH$ in presence of $NH_4Cl$ ($NH_4^+$ suppresses $NH_4OH$ dissociation $\\rightarrow$ low $[OH^-]$ precipitates only Group III).",
+      "hint": "Adding $NH_4Cl$ to $NH_4OH$ suppresses $[OH^-]$ to selectively precipitate only Group III hydroxides."
+    },
+    {
+      "id": "c12",
+      "tag": "formula",
+      "q": "Solubility Product ($K_{sp}$): Expression and relationship with molar solubility (S)?",
+      "a": "For a sparingly soluble salt $B_x A_y \\rightleftharpoons x B^{y+} + y A^{x-}$:\n$K_{sp} = [B^{y+}]^x [A^{x-}]^y = (xS)^x (yS)^y = x^x y^y S^{x+y}$\nCommon Salt Types:\n1. 1:1 Type (AgCl, BaSO$_4$): $x=1, y=1 \\Rightarrow K_{sp} = S^2 \\Rightarrow S = \\sqrt{K_{sp}}$\n2. 1:2 Type ($CaF_2, PbCl_2$): $x=1, y=2 \\Rightarrow K_{sp} = 1^1 \\cdot 2^2 \\cdot S^{1+2} = 4S^3 \\Rightarrow S = \\sqrt[3]{K_{sp} / 4}$\n3. 2:1 Type ($Ag_2CrO_4$): $x=2, y=1 \\Rightarrow K_{sp} = 4S^3 \\Rightarrow S = \\sqrt[3]{K_{sp} / 4}$\n4. 1:3 Type ($Al(OH)_3$): $x=1, y=3 \\Rightarrow K_{sp} = 27S^4 \\Rightarrow S = \\sqrt[4]{K_{sp} / 27}$.",
+      "hint": "For $Al(OH)_3$, $K_{sp} = 27 S^4$; for $AgCl$, $K_{sp} = S^2$; for $PbI_2$, $K_{sp} = 4S^3$."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Condition for Precipitation: Ionic Product (IP) vs Solubility Product ($K_{sp}$)?",
+      "a": "Comparing Ionic Product ($IP$) and Solubility Product ($K_{sp}$):\n1. If $IP < K_{sp}$: Solution is UNSATURATED $\\rightarrow$ no precipitation occurs; more solute can dissolve.\n2. If $IP = K_{sp}$: Solution is SATURATED $\\rightarrow$ dynamic equilibrium exists; no precipitation.\n3. If $IP > K_{sp}$: Solution is SUPERSATURATED $\\rightarrow$ PRECIPITATION OCCURS until $IP$ drops to equal $K_{sp}$.",
+      "hint": "Precipitation occurs ONLY when the ionic product exceeds the solubility product ($IP > K_{sp}$)."
+    },
+    {
+      "id": "c14",
+      "tag": "formula",
+      "q": "Effect of Common Ion on Solubility of a sparingly soluble salt?",
+      "a": "Solubility of a sparingly soluble salt DECREASES in the presence of a common ion.\nExample: Solubility of AgCl in $0.1\\text{ M } NaCl$:\n- $NaCl \\rightarrow Na^+ + Cl^-$ ($[Cl^-] = 0.1\\text{ M}$)\n- $K_{sp} = [Ag^+][Cl^-] = (S')(S' + 0.1) \\approx S'(0.1)$\n- $S' = \\frac{K_{sp}}{0.1} = 10 K_{sp}$.\nSince $K_{sp} \\sim 1.8 \\times 10^{-10}$:\n- In pure water: $S = \\sqrt{1.8 \\times 10^{-10}} \\approx 1.34 \\times 10^{-5}\\text{ M}$\n- In 0.1 M NaCl: $S' = 1.8 \\times 10^{-9}\\text{ M}$ (solubility drops nearly 10,000-fold!).",
+      "hint": "Common ion drastically reduces the solubility of a sparingly soluble salt."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Acid-Base Indicators: Phenolphthalein and Methyl Orange working mechanism?",
+      "a": "Acid-base indicators are weak organic acids or bases whose ionized and unionized forms exhibit distinct colors:\n1. Phenolphthalein ($HIn$): Weak organic acid.\n- Unionized $HIn$ (in acid) = COLORLESS; Ionized $In^-$ (in base) = PINK.\n- pH transition range = 8.3 to 10.0 (suitable for Strong Acid vs Strong Base, and Weak Acid vs Strong Base titrations).\n2. Methyl Orange ($MeOH$): Weak base.\n- Unionized form (in base) = YELLOW; Ionized cation (in acid) = RED.\n- pH transition range = 3.1 to 4.4 (suitable for Strong Acid vs Weak Base titrations).",
+      "hint": "Phenolphthalein cannot be used for Weak Acid vs Weak Base titration because there is no sharp vertical pH jump at equivalence point."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "What is the pH of a $10^{-8}\\text{ M } HCl$ solution? (Classic MHT-CET Trap)",
+      "a": "Trap: $\\text{pH} = -\\log_{10}(10^{-8}) = 8$ is WRONG! (An acid solution cannot have a basic pH > 7).\nCorrect calculation:\nWater itself contributes significant $[H^+]$ ($10^{-7}\\text{ M}$):\n$[H^+]_{\\text{total}} = [H^+]_{\\text{acid}} + [H^+]_{\\text{water}} = 10^{-8} + 10^{-7} = 10^{-8}(1 + 10) = 1.1 \\times 10^{-7}\\text{ M}$\n$pH = -\\log_{10}(1.1 \\times 10^{-7}) = 7 - \\log_{10}(1.1) = 7 - 0.0414 = 6.96$.\nThe pH is 6.96 (slightly acidic, < 7).",
+      "hint": "In ultra-dilute acid solutions ($<10^{-6}\\text{ M}$), always add the $10^{-7}\\text{ M } H^+$ contribution from water."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Amphoteric Nature of Water and Amphiprotic Species?",
+      "a": "Water can act as both a Brønsted acid (proton donor) and a Brønsted base (proton acceptor):\n1. Acting as Base: $H_2O + HCl \\rightleftharpoons H_3O^+ + Cl^-$ (accepts proton from $HCl$).\n2. Acting as Acid: $H_2O + NH_3 \\rightleftharpoons NH_4^+ + OH^-$ (donates proton to $NH_3$).\nAmphiprotic species: Can both donate and accept a proton (e.g. $HCO_3^-, HSO_4^-, H_2PO_4^-$).",
+      "hint": "$HCO_3^-$ is amphiprotic: adds $H^+ \\rightarrow H_2CO_3$; loses $H^+ \\rightarrow CO_3^{2-}$."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Relation between $K_a$ and $K_b$ for a conjugate acid-base pair?",
+      "a": "For a conjugate acid-base pair (e.g. $NH_4^+$ and $NH_3$):\n$K_a \\times K_b = K_w$\nTaking negative log:\n$pK_a + pK_b = pK_w = 14$ (at 298 K).\nConsequence:\n- The stronger an acid (higher $K_a$, lower $pK_a$), the weaker is its conjugate base (lower $K_b$, higher $pK_b$).",
+      "hint": "$pK_a + pK_b = 14$ for any conjugate acid-base pair at 25°C."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Degree of Dissociation ($\\alpha$) and percentage dissociation?",
+      "a": "Degree of dissociation ($\\alpha$) = Fraction of total moles of electrolyte that ionizes into ions at equilibrium:\n$\\alpha = \\frac{\\text{Moles dissociated}}{\\text{Total moles initial}}$\nPercentage dissociation = $\\alpha \\times 100\\%$.\n- For $0.1\\text{ M } CH_3COOH$ with $K_a = 1.8 \\times 10^{-5}$:\n$\\alpha = \\sqrt{\\frac{K_a}{C}} = \\sqrt{\\frac{1.8 \\times 10^{-5}}{0.1}} = \\sqrt{1.8 \\times 10^{-4}} = 1.34 \\times 10^{-2} = 0.0134$.\nPercentage dissociation = $0.0134 \\times 100 = 1.34\\%$.",
+      "hint": "Only ~1.34% of acetic acid molecules are ionized in a 0.1 M solution."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Buffer Capacity and Buffer Index: Definition and maximum buffer efficiency?",
+      "a": "Buffer Capacity ($\\beta$ / Buffer Index): Number of moles of strong acid or strong base added to 1 liter of buffer solution to change its pH by one unit:\n$\\beta = \\frac{d b}{d(pH)}$ or $\\frac{d a}{d(pH)}$\nCondition for Maximum Buffer Capacity:\nBuffer capacity is MAXIMUM when $[\\text{Salt}] = [\\text{Acid}]$ for acidic buffer ($pH = pK_a$), or $[\\text{Salt}] = [\\text{Base}]$ for basic buffer ($pOH = pK_b$).",
+      "hint": "Buffer solutions are most resistant to pH change when $[\\text{Salt}]/[\\text{Acid}] = 1$."
+    },
+    {
+      "id": "c21",
+      "tag": "formula",
+      "q": "Solubility Product calculation for $Fe(OH)_3$ from its solubility?",
+      "a": "Ionization: $Fe(OH)_3 \\rightleftharpoons Fe^{3+} + 3 OH^-$\nIf solubility is $S$ mol/L:\n$[Fe^{3+}] = S$, $[OH^-] = 3S$\n$K_{sp} = [Fe^{3+}][OH^-]^3 = (S)(3S)^3 = 27 S^4$\nConversely, $S = \\left( \\frac{K_{sp}}{27} \\right)^{1/4}$.",
+      "hint": "Don't forget to cube the 3S: $(3S)^3 = 27 S^3$, yielding $K_{sp} = 27 S^4$."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Selective Precipitation in Qualitative Inorganic Analysis using $K_{sp}$?",
+      "a": "1. Group II vs Group IV Sulfides:\n- Group II ($Cu^{2+}, Pb^{2+}, Bi^{3+}, Cd^{2+}$) have very LOW $K_{sp}$ ($10^{-30}$ to $10^{-40}$). Precipitated by $H_2S$ in dil. $HCl$ because common ion $H^+$ keeps $[S^{2-}]$ low, satisfying $IP > K_{sp}$ ONLY for Group II.\n- Group IV ($Ni^{2+}, Co^{2+}, Mn^{2+}, Zn^{2+}$) have higher $K_{sp}$ ($10^{-15}$ to $10^{-20}$). Precipitated by $H_2S$ in $NH_4OH$ where $OH^-$ removes $H^+$ and increases $[S^{2-}]$.\n2. Group III Hydroxides ($Fe^{3+}, Al^{3+}, Cr^{3+}$):\n- Precipitated by $NH_4OH$ in $NH_4Cl$; common ion $NH_4^+$ keeps $[OH^-]$ low, precipitating only Group III (low $K_{sp}$) while Group V cations ($Ba^{2+}, Ca^{2+}$) remain in solution.",
+      "hint": "Dil. HCl suppresses $H_2S$ ionization; $NH_4OH$ enhances it."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "Why does a solution of $FeCl_3$ or $AlCl_3$ turn blue litmus red?",
+      "a": "Salt of Strong Acid ($HCl$) and Weak Base ($Fe(OH)_3$ / $Al(OH)_3$):\n- Undergoes Cationic Hydrolysis:\n$Fe^{3+} + 3 H_2O \\rightleftharpoons Fe(OH)_3 + 3 H^+$\n- Release of free hydronium ions ($H^+$) creates an excess of $H^+$ over $OH^-$, causing $pH < 7$ (acidic solution).\n- Therefore, aqueous $FeCl_3$ solution turns blue litmus red.",
+      "hint": "Cation of weak base hydrolyzes with water to produce acidic solution."
+    },
+    {
+      "id": "c24",
+      "tag": "formula",
+      "q": "Effect of temperature on pH of pure water?",
+      "a": "Autoionization is endothermic: $\\text{Heat} + 2 H_2O \\rightleftharpoons H_3O^+ + OH^-$\n- At 25°C: $K_w = 1.0 \\times 10^{-14} \\Rightarrow [H^+] = 10^{-7}\\text{ M} \\Rightarrow pH = 7.0$.\n- At 60°C: $K_w \\approx 1.0 \\times 10^{-13} \\Rightarrow [H^+] = 10^{-6.5}\\text{ M} \\Rightarrow pH = 6.5$.\n- At 100°C: $K_w \\approx 1.0 \\times 10^{-12} \\Rightarrow [H^+] = 10^{-6.0}\\text{ M} \\Rightarrow pH = 6.0$.\nCrucial concept: At 100°C, pure water with $pH = 6.0$ is STILL NEUTRAL because $[H^+] = [OH^-]$!",
+      "hint": "Neutrality means $[H^+] = [OH^-]$, NOT necessarily $pH = 7$ at all temperatures."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "MHT-CET Trap Summary: Salt Type to Hydrolysis and pH Nature?",
+      "a": "1. NaCl $\\rightarrow$ No hydrolysis $\\rightarrow$ Neutral ($pH = 7$).\n2. $CH_3COONa$ $\\rightarrow$ Anionic hydrolysis $\\rightarrow$ Basic ($pH > 7$).\n3. $NH_4Cl$ $\\rightarrow$ Cationic hydrolysis $\\rightarrow$ Acidic ($pH < 7$).\n4. $CH_3COONH_4$ $\\rightarrow$ Both ions hydrolyze $\\rightarrow$ Depends on $K_a$ vs $K_b$ (if $K_a = K_b, pH = 7$; if $K_a > K_b, pH < 7$; if $K_a < K_b, pH > 7$).",
+      "hint": "For $NH_4CN$, $K_a (HCN) = 4 \\times 10^{-10}$ and $K_b (NH_4OH) = 1.8 \\times 10^{-5}$; since $K_b > K_a$, aqueous $NH_4CN$ is BASIC ($pH > 7$)!"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title": "Amines",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Classify amines into 1°, 2°, and 3° aliphatic and aromatic amines with examples.",
+      "a": "Amines are alkyl/aryl derivatives of ammonia (NH₃): 1. Primary (1°) amine: Contains amino group (-NH₂), nitrogen bonded to one carbon (e.g., Ethylamine CH₃CH₂NH₂, Aniline C₆H₅NH₂). 2. Secondary (2°) amine: Contains imino group (>NH), nitrogen bonded to two carbons (e.g., Dimethylamine (CH₃)₂NH, N-methylaniline). 3. Tertiary (3°) amine: Contains tertiary nitrogen (>N-), bonded to three carbons (e.g., Trimethylamine (CH₃)₃N). Also quaternary ammonium salts [R₄N⁺]X⁻.",
+      "hint": "Degree of amine is based on number of carbons attached directly to Nitrogen."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Explain Gabriel Phthalimide Synthesis. Why CANNOT aromatic primary amines be prepared by this method?",
+      "a": "Phthalimide is treated with ethanolic KOH to form Potassium phthalimide, which is heated with an alkyl halide (R-X) to form N-alkylphthalimide via SN2 mechanism. Subsequent alkaline hydrolysis yields pure primary aliphatic amine: Phthalimide -(KOH)-> K⁺ salt -(R-X)-> N-alkylphthalimide -(aq NaOH)-> 1° amine (R-NH₂) + Sodium phthalate. Aromatic 1° amines (aniline) CANNOT be prepared because aryl halides do not undergo nucleophilic substitution (SN2) with phthalimide anion due to partial double bond character of C-X bond.",
+      "hint": "Exclusively prepares aliphatic 1° amines; aryl halides fail to undergo SN2."
+    },
+    {
+      "id": "c3",
+      "tag": "imp",
+      "q": "Explain Hoffmann Bromamide Degradation with chemical equation. Why is it called a degradation reaction?",
+      "a": "Primary acid amide is warmed with Bromine (Br₂) and concentrated aqueous/alcoholic Potassium Hydroxide (KOH): R-CONH₂ + Br₂ + 4KOH -(heat)-> R-NH₂ + K₂CO₃ + 2KBr + 2H₂O. Key features: 1. Yields pure primary (1°) aliphatic or aromatic amine. 2. Called 'degradation' because the amine product contains ONE LESS carbon atom than the starting amide (carbonyl carbon is eliminated as K₂CO₃). Used for descent of homologous series.",
+      "hint": "R-CONH₂ -> R-NH₂ (chain length decreases by 1 carbon atom)."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Explain Hoffmann Ammonolysis of alkyl halides. Why is it not suitable for preparing pure 1° amines?",
+      "a": "Alkyl halide is heated with excess concentrated alcoholic ammonia in a sealed tube at 373 K: R-X + NH₃ -> R-NH₂ + HX. As primary amine is formed, its nitrogen atom possesses a lone pair and acts as a nucleophile, reacting further with remaining alkyl halide to yield a complex mixture of 1°, 2°, and 3° amines and Quaternary Ammonium Salt [R₄N⁺]X⁻. Separation of this mixture is tedious and fractional distillation gives poor yield of 1° amine.",
+      "hint": "Using large excess of NH₃ favors 1° amine, but mixture still forms."
+    },
+    {
+      "id": "c5",
+      "tag": "formula",
+      "q": "Explain the Mendius Reduction and reduction of nitro compounds to synthesize amines.",
+      "a": "1. Mendius Reduction: Alkyl cyanides (nitriles) are reduced by Sodium and Ethanol (or LiAlH₄ in ether / H₂-Ni) to give primary amines with one more carbon: R-C≡N + 4[H] -(Na/C₂H₅OH)-> R-CH₂-NH₂ (Ascent of series). 2. Reduction of Nitro compounds: Nitroalkanes or Nitrobenzene reduced with iron scrap and conc. HCl: R-NO₂ + 6[H] -(Fe/HCl)-> R-NH₂ + 2H₂O. (Fe/HCl is preferred industrially because FeCl₂ hydrolyzes to release HCl, requiring only catalytic acid).",
+      "hint": "Fe/HCl is commercially preferred over Sn/HCl for nitro reduction."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Compare the basic strength of aliphatic amines in gaseous phase versus aqueous solution.",
+      "a": "1. In Gaseous phase (only +I inductive effect operates): 3° amine > 2° amine > 1° amine > NH₃. Electron-donating alkyl groups intensify electron density on nitrogen, increasing Lewis basicity. 2. In Aqueous solution (combination of +I inductive effect, Solvation/Hydration enthalpy of ammonium cation, and Steric hindrance): Methyl amines: (CH₃)₂NH (2°) > CH₃NH₂ (1°) > (CH₃)₃N (3°) > NH₃ (Order: 2° > 1° > 3°). Ethyl amines: (C₂H₅)₂NH (2°) > (C₂H₅)₃N (3°) > C₂H₅NH₂ (1°) > NH₃ (Order: 2° > 3° > 1°).",
+      "hint": "Secondary (2°) amine is ALWAYS the most basic in aqueous medium!"
+    },
+    {
+      "id": "c7",
+      "tag": "imp",
+      "q": "Why is Aniline (pKb ~ 9.4) a much weaker base than aliphatic amines and ammonia (pKb ~ 4.75)?",
+      "a": "1. Resonance delocalization: In aniline, unshared lone pair of electrons on nitrogen is delocalized over the benzene ring across five resonance structures, making it far less available for protonation. 2. Anilinium ion instability: When aniline accepts a proton, it forms anilinium ion (C₆H₅NH₃⁺) which has only TWO resonance structures, making protonation thermodynamically less favorable. In contrast, alkyl groups in aliphatic amines donate electrons via +I effect and stabilize the alkylammonium cation by hydration.",
+      "hint": "Delocalization of lone pair into benzene ring reduces basicity of aromatic amines."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Explain effect of substituents on basicity of Aniline: -NO₂ vs -OCH₃/-CH₃.",
+      "a": "1. Electron-withdrawing groups (-NO₂, -CN, -COOH, -X via -M and -I effects): Strongly decrease basicity by pulling electron density away from nitrogen and destabilizing anilinium ion. Basicity order: Aniline > m-nitroaniline > p-nitroaniline > o-nitroaniline (o-nitroaniline is weakest due to ortho effect). 2. Electron-donating groups (-OCH₃, -CH₃ via +M and +I effects): Increase electron density on nitrogen, increasing basicity: p-toluidine > Aniline.",
+      "hint": "Ortho-substituted anilines are generally weaker bases due to steric hindrance to protonation (ortho effect)."
+    },
+    {
+      "id": "c9",
+      "tag": "formula",
+      "q": "Explain Hinsberg's Test to distinguish 1°, 2°, and 3° amines.",
+      "a": "Reagent: Benzenesulfonyl chloride (C₆H₅SO₂Cl, Hinsberg reagent). 1. Primary (1°) amine: Reacts to form N-alkylbenzenesulfonamide. The hydrogen on nitrogen is strongly acidic (adjacent to electron-withdrawing -SO₂-), so it DISSOLVES in aqueous KOH. Acidification reprecipitates it. 2. Secondary (2°) amine: Reacts to form N,N-dialkylbenzenesulfonamide. Has no acidic hydrogen on nitrogen, so it is INSOLUBLE in aqueous KOH. 3. Tertiary (3°) amine: Has no replaceable hydrogen on nitrogen, DOES NOT REACT; remains insoluble in alkali, dissolves in acid.",
+      "hint": "1° amine product dissolves in KOH; 2° amine product is insoluble; 3° does not react."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "How do 1° aliphatic and 1° aromatic amines react differently with Nitrous Acid (HNO₂)?",
+      "a": "Nitrous acid (NaNO₂ + HCl at 273-278 K): 1. Primary aliphatic amine: Forms highly unstable aliphatic diazonium salt which immediately decomposes even at 0°C, liberating Nitrogen gas quantitatively and yielding a mixture of alcohols, alkenes, and alkyl halides: R-NH₂ + HNO₂ -> [R-N₂⁺Cl⁻] -(H₂O)-> R-OH + N₂(g)↑ + HCl. (Used to estimate amino acids). 2. Primary aromatic amine (Aniline): Forms stable Benzene Diazonium Chloride at 273-278 K due to resonance stabilization with benzene ring: C₆H₅NH₂ + NaNO₂ + 2HCl -(0-5°C)-> C₆H₅N₂⁺Cl⁻ + NaCl + 2H₂O.",
+      "hint": "Aliphatic 1° amine gives N₂ gas + alcohol; aromatic 1° amine gives stable diazonium salt."
+    },
+    {
+      "id": "c11",
+      "tag": "imp",
+      "q": "Explain Sandmeyer Reaction and Gattermann Reaction for Benzene Diazonium Chloride.",
+      "a": "1. Sandmeyer Reaction: Freshly prepared benzene diazonium chloride is treated with Cuprous halides (Cu₂Cl₂, Cu₂Br₂) dissolved in corresponding halogen acid (HCl, HBr), or CuCN: C₆H₅N₂⁺Cl⁻ -(Cu₂Cl₂/HCl)-> C₆H₅Cl + N₂; -(Cu₂Br₂/HBr)-> C₆H₅Br + N₂; -(CuCN/KCN)-> C₆H₅CN + N₂. 2. Gattermann Reaction: Diazonium salt is treated with Copper powder in presence of halogen acid (HCl or HBr): C₆H₅N₂⁺Cl⁻ -(Cu/HCl)-> C₆H₅Cl + N₂ + CuCl. Sandmeyer reaction gives higher yields than Gattermann reaction.",
+      "hint": "Sandmeyer uses Cuprous salts (Cu₂X₂); Gattermann uses metallic Copper powder (Cu)."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Explain Azo Coupling Reactions of Benzene Diazonium Chloride with Phenol and Aniline.",
+      "a": "Diazonium cation acts as a weak electrophile and couples with activated aromatic rings at para position: 1. With Phenol (mildly alkaline medium, pH 9-10): Forms p-hydroxyazobenzene (bright orange dye): C₆H₅N₂⁺Cl⁻ + C₆H₅OH -(OH⁻, 273-278 K)-> C₆H₅-N=N-C₆H₄-OH (orange azo dye) + Cl⁻ + H₂O. 2. With Aniline (mildly acidic medium, pH 4-5): Forms p-aminoazobenzene (yellow dye): C₆H₅N₂⁺Cl⁻ + C₆H₅NH₂ -(H⁺, 273-278 K)-> C₆H₅-N=N-C₆H₄-NH₂ (yellow azo dye) + HCl.",
+      "hint": "Phenol coupling gives ORANGE dye (pH 9-10); Aniline coupling gives YELLOW dye (pH 4-5)."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Why does Aniline give 2,4,6-tribromoaniline with bromine water? How to prepare mono-bromoaniline (p-bromoaniline)?",
+      "a": "-NH₂ group is strongly activating (+M effect). In aqueous bromine water, aniline reacts vigorously to give a white precipitate of 2,4,6-tribromoaniline. To prepare mono-bromo derivative, the activating power of -NH₂ must be PROTECTED by Acetylation: 1. Aniline is treated with acetic anhydride in pyridine to form Acetanilide: C₆H₅NH₂ + (CH₃CO)₂O -> C₆H₅NHCOCH₃ + CH₃COOH. Lone pair on N is now delocalized into carbonyl oxygen, moderating activation. 2. Bromination with Br₂ in acetic acid gives p-bromoacetanilide (major). 3. Acid or alkaline hydrolysis regenerates p-bromoaniline.",
+      "hint": "Acetylation protects -NH₂ group, preventing polybromination."
+    },
+    {
+      "id": "c14",
+      "tag": "imp",
+      "q": "Why does direct nitration of Aniline with conc. HNO₃/H₂SO₄ produce a significant amount of meta-nitroaniline (47%)?",
+      "a": "In strongly acidic nitrating mixture (conc. HNO₃ + conc. H₂SO₄), the basic -NH₂ group of aniline accepts a proton (H⁺) to form Anilinium ion: C₆H₅NH₂ + H⁺ <=> C₆H₅NH₃⁺. The -NH₃⁺ group has a full positive charge and acts as a powerful electron-withdrawing (-I) deactivating group that is strictly META-DIRECTING. Thus, nitration yields 51% p-nitroaniline, 47% m-nitroaniline, and 2% o-nitroaniline.",
+      "hint": "Formation of anilinium ion in strong acid causes 47% meta product."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Why does Aniline NOT undergo Friedel-Crafts alkylation or acylation?",
+      "a": "Aniline is a Lewis base (lone pair on N) and reacts with the Lewis acid catalyst (anhydrous AlCl₃) used in Friedel-Crafts reactions to form an insoluble coordinate addition complex: C₆H₅NH₂ + AlCl₃ -> C₆H₅NH₂⁺-AlCl₃⁻. Due to the positive charge on nitrogen, the benzene ring becomes strongly deactivated towards electrophilic attack. Furthermore, the Lewis acid catalyst gets consumed and is no longer available to generate alkyl/acyl carbocations.",
+      "hint": "Aniline forms a complex with Lewis acid catalyst AlCl₃, deactivating the ring."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "Explain the preparation and physical significance of Quaternary Ammonium Salts.",
+      "a": "Reaction: Tertiary amine is heated with alkyl halide: R₃N + R'X -> [R₃N⁺-R'] X⁻ (Quaternary ammonium halide). When treated with moist silver oxide (Ag₂O / H₂O), it forms Quaternary Ammonium Hydroxide: [R₄N⁺]OH⁻ + AgX. On strong heating, quaternary ammonium hydroxide undergoes Hoffmann Elimination to yield an alkene (less substituted alkene / Hoffmann alkene is the major product, in contrast to Saytzeff rule).",
+      "hint": "Hoffmann elimination of quaternary ammonium hydroxide yields less substituted alkene."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "What is Sulphanilic Acid? Explain its Zwitterion structure.",
+      "a": "Aniline is heated with conc. H₂SO₄ at 453-473 K to form anilinium hydrogen sulfate, which on baking rearranges to p-aminobenzenesulfonic acid (Sulphanilic acid): C₆H₅NH₂ + H₂SO₄ -(453-473 K)-> p-H₂N-C₆H₄-SO₃H. Sulphanilic acid contains both a basic amino group (-NH₂) and an acidic sulfonic acid group (-SO₃H). In neutral medium, the proton transfers internally from -SO₃H to -NH₂ to form an internal dipolar salt called a Zwitterion: ⁺H₃N-C₆H₄-SO₃⁻.",
+      "hint": "Sulphanilic acid exists as dipolar Zwitterion: ⁺H₃N-C₆H₄-SO₃⁻."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "How to convert Benzene Diazonium Chloride into: 1. Fluorobenzene (Balz-Schiemann), 2. Iodobenzene, 3. Benzene?",
+      "a": "1. Fluorobenzene (Balz-Schiemann Reaction): C₆H₅N₂⁺Cl⁻ + HBF₄ (fluoroboric acid) -> C₆H₅N₂⁺BF₄⁻ (precipitate) -(dry heat)-> C₆H₅F + N₂ + BF₃. 2. Iodobenzene: Warm aqueous solution of diazonium salt with Potassium Iodide: C₆H₅N₂⁺Cl⁻ + KI -(warm)-> C₆H₅I + N₂ + KCl. 3. Benzene (deamination): Treat diazonium salt with Hypophosphorous acid (H₃PO₂ / H₂O / Cu⁺) or Ethanol: C₆H₅N₂⁺Cl⁻ + H₃PO₂ + H₂O -> C₆H₆ + N₂ + H₃PO₃ + HCl.",
+      "hint": "Balz-Schiemann gives C₆H₅F; KI gives C₆H₅I; H₃PO₂ or ethanol gives C₆H₆."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Why do primary amines have higher boiling points than tertiary amines of isomeric molar mass?",
+      "a": "Primary amines have two polar N-H bonds and one lone pair, allowing extensive Intermolecular Hydrogen Bonding between molecules. Secondary amines have one N-H bond, so intermolecular H-bonding is weaker. Tertiary amines have no hydrogen atom bonded to nitrogen; they cannot form intermolecular hydrogen bonds with themselves and are held only by dipole-dipole attractions. Boiling point order: 1° amine > 2° amine > 3° amine (e.g., n-propylamine BP 48°C vs trimethylamine BP 3°C).",
+      "hint": "3° amines lack N-H bonds and cannot form intermolecular hydrogen bonds."
+    },
+    {
+      "id": "c20",
+      "tag": "formula",
+      "q": "What is the Schotten-Baumann Reaction of amines?",
+      "a": "Reaction of primary or secondary aliphatic or aromatic amines with Benzoyl chloride in the presence of dilute aqueous NaOH: C₆H₅NH₂ + C₆H₅COCl -(aq. NaOH)-> C₆H₅NHCOC₆H₅ (N-phenylbenzamide / Benzanilide) + NaCl + H₂O. Aqueous NaOH removes the HCl formed, shifting equilibrium forward. Used for characterization and protection of amino groups.",
+      "hint": "Benzoylation of amines in presence of aqueous NaOH is Schotten-Baumann reaction."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Explain why alkylamines are more soluble in water than arylamines.",
+      "a": "Lower aliphatic alkylamines (methylamine, ethylamine) form intermolecular hydrogen bonds with water molecules through their lone pair and polar N-H bonds. Arylamines (aniline) possess a large non-polar hydrophobic aromatic hydrocarbon part (C₆H₅- ring, 6 carbons) which exerts strong repulsion against water molecules, drastically outweighing the hydrogen bonding ability of -NH₂. Hence, aniline is practically insoluble in water.",
+      "hint": "Bulky hydrophobic benzene ring makes aniline insoluble in water."
+    },
+    {
+      "id": "c22",
+      "tag": "imp",
+      "q": "How to convert: 1. Methylamine to Ethylamine, 2. Ethylamine to Methylamine?",
+      "a": "1. Ascent (Methylamine to Ethylamine): CH₃NH₂ -(HNO₂)-> CH₃OH -(PCl₅)-> CH₃Cl -(KCN)-> CH₃CN -(Na/ethanol, Mendius)-> CH₃CH₂NH₂. 2. Descent (Ethylamine to Methylamine): CH₃CH₂NH₂ -(HNO₂)-> CH₃CH₂OH -(KMnO₄/H⁺)-> CH₃COOH -(NH₃, heat)-> CH₃CONH₂ -(Br₂/KOH, Hoffmann bromamide)-> CH₃NH₂.",
+      "hint": "Mendius reduction adds a carbon; Hoffmann bromamide subtracts a carbon."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "What is the action of nitrous acid on secondary (2°) and tertiary (3°) aliphatic amines?",
+      "a": "1. Secondary (2°) aliphatic amine: Reacts with HNO₂ (NaNO₂ + HCl) to form yellow oily N-nitrosamine: R₂NH + HONO -> R₂N-N=O (yellow oily liquid) + H₂O. On warming with phenol and conc. H₂SO₄, it gives a green-blue color turning red on dilution and blue with alkali (Liebermann Nitroso Reaction). 2. Tertiary (3°) aliphatic amine: Forms soluble trialkylammonium nitrite salts: R₃N + HNO₂ <=> [R₃NH]⁺ NO₂⁻.",
+      "hint": "2° amines form yellow oily N-nitrosamines giving Liebermann test."
+    },
+    {
+      "id": "c24",
+      "tag": "formula",
+      "q": "Identify the product: C₆H₅CONH₂ -(Br₂/KOH)-> A -(CHCl₃/KOH)-> B. Give names of A and B.",
+      "a": "Step 1: Benzamide undergoes Hoffmann bromamide degradation: C₆H₅CONH₂ + Br₂ + 4KOH -> C₆H₅NH₂ (Aniline, compound A) + K₂CO₃ + 2KBr + 2H₂O. Step 2: Aniline (1° aromatic amine) undergoes Carbylamine reaction: C₆H₅NH₂ + CHCl₃ + 3KOH -> C₆H₅NC (Phenyl isocyanide / Phenyl carbylamine, compound B) + 3KCl + 3H₂O. Compound B has an extremely foul odor.",
+      "hint": "A = Aniline; B = Phenyl isocyanide (carbylamine)."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "State the relationship between Kb and pKb of amines. Which value indicates a stronger base?",
+      "a": "For base equilibrium: B + H₂O <=> BH⁺ + OH⁻, Kb = [BH⁺][OH⁻] / [B], and pKb = -log₁₀(Kb). A stronger base dissociates more in water to produce higher [OH⁻], having a LARGER Kb value and consequently a SMALLER pKb value. For example, aliphatic amine (CH₃)₂NH has pKb = 3.27 (strong base); aromatic amine aniline has pKb = 9.38 (weak base).",
+      "hint": "Smaller pKb value = stronger base."
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "title": "Green Chemistry and Nanochemistry",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Define Green Chemistry according to Paul T. Anastas (Father of Green Chemistry).",
+      "a": "Green Chemistry is defined as the design of chemical products and processes that reduce or eliminate the generation and use of hazardous substances. It is an environmentally benign approach that focuses on prevention of pollution at the molecular level, maximizing resource efficiency, using renewable feedstocks, and developing energy-efficient, safe chemical manufacturing protocols.",
+      "hint": "Paul T. Anastas is known as the Father of Green Chemistry."
+    },
+    {
+      "id": "c2",
+      "tag": "formula",
+      "q": "Explain Principle 1 (Prevention of Waste) and Principle 2 (Atom Economy) of Green Chemistry.",
+      "a": "1. Prevention: It is better to prevent waste than to treat or clean up waste after it has been created. 2. Atom Economy: Synthetic methods should be designed to maximize the incorporation of all materials used in the process into the final product. Formula: % Atom Economy = (Formula weight of desired product / Sum of formula weights of all reactants) * 100. Addition reactions have 100% atom economy; substitution/elimination reactions have lower atom economy due to wasted byproducts.",
+      "hint": "100% atom economy occurs in addition and rearrangement reactions."
+    },
+    {
+      "id": "c3",
+      "tag": "formula",
+      "q": "Calculate % Atom Economy for the preparation of Allyl chloride from Propene and Chlorine. (Desired product C₃H₅Cl = 76.5 g/mol; Reactants: C₃H₆ = 42 g/mol, Cl₂ = 71 g/mol).",
+      "a": "Reaction: CH₂=CH-CH₃ + Cl₂ -(773 K)-> CH₂=CH-CH₂Cl + HCl. Formula weight of desired product (Allyl chloride) = 76.5 g/mol. Sum of formula weights of all reactants = 42 + 71 = 113 g/mol. % Atom Economy = (76.5 / 113) * 100 = 67.7%. The remaining 32.3% of reactant mass is lost as unwanted byproduct (HCl waste).",
+      "hint": "% Atom Economy = (M_product / M_reactants) * 100."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Explain Principle 3 (Less Hazardous Chemical Syntheses) and Principle 4 (Designing Safer Chemicals).",
+      "a": "Principle 3: Wherever practicable, synthetic methods should use and generate substances that possess little or no toxicity to human health and the environment (e.g., replacing toxic phosgene COCl₂ with dimethyl carbonate in polycarbonate synthesis). Principle 4: Chemical products should be designed to preserve efficacy of function while reducing toxicity (e.g., replacing neurotoxic organophosphates with safer biodegradable pesticides).",
+      "hint": "Minimize toxicity of both reaction intermediates and final products."
+    },
+    {
+      "id": "c5",
+      "tag": "concept",
+      "q": "Explain Principle 5 (Safer Solvents and Auxiliaries). Give examples of green solvents.",
+      "a": "The use of auxiliary substances (solvents, separation agents) should be made unnecessary wherever possible and, when used, innocuous. Traditional VOC solvents (benzene, CCl₄, CHCl₃, dichloromethane) are toxic, flammable, and carcinogenic. Green Solvents: 1. Water (ideal, non-toxic, non-flammable). 2. Supercritical Carbon Dioxide (scCO₂: non-toxic, easy removal by depressurization, used for decaffeination of coffee). 3. Ionic Liquids (non-volatile, recyclable). 4. Solvent-free (neat) reactions.",
+      "hint": "Water and supercritical CO₂ (scCO₂) are premier green solvents."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Explain Principle 6 (Design for Energy Efficiency) and modern green energy sources.",
+      "a": "Energy requirements of chemical processes should be recognized for their environmental and economic impacts and minimized. Synthetic methods should be conducted at ambient temperature and pressure whenever possible. Modern alternative green energy inputs: 1. Microwave Heating: Direct, selective dielectric heating that reduces reaction times from hours to minutes with higher yields. 2. Sonochemistry (Ultrasound irradiation): Accelerates acoustic cavitation, speeding reactions at room temperature. 3. Photochemical and electrochemical synthesis.",
+      "hint": "Microwave and ultrasound heating drastically reduce reaction time and energy."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Explain Principle 7 (Use of Renewable Feedstocks) and Principle 8 (Reduce Derivatives).",
+      "a": "Principle 7: A raw material or feedstock should be renewable rather than depleting whenever technically and economically practicable (e.g., using biomass, agricultural waste, or starch instead of depleting petroleum/fossil fuels). Principle 8: Unnecessary derivatization (use of blocking groups, protection/deprotection, temporary physical/chemical modification) should be minimized or avoided, because such steps require additional reagents and generate unnecessary waste.",
+      "hint": "Use agricultural/biomass feedstocks; avoid protection/deprotection steps."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Explain Principle 9 (Catalysis) and why catalysts are superior to stoichiometric reagents.",
+      "a": "Catalytic reagents (as selective as possible) are superior to stoichiometric reagents: 1. Catalysts are regenerated at the end of the reaction and used in sub-stoichiometric (tiny) quantities, whereas stoichiometric reagents are consumed completely and produce equimolar waste. 2. Catalysts lower activation energy (Ea), allowing reactions to proceed rapidly under milder conditions. 3. Catalysts enhance selectivity, minimizing unwanted side products.",
+      "hint": "Catalytic reagents > stoichiometric reagents."
+    },
+    {
+      "id": "c9",
+      "tag": "concept",
+      "q": "Explain Principle 10 (Design for Degradation), Principle 11 (Real-time Analysis), and Principle 12 (Inherently Safer Chemistry).",
+      "a": "Principle 10: Chemical products should be designed so that at the end of their function they break down into innocuous degradation products (e.g., biodegradable plastics like PHBV instead of persistent polythene). Principle 11: Analytical methodologies need to be developed to allow for real-time, in-process monitoring and control prior to the formation of hazardous substances. Principle 12: Substances and the form of a substance used in a chemical process should be chosen to minimize the potential for chemical accidents, including releases, explosions, and fires.",
+      "hint": "12 principles cover design, execution, monitoring, and accident prevention."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "What is Nanochemistry and what defines a Nanomaterial?",
+      "a": "Nanochemistry is the combination of chemistry and nanoscience that deals with the synthesis, characterization, and application of matter at the nanoscale. Nanomaterial: Any material having at least one physical dimension in the nanoscale range between 1 nanometer and 100 nanometers (1 nm = 10⁻⁹ m). At this intermediate domain between isolated atoms and macroscopic bulk matter, materials exhibit novel optical, electronic, catalytic, and magnetic properties.",
+      "hint": "Nanoscale range is strictly 1 nm to 100 nm (10⁻⁹ m)."
+    },
+    {
+      "id": "c11",
+      "tag": "imp",
+      "q": "Why do nanomaterials show drastically different physical and chemical properties compared to bulk materials?",
+      "a": "1. Extremely high Specific Surface Area to Volume ratio: As bulk particles are divided into nanoscale sizes, the percentage of atoms situated on the outer surface increases exponentially. Surface atoms have unsatisfied coordination valencies, leading to dramatically enhanced chemical reactivity and catalytic activity. 2. Quantum Confinement Effect: When particle dimensions approach the de Broglie wavelength of electrons, electron energy levels become discrete rather than continuous bands, changing optical absorption, bandgap, electrical conductivity, and color.",
+      "hint": "High surface-to-volume ratio + Quantum confinement effect."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Why does bulk Gold (yellow and chemically inert) appear ruby red and act as an active catalyst at the nanoscale?",
+      "a": "Bulk gold is a shiny yellow, inert noble metal. At the nanoscale (10-30 nm), gold nanoparticles exhibit Surface Plasmon Resonance (SPR)—collective coherent oscillation of conduction electrons in resonance with incident visible light wavelength (~520 nm), absorbing green-blue light and transmitting an intense Ruby Red color. Furthermore, the massive density of uncoordinated surface gold atoms enables gold nanoparticles to act as highly reactive catalysts (e.g., oxidizing CO to CO₂ at room temp).",
+      "hint": "Surface Plasmon Resonance (SPR) causes gold nanoparticles to appear ruby red."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Classify nanomaterials based on dimensions: 0D, 1D, 2D, and 3D with examples.",
+      "a": "1. Zero-Dimensional (0D): All three dimensions are confined within nanoscale (<100 nm): Nanoparticles, Quantum Dots, Fullerenes (C₆₀). 2. One-Dimensional (1D): Two dimensions are nanoscale, one dimension extends macroscopically: Carbon Nanotubes (CNTs), Nanowires, Nanorods. 3. Two-Dimensional (2D): One dimension is nanoscale (thickness <100 nm), two dimensions extend macroscopically: Graphene sheets, Nanofilms, Nanolayers. 4. Three-Dimensional (3D): No dimension is confined to nanoscale (all >100 nm), but composed of nanoscale grains/features: Nanocomposites, Nanocrystalline bulk materials.",
+      "hint": "0D = quantum dots; 1D = nanotubes; 2D = graphene/nanofilms; 3D = nanocomposites."
+    },
+    {
+      "id": "c14",
+      "tag": "imp",
+      "q": "Compare Top-Down Approach and Bottom-Up Approach for synthesis of nanoparticles.",
+      "a": "1. Top-Down Approach: A macroscopic bulk material is mechanically reduced/broken down in size into nanoscale particles using physical techniques: Ball Milling, Mechanical Grinding, Laser Ablation, Photolithography, Etching. Limitation: Introduces surface defects, imperfections, and contamination. 2. Bottom-Up Approach: Nanomaterials are built atom-by-atom, molecule-by-molecule through chemical assembly or nucleation: Chemical Vapor Deposition (CVD), Sol-Gel method, Colloidal Precipitation, Hydrothermal synthesis. Advantage: Produces uniform, defect-free nanoparticles with controlled size and morphology.",
+      "hint": "Top-down: breaking bulk down (milling); Bottom-up: building up from atoms (sol-gel, CVD)."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Explain the Sol-Gel Method for synthesizing metal oxide nanoparticles.",
+      "a": "A classic wet-chemical bottom-up synthesis: 1. Sol formation: Precursors (metal alkoxides or inorganic metal salts) undergo hydrolysis in water/alcohol to form a stable colloidal dispersion of solid nanoparticles suspended in liquid (the 'Sol'). 2. Gel formation: Condensation and polymerization of sol particles form a continuous 3D rigid cross-linked porous network enclosing liquid (the 'Gel'). 3. Aging and Drying: Gel is dried (removing solvent) to form a porous xerogel or aerogel. 4. Calcination: Heating at high temperature (400-800°C) yields ultrafine, crystalline metal oxide nanoparticles (e.g., TiO₂, ZnO, SiO₂).",
+      "hint": "Steps: Hydrolysis -> Condensation -> Sol -> Gel -> Drying/Calcination."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "How does surface area to volume ratio (SA/V) scale with particle radius (r) for a spherical nanoparticle?",
+      "a": "For a sphere: Surface Area = 4 * π * r²; Volume = (4/3) * π * r³. Ratio: SA / V = (4 * π * r²) / [(4/3) * π * r³] = 3 / r. Therefore, SA/V ratio is INVERSELY proportional to radius r. As particle size decreases from 10 μm (10⁻⁵ m) to 1 nm (10⁻⁹ m), the specific surface area per unit mass increases by a factor of 10,000 (10⁴ times), creating immense surface reactivity.",
+      "hint": "SA/V = 3/r; decreases as radius increases."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "Describe Scanning Electron Microscopy (SEM) and Transmission Electron Microscopy (TEM) in characterization of nanomaterials.",
+      "a": "1. SEM (Scanning Electron Microscopy): A focused beam of high-energy electrons scans across the surface of a specimen. Backscattered and secondary electrons are detected to produce high-resolution, 3D-like images of surface morphology, topography, and particle size (resolution ~1-5 nm). 2. TEM (Transmission Electron Microscopy): Electrons pass directly THROUGH an ultra-thin specimen. Provides much higher resolution (sub-nanometer, ~0.1 nm, atomic resolution) showing internal crystal structure, lattice fringes, dislocation defects, and exact particle dimensions.",
+      "hint": "SEM gives 3D surface morphology; TEM transmits through to give atomic resolution."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "Explain X-Ray Diffraction (XRD) and Scherrer Formula for determining crystallite size.",
+      "a": "XRD operates on Bragg's Law (nλ = 2d sin θ). When X-rays strike crystalline nanoparticles, characteristic diffraction peaks appear at specific 2θ angles, identifying crystal phase and purity. Crystallite size (D) is calculated using Scherrer Equation: D = (K * λ) / (β * cos θ), where K = shape factor (~0.9), λ = X-ray wavelength (typically 1.5406 Å for Cu-Kα), β = Full Width at Half Maximum (FWHM) of peak in radians, and θ = Bragg angle. Broadening of diffraction peaks directly indicates nanoscale crystallite size.",
+      "hint": "Scherrer formula: D = 0.9 λ / (β cos θ); broader peaks mean smaller crystallite size."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "Describe Carbon Nanotubes (CNTs): SWCNT vs MWCNT and their extraordinary properties.",
+      "a": "Carbon Nanotubes are seamless cylindrical tubes of rolled-up graphene sheets (sp² hybridized carbon): 1. Single-Walled CNTs (SWCNTs): Single graphene cylinder with diameter ~1-2 nm. 2. Multi-Walled CNTs (MWCNTs): Multiple nested concentric cylinders with interlayer spacing of 0.34 nm. Properties: Tensile strength ~100 times greater than steel at 1/6th the density; exceptional thermal conductivity (~3000 W/m K, higher than diamond); electrical conductivity either metallic or semiconducting depending on chiral angle (chirality vector).",
+      "hint": "CNTs are rolled sheets of graphene; possess immense tensile strength and conductivity."
+    },
+    {
+      "id": "c20",
+      "tag": "imp",
+      "q": "What is Graphene? List three revolutionary properties and applications.",
+      "a": "Graphene is a single, two-dimensional (2D) atomic monolayer of sp² hybridized carbon atoms arranged in a hexagonal honeycomb lattice (isolated by Geim and Novoselov, Nobel Prize 2010). Properties: 1. Thinnest (0.34 nm) and strongest material known (breaking strength 200 times steel). 2. Excellent electrical conductor (electron mobility > 200,000 cm²/V s, ballistically transport electrons at room temp). 3. High optical transparency (absorbs only 2.3% of light) and thermal conductivity (~5000 W/m K). Applications: Flexible touch screens, ultrafast transistors, ultracapacitors, water desalination membranes.",
+      "hint": "Graphene is a single 2D atomic sheet of carbon with honeycomb lattice."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Explain the role of TiO₂ and ZnO nanoparticles in Sunscreens.",
+      "a": "Bulk TiO₂ and ZnO are opaque white pigments used in paints. At nanoscale (<30 nm), TiO₂ and ZnO nanoparticles become optically transparent to visible light (preventing unaesthetic white chalky paste on skin) while retaining a wide bandgap that efficiently absorbs and scatters harmful ultraviolet radiation (both UV-A 320-400 nm and UV-B 290-320 nm), protecting skin cells from DNA damage, sunburn, and skin cancer.",
+      "hint": "Nanoscale TiO₂ and ZnO are transparent to visible light but block UV radiation."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Explain Self-Cleaning Windows utilizing TiO₂ nanoparticles.",
+      "a": "Glass windows are coated with an ultra-thin transparent film of Titanium dioxide (TiO₂) nanoparticles operating via two mechanisms: 1. Photocatalytic effect: Under solar UV light, TiO₂ generates reactive oxygen species (•OH hydroxyl radicals) that chemically oxidize and decompose organic dirt, grime, and grease. 2. Superhydrophilicity: UV light creates surface oxygen vacancies that strongly attract water molecules, reducing contact angle to ~0°. Rainwater spreads into a flat sheeting film that washes away loosened dirt without leaving water droplets or streaks.",
+      "hint": "TiO₂ combines photocatalytic decomposition of dirt with superhydrophilic sheeting of water."
+    },
+    {
+      "id": "c23",
+      "tag": "imp",
+      "q": "Explain Targeted Drug Delivery using Nanoparticles.",
+      "a": "Nanoparticles (liposomes, polymeric micelles, dendrimers, gold nanoparticles) functionalized with specific ligands/antibodies encapsulate therapeutic drugs: 1. Enhanced Permeability and Retention (EPR) effect: Leaky blood vessels of tumor tissues allow nanoparticles (10-100 nm) to accumulate selectively in cancer cells. 2. Active targeting: Surface antibodies bind specifically to cancer cell surface receptors, releasing the toxic chemotherapeutic agent inside cancer cells without damaging surrounding healthy tissues, drastically minimizing chemotherapy side effects.",
+      "hint": "Nanocarriers deliver toxic drugs directly to tumor cells, reducing side effects."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "What are the potential environmental and health hazards (Nanotoxicity) of Nanomaterials?",
+      "a": "1. Inhalation risks: Ultrafine airborne nanoparticles (e.g., CNTs, metal oxides) penetrate deep into alveolar regions of lungs, enter bloodstream, and cross blood-brain barrier, causing pulmonary fibrosis, inflammation, and oxidative stress (similar to asbestos fibers). 2. High reactivity and bioaccumulation: Immense surface area generates reactive oxygen species (ROS) damaging cellular DNA, proteins, and lipids. 3. Environmental accumulation: Silver nanoparticles in antimicrobial socks wash into water bodies, poisoning beneficial aquatic bacteria and micro-ecosystems.",
+      "hint": "Inhaled nanoparticles cross blood-brain barrier; generate ROS and cause lung fibrosis."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "List five everyday commercial applications of Nanotechnology.",
+      "a": "1. Electronics: Nanoscale semiconductor transistors (3 nm FinFETs) in microprocessors; quantum dot OLED displays. 2. Medicine: Nano-formulated drugs, antibacterial wound dressings using nano-silver (AgNPs), rapid diagnostic test kits. 3. Textiles: Stain-resistant and wrinkle-free fabrics coated with nano-silica; antimicrobial silver-coated socks. 4. Automotive and Aerospace: Carbon nanotube composites for lightweight aircraft parts and puncture-resistant tires. 5. Environment: Nanoscale zero-valent iron (nZVI) for groundwater remediation; nanofiltration membranes for seawater desalination.",
+      "hint": "From 3 nm microchips to nano-silver bandages and water purification membranes."
+    }
+  ]
+}

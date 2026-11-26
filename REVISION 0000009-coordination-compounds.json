@@ -1,0 +1,183 @@
+{
+  "title": "Coordination Compounds",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Explain Werner's Theory of Coordination Compounds: Primary vs Secondary Valencies.",
+      "a": "Werner postulated two types of valency for a central metal atom: 1. Primary Valency: Ionizable, corresponds to the oxidation state of the metal, satisfied only by negative ions (represented by dashed lines). 2. Secondary Valency: Non-ionizable, corresponds to the coordination number, satisfied by negative ions or neutral molecules, has fixed spatial/directional arrangement determining the geometry of the complex (represented by solid lines).",
+      "hint": "Primary = oxidation state (ionizable); Secondary = coordination number (directional/geometry)."
+    },
+    {
+      "id": "c2",
+      "tag": "concept",
+      "q": "Define Coordination Entity, Central Metal Atom, and Ligand with examples.",
+      "a": "Coordination Entity: A central metal atom/ion surrounded by a fixed number of ions or neutral molecules enclosed in square brackets, e.g., [Co(NH₃)₆]³⁺. Central Metal: Electron-pair acceptor (Lewis acid). Ligand: Electron-pair donor (Lewis base) possessing at least one lone pair of electrons (e.g., NH₃, H₂O, Cl⁻, CN⁻) that coordinates to the metal ion.",
+      "hint": "Central metal is a Lewis acid; ligands are Lewis bases."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Classify ligands based on denticity: Monodentate, Bidentate, Ambidentate, and Polydentate.",
+      "a": "Monodentate: Coordinates through one donor atom (e.g., Cl⁻, H₂O, NH₃). Bidentate: Coordinates through two donor atoms (e.g., ethylenediamine 'en', oxalate C₂O₄²⁻). Ambidentate: Monodentate ligand having two different donor atoms but coordinates through only one at a time (e.g., NO₂⁻: nitro via N or nitrito via O; SCN⁻: thiocyanato via S or isothiocyanato via N). Polydentate/Hexadentate: Coordinates through 6 donor atoms (e.g., EDTA⁴⁻).",
+      "hint": "Ambidentate ligands give rise to Linkage Isomerism."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "What is Chelate Effect and why are chelated complexes more stable?",
+      "a": "When a di- or polydentate ligand binds to a central metal ion to form a 5- or 6-membered cyclic ring structure, the complex is called a Chelate complex. Chelated complexes are significantly more stable than non-chelated complexes with monodentate ligands. Thermodynamic cause: Chelation releases multiple monodentate solvent molecules, leading to a large increase in entropy (ΔS > 0), making ΔG more negative.",
+      "hint": "EDTA forms an exceptionally stable octahedral hexadentate chelate with metal ions."
+    },
+    {
+      "id": "c5",
+      "tag": "imp",
+      "q": "State the IUPAC rules for naming coordination compounds. Name: [Co(NH₃)₅Cl]Cl₂ and K₃[Fe(CN)₆].",
+      "a": "Rules: Cation named first, then anion. Ligands named in alphabetical order before metal. Anionic ligands end in '-o' (chlorido, cyanido). Neutral ligands keep regular names (ammine, aqua, carbonyl). Oxidation state in Roman numerals in parentheses. If complex is an anion, metal name ends in '-ate' (ferrate, cobaltate). 1. [Co(NH₃)₅Cl]Cl₂: Pentaamminechloridocobalt(III) chloride. 2. K₃[Fe(CN)₆]: Potassium hexacyanidoferrate(III).",
+      "hint": "Notice 'ammine' has double 'm'; complex anion suffix is '-ate'."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Explain Ionization Isomerism and Linkage Isomerism with standard examples.",
+      "a": "Ionization Isomerism: Compounds having same molecular formula but giving different ions in aqueous solution due to exchange between coordinate ligand and counter ion. Example: [Co(NH₃)₅SO₄]Br (red, gives precipitate with AgNO₃, no ppt with BaCl₂) and [Co(NH₃)₅Br]SO₄ (violet, gives white ppt of BaSO₄ with BaCl₂). Linkage Isomerism: Occurs when an ambidentate ligand can coordinate through either of two different donor atoms. Example: [Co(NH₃)₅(NO₂)]Cl₂ (yellow, nitro isomer) and [Co(NH₃)₅(ONO)]Cl₂ (red, nitrito isomer).",
+      "hint": "Ionization produces different ions in solution; linkage arises from ambidentate ligands."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "Explain Geometrical (cis-trans) Isomerism in square planar [Pt(NH₃)₂Cl₂] and octahedral [Co(NH₃)₄Cl₂]⁺.",
+      "a": "Square planar [Ma₂b₂]: [Pt(NH₃)₂Cl₂] has two isomers: cis-platin (two Cl⁻ adjacent at 90°, famous anticancer drug, dipole moment > 0) and trans-platin (two Cl⁻ opposite at 180°, inactive, dipole moment = 0). Octahedral [Ma₄b₂]: [Co(NH₃)₄Cl₂]⁺ has cis-isomer (violet, two Cl⁻ at 90°) and trans-isomer (green, two Cl⁻ at 180°). Note: Tetrahedral complexes NEVER show geometrical isomerism because all four positions are adjacent and equidistant.",
+      "hint": "cis-platin is used in cancer chemotherapy; tetrahedral complexes show NO cis-trans isomerism."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "Explain Optical Isomerism in coordination complexes. Which isomer of [Co(en)₂Cl₂]⁺ is optically active?",
+      "a": "Optical isomers (enantiomers) are non-superimposable mirror images that rotate the plane of polarized light (dextro 'd' and laevo 'l'). Requires absence of a plane or center of symmetry. In [Co(en)₂Cl₂]⁺: cis-isomer is chiral (lacks plane of symmetry) and is OPTICALLY ACTIVE, resolving into d- and l-enantiomers. The trans-isomer has a plane of symmetry and center of inversion, so it is OPTICALLY INACTIVE (achiral).",
+      "hint": "cis-[Co(en)₂Cl₂]⁺ is optically active; trans-[Co(en)₂Cl₂]⁺ is optically inactive (meso/achiral)."
+    },
+    {
+      "id": "c9",
+      "tag": "formula",
+      "q": "According to Valence Bond Theory (VBT), explain the hybridization, geometry, and magnetic nature of [Co(NH₃)₆]³⁺ vs [CoF₆]³⁻.",
+      "a": "Co³⁺ has 3d⁶ configuration. [Co(NH₃)₆]³⁺: NH₃ is a strong field ligand, forces pairing of all 6 d-electrons into 3 orbitals (t₂g⁶), leaving two inner 3d orbitals vacant -> d²sp³ hybridization, octahedral geometry, inner orbital complex, low spin, diamagnetic (n=0, μ=0). [CoF₆]³⁻: F⁻ is a weak field ligand, cannot force pairing (configuration remains t₂g⁴ eg²) -> sp³d² hybridization, octahedral geometry, outer orbital complex, high spin, paramagnetic (n=4 unpaired electrons, μ = √24 = 4.90 BM).",
+      "hint": "Inner orbital = d²sp³ (low spin); Outer orbital = sp³d² (high spin)."
+    },
+    {
+      "id": "c10",
+      "tag": "formula",
+      "q": "According to VBT, compare [Ni(CN)₄]²⁻ and [NiCl₄]²⁻ in terms of hybridization, geometry, and magnetism.",
+      "a": "Ni²⁺ has 3d⁸ configuration. [Ni(CN)₄]²⁻: CN⁻ is a strong field ligand; forces pairing of the two unpaired 3d electrons, vacating one 3d orbital -> dsp² hybridization, Square Planar geometry, diamagnetic (n=0, μ=0). [NiCl₄]²⁻: Cl⁻ is a weak field ligand; cannot pair d-electrons -> sp³ hybridization, Tetrahedral geometry, paramagnetic (n=2 unpaired electrons, μ = √8 = 2.83 BM).",
+      "hint": "[Ni(CN)₄]²⁻ is square planar and diamagnetic; [NiCl₄]²⁻ is tetrahedral and paramagnetic."
+    },
+    {
+      "id": "c11",
+      "tag": "concept",
+      "q": "Explain Crystal Field Splitting of d-orbitals in an Octahedral Field (Δo).",
+      "a": "In an octahedral field, six ligands approach the central metal ion along the x, y, and z axes. The two axial orbitals (dx²-y², dz²; eg set) point directly at the incoming ligands and experience greater electrostatic repulsion, splitting to a HIGHER energy level (+0.6 Δo or +3/5 Δo above barycenter). The three non-axial orbitals (dxy, dyz, dxz; t₂g set) lie between the axes and experience less repulsion, splitting to a LOWER energy level (-0.4 Δo or -2/5 Δo below barycenter). Overall energy separation = Δo.",
+      "hint": "Octahedral: t₂g lower by 0.4 Δo; eg higher by 0.6 Δo."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "Explain Crystal Field Splitting in a Tetrahedral Field (Δt). What is the relation between Δt and Δo?",
+      "a": "In a tetrahedral complex, four ligands approach the central atom between the axes. Consequently, the dxy, dyz, dxz (t₂ set) orbitals experience more repulsion and rise in energy (+0.4 Δt), while dx²-y², dz² (e set) experience less repulsion and drop in energy (-0.6 Δt). Splitting is the exact INVERSE of octahedral field. Since there are only 4 ligands instead of 6, and none point directly at orbitals: Δt = (4/9) * Δo. Because Δt is always less than pairing energy (P), tetrahedral complexes are ALWAYS high-spin.",
+      "hint": "Δt = (4/9) Δo; tetrahedral complexes are always high spin because Δt < P."
+    },
+    {
+      "id": "c13",
+      "tag": "imp",
+      "q": "What is the Spectrochemical Series? Arrange common ligands in increasing crystal field splitting order.",
+      "a": "An experimentally determined series of ligands arranged in increasing order of crystal field splitting power (Δo): I⁻ < Br⁻ < S²⁻ < SCN⁻ < Cl⁻ < F⁻ < OH⁻ < C₂O₄²⁻ < H₂O < NCS⁻ < EDTA⁴⁻ < NH₃ < en < NO₂⁻ < CN⁻ < CO. Ligands with small Δo (left of H₂O) are weak field ligands (produce high-spin complexes); ligands with large Δo (right of NH₃) are strong field ligands (produce low-spin complexes).",
+      "hint": "CO is the strongest field ligand; I⁻ is the weakest."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Explain the decision rule between high-spin and low-spin d⁴ configurations based on Δo and Pairing energy (P).",
+      "a": "When 4th electron is added: 1. If Δo < P (weak field ligand): The energy required to jump to higher eg orbital is less than pairing energy. The 4th electron enters eg orbital -> configuration is t₂g³ eg¹ (High-Spin complex). 2. If Δo > P (strong field ligand): The crystal field splitting is greater than pairing energy. The 4th electron pairs up in t₂g orbital -> configuration is t₂g⁴ eg⁰ (Low-Spin complex).",
+      "hint": "Δo > P -> pairing occurs (low spin); Δo < P -> pairing does not occur (high spin)."
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "Explain Synergic Bonding (π-back bonding) in Metal Carbonyls like Ni(CO)₄ and Fe(CO)₅.",
+      "a": "Metal-carbon bond in metal carbonyls possesses both σ and π character: 1. σ-bond: Carbonyl carbon donates its lone pair of electrons into a vacant hybrid orbital of the metal atom (M <- C ≡ O). 2. π-bond (back donation): A filled d-orbital of the metal donates electron density back into the vacant antibonding π* orbital of the CO ligand (M -> C ≡ O). This mutual reinforcement is called Synergic Effect: it strengthens the M-C bond while weakening and lengthening the C-O bond.",
+      "hint": "Synergic bonding: M <- C σ donation + M -> C π* back donation."
+    },
+    {
+      "id": "c16",
+      "tag": "imp",
+      "q": "Name three biologically important coordination compounds and their central metal ions.",
+      "a": "1. Chlorophyll: Green plant photosynthetic pigment, coordination complex of Magnesium (Mg²⁺). 2. Hemoglobin: Oxygen-carrying pigment in red blood cells, coordination complex of Iron (Fe²⁺). 3. Vitamin B₁₂ (Cyanocobalamin): Anti-pernicious anemia factor, coordination complex of Cobalt (Co³⁺).",
+      "hint": "Chlorophyll = Mg; Hemoglobin = Fe; Vitamin B12 = Co."
+    },
+    {
+      "id": "c17",
+      "tag": "formula",
+      "q": "Calculate Effective Atomic Number (EAN) of Central Metal in [Fe(CN)₆]⁴⁻ and [Co(NH₃)₆]³⁺. (Fe Z=26, Co Z=27)",
+      "a": "Formula: EAN = Z - (Oxidation State) + 2 * (Coordination Number). For [Fe(CN)₆]⁴⁻: Fe is +2, CN=6 -> EAN = 26 - 2 + (2 * 6) = 24 + 12 = 36 (attains stable Krypton configuration, obeys Sidgwick rule). For [Co(NH₃)₆]³⁺: Co is +3, CN=6 -> EAN = 27 - 3 + (2 * 6) = 24 + 12 = 36 (attains Krypton configuration, obeys Sidgwick rule).",
+      "hint": "Sidgwick rule: Complex is especially stable if EAN equals next noble gas atomic number."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "What is Hydrate (Solvate) Isomerism? Give the classic three hydrate isomers of CrCl₃.6H₂O.",
+      "a": "Isomerism arising from different numbers of water molecules present as coordinated ligands inside the coordination sphere versus free crystallization water outside the sphere: 1. [Cr(H₂O)₆]Cl₃: Violet, all 6 water inside; precipitates 3 moles of AgCl with excess AgNO₃. 2. [Cr(H₂O)₅Cl]Cl₂.H₂O: Blue-green, 5 water inside; precipitates 2 moles of AgCl. 3. [Cr(H₂O)₄Cl₂]Cl.2H₂O: Dark green, 4 water inside; precipitates 1 mole of AgCl.",
+      "hint": "Precipitates 3, 2, and 1 mole of AgCl respectively per mole of complex."
+    },
+    {
+      "id": "c19",
+      "tag": "concept",
+      "q": "What is Coordination Isomerism? Give an example.",
+      "a": "Occurs in compounds where both the cation and the anion are coordination complexes, arising from the interchange of ligands between the cationic and anionic coordination spheres. Example: [Co(NH₃)₆][Cr(CN)₆] (NH₃ coordinated to Co, CN⁻ to Cr) and its coordination isomer [Cr(NH₃)₆][Co(CN)₆] (NH₃ coordinated to Cr, CN⁻ to Co).",
+      "hint": "Both cation and anion must be complex entities for coordination isomerism."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Why is [Ti(H₂O)₆]³⁺ violet colored, but becomes colorless on heating?",
+      "a": "Ti³⁺ has 3d¹ configuration. In aqueous solution, octahedral coordination of six H₂O molecules splits 3d orbitals into t₂g and eg. The single electron in t₂g absorbs yellow-green light (λ ~ 498 nm) and is excited to eg (d-d transition), transmitting complementary violet color. On heating, the coordinated water molecules are expelled; without ligands, crystal field splitting collapses, d-orbitals become degenerate, no d-d transition is possible, and the substance becomes colorless.",
+      "hint": "Without ligands, d-orbital splitting cannot occur; hence anhydrous Ti³⁺ is colorless."
+    },
+    {
+      "id": "c21",
+      "tag": "imp",
+      "q": "What is the application of coordination compounds in quantitative estimation of hardness of water?",
+      "a": "Hardness of water (due to Ca²⁺ and Mg²⁺ ions) is estimated by complexometric titration against standard Disodium EDTA (Na₂H₂EDTA) solution at pH 10 (using NH₄OH-NH₄Cl buffer) with Eriochrome Black-T (EBT) indicator. EDTA forms stable, soluble 1:1 hexadentate chelate complexes [Ca-EDTA]²⁻ and [Mg-EDTA]²⁻, liberating free indicator and changing color from wine red to pure blue at the endpoint.",
+      "hint": "EDTA forms 1:1 hexadentate chelate with Ca²⁺ and Mg²⁺ at pH 10."
+    },
+    {
+      "id": "c22",
+      "tag": "formula",
+      "q": "State the oxidation state and coordination number of central metal in: 1. [Fe(C₂O₄)₃]³⁻, 2. [Pt(en)₂Cl₂]²⁺.",
+      "a": "1. [Fe(C₂O₄)₃]³⁻: Let Fe = x. Oxalate is bidentate with charge -2: x + 3(-2) = -3 => x = +3. Coordination number = 3 * 2 = 6 (octahedral). 2. [Pt(en)₂Cl₂]²⁺: Let Pt = x. 'en' is neutral bidentate (0), Cl is -1: x + 2(0) + 2(-1) = +2 => x = +4. Coordination number = (2 * 2) + 2 = 6 (octahedral).",
+      "hint": "Remember bidentate ligands contribute 2 coordinate bonds per ligand."
+    },
+    {
+      "id": "c23",
+      "tag": "concept",
+      "q": "What is Facial (fac) and Meridional (mer) Isomerism? Give an example.",
+      "a": "A type of geometrical isomerism in octahedral complexes of the type [Ma₃b₃] (e.g., [Co(NH₃)₃(NO₂)₃]): 1. Facial (fac) isomer: Three identical ligands occupy the three corners of the same triangular face of the octahedron (all cis to one another). 2. Meridional (mer) isomer: Three identical ligands are arranged around an imaginary meridian (equator) of the octahedron, with two trans to each other.",
+      "hint": "[Ma₃b₃] complexes show fac-mer geometrical isomerism."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "State two major limitations of Valence Bond Theory (VBT) for coordination compounds.",
+      "a": "1. Does not provide a quantitative interpretation of magnetic data (cannot distinguish between temperature-dependent magnetic moments). 2. Cannot explain the electronic absorption spectra (origin of color) of coordination complexes. 3. Makes no clear distinction between strong and weak field ligands (relies on arbitrary pairing assumptions). 4. Does not provide quantitative thermodynamic or kinetic stabilities.",
+      "hint": "Color and spectral transitions were successfully explained by Crystal Field Theory."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "What is Dimethylglyoxime (DMG) test used for in analytical chemistry?",
+      "a": "DMG is used for the selective detection and gravimetric estimation of Nickel (Ni²⁺) ions in ammoniacal solution. Ni²⁺ reacts with DMG to form a characteristic bright scarlet red precipitate of Bis(dimethylglyoximato)nickel(II), [Ni(DMG)₂]. The complex is stabilized by intramolecular hydrogen bonds forming two 6-membered and two 5-membered chelate rings with square planar geometry.",
+      "hint": "Bright red precipitate with DMG in ammoniacal medium is confirmatory for Ni²⁺."
+    }
+  ]
+}

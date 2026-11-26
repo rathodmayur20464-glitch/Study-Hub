@@ -1,0 +1,183 @@
+{
+  "title": "Halogen Derivatives",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Classify halogen derivatives based on the hybridization of carbon: sp³-X vs sp²-X vs sp-X.",
+      "a": "1. sp³ C-X: Alkyl halides (haloalkanes, R-X), Allylic halides (X attached to sp³ carbon next to C=C, e.g., CH₂=CH-CH₂Cl), Benzylic halides (X attached to sp³ carbon next to aromatic ring, e.g., C₆H₅-CH₂Cl). 2. sp² C-X: Vinylic halides (X directly bonded to sp² carbon of double bond, e.g., CH₂=CH-Cl), Aryl halides/Haloarenes (X directly bonded to sp² ring carbon, e.g., C₆H₅-Cl). 3. sp C-X: Alkynyl halides (e.g., HC≡C-Cl).",
+      "hint": "Allylic and benzylic have sp³ carbon; vinylic and aryl have sp² carbon."
+    },
+    {
+      "id": "c2",
+      "tag": "imp",
+      "q": "Why is Thionyl Chloride (SOCl₂, Darzens Process) the best reagent for preparing alkyl chlorides from alcohols?",
+      "a": "Reaction: R-OH + SOCl₂ -(pyridine)-> R-Cl + SO₂(g) + HCl(g). It is the best method because both byproducts—Sulfur dioxide (SO₂) and Hydrogen chloride (HCl)—are gases that escape into the atmosphere, leaving the alkyl chloride in practically 100% pure state without tedious purification steps.",
+      "hint": "Both byproducts (SO₂ and HCl) are gases, giving pure alkyl halide."
+    },
+    {
+      "id": "c3",
+      "tag": "concept",
+      "q": "Explain Finkelstein Reaction and Swarts Reaction for halogen exchange.",
+      "a": "1. Finkelstein Reaction: Alkyl chloride or bromide is refluxed with Sodium Iodide (NaI) in dry acetone to yield alkyl iodide: R-Cl/Br + NaI -(dry acetone)-> R-I + NaCl/NaBr(s). NaCl and NaBr precipitate out in dry acetone, driving equilibrium forward (Le Chatelier's principle). 2. Swarts Reaction: Alkyl chloride or bromide is heated with heavy metal fluorides (AgF, Hg₂F₂, CoF₃, or SbF₃) to yield alkyl fluoride: R-Cl + AgF -> R-F + AgCl(s).",
+      "hint": "Finkelstein synthesizes R-I (NaI/acetone); Swarts synthesizes R-F (AgF)."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Define Chirality, Asymmetric Carbon, Enantiomers, and Racemic Mixture.",
+      "a": "Asymmetric (chiral) carbon: A carbon bonded to four different atoms or groups. Chirality: Property of non-superimposability of an object on its mirror image. Enantiomers: Non-superimposable stereoisomers that are mirror images of each other; possess identical physical properties (MP, BP, density) except rotating plane polarized light in equal magnitude but opposite directions (+d and -l). Racemic mixture (dl or ±): Equimolar mixture of d and l enantiomers; optically inactive due to External Compensation.",
+      "hint": "Racemic mixture optical inactivity is due to External Compensation; meso is Internal."
+    },
+    {
+      "id": "c5",
+      "tag": "concept",
+      "q": "Explain the mechanism and kinetics of SN2 (Substitution Nucleophilic Bimolecular) reaction with CH₃Br.",
+      "a": "Kinetics: Second order, Rate = k[CH₃Br][OH⁻]. Mechanism: Single-step (concerted) process. Strong nucleophile attacks from the BACKSIDE (180° opposite to C-Br bond) to form a penta-coordinate Transition State where C-Nu bond is forming while C-Br bond is breaking simultaneously. Product results in 100% Inversion of Configuration (Walden Inversion). Reactivity order: Methyl > 1° > 2° > 3° (steric hindrance controls reactivity). Favored by: Polar aprotic solvents (DMSO, acetone, DMF).",
+      "hint": "SN2: Single step, backside attack, Walden Inversion, 1° > 2° > 3°."
+    },
+    {
+      "id": "c6",
+      "tag": "concept",
+      "q": "Explain the mechanism and kinetics of SN1 (Substitution Nucleophilic Unimolecular) reaction with (CH₃)₃C-Br.",
+      "a": "Kinetics: First order, Rate = k[(CH₃)₃C-Br]. Mechanism: Two-step process: Step 1 (Slow, RDS): Heterolytic cleavage of C-Br bond to form planar carbocation intermediate: (CH₃)₃C-Br -> (CH₃)₃C⁺ + Br⁻. Step 2 (Fast): Nucleophile attacks planar carbocation with equal probability from front and back side, yielding a Racemic mixture (Retention + Inversion). Reactivity order: 3° > 2° > 1° > Methyl (carbocation stability controls rate). Favored by: Polar protic solvents (H₂O, alcohols).",
+      "hint": "SN1: Two steps, carbocation intermediate, racemization, 3° > 2° > 1°."
+    },
+    {
+      "id": "c7",
+      "tag": "imp",
+      "q": "Why are Allylic and Benzylic halides highly reactive towards both SN1 and SN2 reactions?",
+      "a": "Towards SN1: Heterolytic cleavage yields allylic (CH₂=CH-CH₂⁺) and benzylic (C₆H₅-CH₂⁺) carbocations, which are exceptionally stable due to resonance delocalization of positive charge across double bond / aromatic pi system. Towards SN2: The adjacent unhybridized p-orbitals of the pi-bond overlap with the transition state p-orbital, stabilizing the SN2 transition state and lowering activation energy.",
+      "hint": "Resonance stabilization of intermediate carbocation makes allylic/benzylic very fast in SN1."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "State Saytzeff's (Zaitsev's) Rule for dehydrohalogenation (β-elimination) of alkyl halides with an example.",
+      "a": "When an alkyl halide undergoes dehydrohalogenation with alcoholic KOH, if two different β-hydrogens can be eliminated to yield multiple alkenes, the major product is the more substituted alkene (the alkene having greater number of alkyl groups attached to the doubly bonded carbons). Example: 2-Bromobutane + alc. KOH -(heat)-> But-2-ene (80%, major, more stable) + But-1-ene (20%, minor).",
+      "hint": "More substituted alkene is more stable due to hyperconjugation."
+    },
+    {
+      "id": "c9",
+      "tag": "imp",
+      "q": "Explain why Haloarenes (e.g., Chlorobenzene) are extremely unreactive towards Nucleophilic Substitution.",
+      "a": "1. Resonance effect: Lone pair on halogen delocalizes with benzene ring, imparting partial double bond character to C-Cl bond, making it shorter (169 pm) and much stronger than C-Cl in alkyl halide (178 pm). 2. sp² hybridized carbon: Aromatic ring carbon is sp² (33% s-character), more electronegative and holds electrons tighter than sp³ carbon. 3. Instability of phenyl cation: Dissociation to form phenyl cation (C₆H₅⁺) is thermodynamically unfavorable. 4. Electrostatic repulsion: Electron-rich benzene pi cloud repels incoming nucleophiles.",
+      "hint": "Partial double bond character due to resonance makes C-Cl very difficult to break."
+    },
+    {
+      "id": "c10",
+      "tag": "concept",
+      "q": "Under what conditions can Chlorobenzene undergo nucleophilic substitution? Effect of nitro (-NO₂) groups.",
+      "a": "Dow's Process: Chlorobenzene reacts with aqueous NaOH only under drastic conditions: 623 K and 300 atm pressure, followed by acidification to give Phenol. Effect of -NO₂: Introduction of strong electron-withdrawing nitro (-NO₂) groups at ortho and para positions stabilizes the carbanion (Meisenheimer complex) by resonance: 1 -NO₂ (4-nitrochlorobenzene): 443 K, dil NaOH. 2 -NO₂ (2,4-dinitrochlorobenzene): 368 K, aq Na₂CO₃. 3 -NO₂ (2,4,6-trinitrochlorobenzene): warm with water at 323 K gives Picric acid!",
+      "hint": "-NO₂ at ortho/para stabilizes intermediate carbanion by resonance; meta has NO effect."
+    },
+    {
+      "id": "c11",
+      "tag": "formula",
+      "q": "Explain Wurtz, Fittig, and Wurtz-Fittig reactions with chemical equations.",
+      "a": "All use Sodium metal (Na) in dry ether: 1. Wurtz reaction (two alkyl halides): 2R-X + 2Na -(dry ether)-> R-R (alkane with even number of carbons) + 2NaX. 2. Fittig reaction (two aryl halides): 2Ar-X + 2Na -(dry ether)-> Ar-Ar (Biphenyl / Diphenyl) + 2NaX. 3. Wurtz-Fittig reaction (one alkyl + one aryl halide): Ar-X + R-X + 2Na -(dry ether)-> Ar-R (Alkylarene, e.g., Toluene from chlorobenzene + chloromethane) + 2NaX.",
+      "hint": "Wurtz = alkyl-alkyl; Fittig = aryl-aryl; Wurtz-Fittig = aryl-alkyl."
+    },
+    {
+      "id": "c12",
+      "tag": "concept",
+      "q": "How is Grignard Reagent prepared and why must it be prepared under strictly anhydrous conditions?",
+      "a": "Preparation: Alkyl/aryl halide is refluxed with magnesium ribbon in dry ether: R-X + Mg -(dry ether)-> R-Mg-X (Alkyl magnesium halide). Grignard reagents are highly reactive organometallic compounds. The carbon-magnesium bond is strongly polar (R^δ- - Mg^δ+). Any trace of moisture/water (or active hydrogen source like alcohol, amine) immediately hydrolyzes it into an alkane: R-Mg-X + H₂O -> R-H + Mg(OH)X. Hence, dry ether and strictly anhydrous conditions are mandatory.",
+      "hint": "R-MgX reacts violently with even traces of moisture to form R-H."
+    },
+    {
+      "id": "c13",
+      "tag": "imp",
+      "q": "Why is Chloroform (CHCl₃) stored in dark closed brown bottles filled up to the brim?",
+      "a": "In presence of sunlight and atmospheric oxygen, chloroform slowly oxidizes to form Carbonyl chloride (Phosgene, COCl₂), an extremely poisonous and lethal suffocating gas: 2CHCl₃ + O₂ -(light)-> 2COCl₂ + 2HCl. Brown/amber bottles cut off light rays, filling to brim excludes air/oxygen, and addition of 1% ethanol converts any trace phosgene into harmless diethyl carbonate: COCl₂ + 2C₂H₅OH -> (C₂H₅O)₂CO + 2HCl.",
+      "hint": "Phosgene (COCl₂) is highly toxic; 1% ethanol is added as negative catalyst/scavenger."
+    },
+    {
+      "id": "c14",
+      "tag": "formula",
+      "q": "What is Iodoform Test? Which classes of compounds give a positive iodoform test?",
+      "a": "Reagent: I₂ + aqueous NaOH (or NaOI). Compound is warmed with I₂/NaOH; formation of a yellow crystalline precipitate of Iodoform (CHI₃, MP 119°C) with characteristic antiseptic odor confirms test. Positive test is given by: 1. Acetaldehyde (CH₃CHO) - the ONLY aldehyde. 2. All Methyl Ketones (CH₃-CO-R). 3. Ethanol (CH₃CH₂OH). 4. All secondary alcohols with CH₃-CH(OH)- group.",
+      "hint": "Look for CH₃-C=O or CH₃-CH(OH)- group!"
+    },
+    {
+      "id": "c15",
+      "tag": "concept",
+      "q": "What are Freons (CFCs)? Give preparation and environmental hazard of Freon-12.",
+      "a": "Freons are chlorofluorocarbon (CFC) derivatives of methane and ethane. Freon-12 (Dichlorodifluoromethane, CCl₂F₂) is prepared by Swarts reaction: CCl₄ + 2SbF₃ -(SbCl₅)-> CCl₂F₂ + 2SbCl₃. Uses: Refrigerants in refrigerators and ACs, propellant in aerosol sprays. Environmental hazard: Non-reactive in lower atmosphere; diffuses into stratosphere where UV light breaks C-Cl bonds releasing reactive Chlorine free radicals (Cl•). One chlorine radical can catalytically destroy over 100,000 ozone (O₃) molecules, creating the Antarctic ozone hole.",
+      "hint": "Freon-12 is CCl₂F₂; releases Cl• free radicals that deplete stratospheric ozone."
+    },
+    {
+      "id": "c16",
+      "tag": "concept",
+      "q": "What is DDT? State its full IUPAC name, preparation, and why it is banned.",
+      "a": "DDT: p,p'-Dichlorodiphenyltrichloroethane. IUPAC: 1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane. Preparation: Chloral is heated with chlorobenzene in presence of conc. H₂SO₄: CCl₃CHO + 2C₆H₅Cl -(conc. H₂SO₄)-> (Cl-C₆H₄)₂CH-CCl₃ + H₂O. Environmental impact: Highly effective contact insecticide against malaria mosquitoes, but chemically stable, non-biodegradable, fat-soluble, and accumulates in fatty tissues of animals (biomagnification), thinning eggshells of birds. Banned in most countries since 1973.",
+      "hint": "Synthesized from chloral (CCl₃CHO) + 2 chlorobenzene; banned due to biomagnification."
+    },
+    {
+      "id": "c17",
+      "tag": "concept",
+      "q": "How does reaction of alkyl halide with KCN differ from that with AgCN?",
+      "a": "Cyanide ion (:C≡N:⁻) is an ambidentate nucleophile: 1. KCN is predominantly ionic: K⁺ + [:C≡N:]⁻. Carbon has negative charge and lower electronegativity than nitrogen; C-C bond is thermodynamically more stable than C-N bond, so nucleophilic attack occurs through carbon, forming Alkyl Cyanide (Alkane nitrile, R-CN) as major product. 2. AgCN is predominantly covalent: Ag-C≡N:. Carbon is bonded to silver, leaving only the lone pair on Nitrogen free to attack, forming Alkyl Isocyanide (Carbylamine, R-NC) as major product.",
+      "hint": "KCN gives R-CN (nitrile); AgCN gives R-NC (isocyanide)."
+    },
+    {
+      "id": "c18",
+      "tag": "concept",
+      "q": "How does reaction of alkyl halide with KNO₂ differ from that with AgNO₂?",
+      "a": "Nitrite ion (:O-N=O⁻) is an ambidentate nucleophile: 1. KNO₂ is ionic: K⁺ + [:O-N=O]⁻. Attack occurs predominantly through negative oxygen atom to form Alkyl Nitrite (R-O-N=O) as major product. 2. AgNO₂ is covalent: Ag-O-N=O. Lone pair on Nitrogen atom attacks carbon to form Nitroalkane (R-NO₂) as major product.",
+      "hint": "KNO₂ gives R-ONO (nitrite ester); AgNO₂ gives R-NO₂ (nitroalkane)."
+    },
+    {
+      "id": "c19",
+      "tag": "formula",
+      "q": "Compare boiling points and densities of haloalkanes.",
+      "a": "Boiling points: 1. For same alkyl group: R-I > R-Br > R-Cl > R-F (larger halogen size -> greater surface area -> stronger London dispersion forces). 2. For same halogen: Primary > Secondary > Tertiary (branching increases compactness, decreases surface area, lowering van der Waals forces and BP). Density: RI > RBr > RCl > RF (all higher than water except mono-chloroalkanes). Polyhalo compounds (CH₂Cl₂, CHCl₃, CCl₄) are all denser than water.",
+      "hint": "Branching decreases boiling point: n-butyl > sec-butyl > tert-butyl."
+    },
+    {
+      "id": "c20",
+      "tag": "concept",
+      "q": "Explain electrophilic substitution reactions of Chlorobenzene: Halogenation and Nitration.",
+      "a": "Chlorine is ortho/para-directing due to +M resonance effect, but deactivating due to strong -I inductive effect. Major product is para-isomer due to symmetry and less steric hindrance: 1. Halogenation: C₆H₅Cl + Cl₂ -(anh. FeCl₃)-> 1,4-dichlorobenzene (p-isomer, major) + 1,2-dichlorobenzene (o-isomer, minor). 2. Nitration: C₆H₅Cl + conc. HNO₃/H₂SO₄ -> 1-chloro-4-nitrobenzene (major) + 1-chloro-2-nitrobenzene (minor).",
+      "hint": "Halogens are deactivating but ortho-para directing!"
+    },
+    {
+      "id": "c21",
+      "tag": "imp",
+      "q": "Why does para-dichlorobenzene have a higher melting point and lower solubility than ortho- and meta-isomers?",
+      "a": "p-Dichlorobenzene is highly symmetrical (linear arrangement of opposite C-Cl bonds). Symmetrical molecules pack much more closely and tightly in the crystal lattice than asymmetric ortho and meta isomers. Stronger intermolecular lattice forces require higher thermal energy to break, leading to a significantly higher melting point (~325 K vs 256 K for ortho) and lower solubility in organic solvents.",
+      "hint": "Symmetry allows close crystal packing, giving higher melting point."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "What is Carbylamine Reaction (Hoffmann's isocyanide test)?",
+      "a": "Primary aliphatic or aromatic amine is warmed with chloroform (CHCl₃) and alcoholic KOH: R-NH₂ + CHCl₃ + 3KOH(alc) -(heat)-> R-NC (Alkyl isocyanide / carbylamine) + 3KCl + 3H₂O. The product has an extremely foul, obnoxious, repulsive odor. Reaction proceeds via intermediate Dichlorocarbene (:CCl₂). Given exclusively by 1° amines (test to distinguish 1° from 2° and 3° amines).",
+      "hint": "Electrophile intermediate is dichlorocarbene (:CCl₂); specific for 1° amines."
+    },
+    {
+      "id": "c23",
+      "tag": "formula",
+      "q": "Give the IUPAC names and structures of: 1. Neopentyl bromide, 2. Allyl iodide, 3. Vinyl chloride.",
+      "a": "1. Neopentyl bromide: (CH₃)₃C-CH₂Br -> IUPAC: 1-bromo-2,2-dimethylpropane. 2. Allyl iodide: CH₂=CH-CH₂I -> IUPAC: 3-iodoprop-1-ene. 3. Vinyl chloride: CH₂=CH-Cl -> IUPAC: Chloroethene.",
+      "hint": "Double bond gets numbering priority over halogen."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "What is the role of anhydrous AlCl₃ or FeCl₃ in electrophilic halogenation of benzene?",
+      "a": "Anhydrous AlCl₃/FeCl₃ acts as a Lewis acid catalyst. It coordinates with the halogen molecule (Cl₂) and polarizes the Cl-Cl bond, heterolytically cleaving it to generate the electrophile: Cl₂ + FeCl₃ -> Cl⁺ (chloronium ion, electrophile) + [FeCl₄]⁻. The reactive electrophile Cl⁺ then attacks the benzene ring.",
+      "hint": "Lewis acid generates the chloronium electrophile (Cl⁺)."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "Distinguish between Retention, Inversion, and Racemization of configuration.",
+      "a": "1. Retention: Spatial arrangement of bonds to asymmetric center remains intact during reaction (same relative orientation). 2. Inversion: Incoming group bonds to opposite side of departing group, flipping spatial configuration like an umbrella in high wind (Walden inversion, typical of SN2). 3. Racemization: 50:50 mixture of retained and inverted enantiomers is formed, resulting in zero net optical rotation (typical of SN1 via planar carbocation).",
+      "hint": "SN2 gives 100% Inversion; SN1 gives Racemization (often with slight excess of inversion)."
+    }
+  ]
+}

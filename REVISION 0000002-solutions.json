@@ -1,0 +1,183 @@
+{
+  "title": "Solutions",
+  "subject": "Chemistry",
+  "type": "flashcards",
+  "subtitle": "Class 12 HSC & MHT-CET • Rapid Revision Deck",
+  "cards": [
+    {
+      "id": "c1",
+      "tag": "concept",
+      "q": "Henry's Law: Statement, mathematical equation, and units of Henry's constant ($K_H$)?",
+      "a": "Statement: At constant temperature, the solubility ($S$) of a gas in a liquid is directly proportional to the partial pressure ($P$) of the gas above the solution.\nEquation:\n$S = K_H \\times P$\nWhere:\n- $S$ = solubility of gas in $\\text{mol}\\cdot\\text{L}^{-1}$\n- $P$ = partial pressure of gas in $\\text{bar}$ or $\\text{atm}$\n- $K_H$ = Henry's law constant; unit is $\\text{mol}\\cdot\\text{L}^{-1}\\cdot\\text{bar}^{-1}$.\nAlternative form (Dalton-Raoult): $P = K_H' \\times x$ (where $K_H'$ is in bar/atm).",
+      "hint": "Solubility of gas in liquid DECREASES with rise in temperature ($K_H$ increases with temperature)."
+    },
+    {
+      "id": "c2",
+      "tag": "imp",
+      "q": "Exceptions and Limitations of Henry's Law?",
+      "a": "Henry's law is valid only when:\n1. Pressure is not too high and temperature is not too low.\n2. Gas does NOT chemically react with the solvent.\n3. Gas does NOT dissociate or associate in the solvent.\nExceptions in water:\n- Ammonia ($NH_3$): Reacts with water $\\rightarrow NH_3 + H_2O \\rightleftharpoons NH_4^+ + OH^-$.\n- Carbon dioxide ($CO_2$): Forms carbonic acid $\\rightarrow CO_2 + H_2O \\rightleftharpoons H_2CO_3$.\n- Hydrogen chloride ($HCl$): Ionizes $\\rightarrow HCl + H_2O \\rightleftharpoons H_3O^+ + Cl^-$.",
+      "hint": "Gases like $NH_3, HCl, CO_2$ exhibit abnormally high solubility in water and do NOT strictly follow Henry's law."
+    },
+    {
+      "id": "c3",
+      "tag": "formula",
+      "q": "Raoult's Law for a binary solution of volatile liquids?",
+      "a": "Statement: In a solution of volatile liquids, the partial vapor pressure of each component is equal to the vapor pressure of that pure component multiplied by its mole fraction in solution.\nEquations:\n$P_A = P_A^\\circ \\times x_A$\n$P_B = P_B^\\circ \\times x_B$\nTotal vapor pressure ($P_{\\text{total}}$):\n$P_{\\text{total}} = P_A + P_B = P_A^\\circ x_A + P_B^\\circ x_B = P_A^\\circ + (P_B^\\circ - P_A^\\circ) x_B$\nVapor composition ($y_A, y_B$):\n$y_A = P_A / P_{\\text{total}}$, $y_B = P_B / P_{\\text{total}}$.",
+      "hint": "Dalton's law determines vapor phase composition: $y_A = P_A / P_{\\text{total}}$."
+    },
+    {
+      "id": "c4",
+      "tag": "concept",
+      "q": "Ideal Solutions: Thermodynamic conditions and examples?",
+      "a": "An ideal solution obeys Raoult's law over the entire range of concentrations and temperatures.\nThermodynamic Conditions:\n1. $\\Delta H_{\\text{mix}} = 0$ (no heat evolved or absorbed on mixing).\n2. $\\Delta V_{\\text{mix}} = 0$ (no volume expansion or contraction).\n3. Solute-solvent intermolecular forces ($A-B$) are identical in magnitude to $A-A$ and $B-B$ forces.\nExamples:\n- Benzene + Toluene\n- n-Hexane + n-Heptane\n- Ethyl bromide + Ethyl chloride\n- Chlorobenzene + Bromobenzene.",
+      "hint": "For ideal solutions, $\\Delta S_{\\text{mix}} > 0$ and $\\Delta G_{\\text{mix}} < 0$ always (entropy increases on mixing)."
+    },
+    {
+      "id": "c5",
+      "tag": "imp",
+      "q": "Non-Ideal Solutions with Positive Deviation from Raoult's Law?",
+      "a": "Characteristics:\n1. $A-B$ attractive interactions are WEAKER than $A-A$ and $B-B$ interactions (molecules escape more easily into vapor phase).\n2. $P_A > P_A^\\circ x_A$, $P_B > P_B^\\circ x_B$, and $P_{\\text{total}} > (P_A^\\circ x_A + P_B^\\circ x_B)$.\n3. $\\Delta H_{\\text{mix}} > 0$ (endothermic mixing).\n4. $\\Delta V_{\\text{mix}} > 0$ (volume expands).\n5. Forms Minimum Boiling Azeotrope.\nExamples:\n- Ethanol + Acetone (acetone disrupts H-bonds of ethanol)\n- Carbon disulfide ($CS_2$) + Acetone\n- Ethanol + Water (95.4% ethanol minimum boiling azeotrope).",
+      "hint": "Positive deviation solutions have HIGHER vapor pressure and LOWER boiling point than ideal."
+    },
+    {
+      "id": "c6",
+      "tag": "imp",
+      "q": "Non-Ideal Solutions with Negative Deviation from Raoult's Law?",
+      "a": "Characteristics:\n1. $A-B$ attractive interactions are STRONGER than $A-A$ and $B-B$ interactions (usually due to intermolecular H-bonding between dissimilar molecules).\n2. $P_A < P_A^\\circ x_A$, $P_B < P_B^\\circ x_B$, and $P_{\\text{total}} < (P_A^\\circ x_A + P_B^\\circ x_B)$.\n3. $\\Delta H_{\\text{mix}} < 0$ (exothermic mixing).\n4. $\\Delta V_{\\text{mix}} < 0$ (volume contracts).\n5. Forms Maximum Boiling Azeotrope.\nExamples:\n- Chloroform + Acetone (forms new C-H···O=C hydrogen bond)\n- Phenol + Aniline\n- Nitric acid ($HNO_3$) + Water (68% $HNO_3$).",
+      "hint": "Negative deviation solutions have LOWER vapor pressure and HIGHER boiling point than ideal."
+    },
+    {
+      "id": "c7",
+      "tag": "concept",
+      "q": "What are Azeotropic Mixtures (Azeotropes)?",
+      "a": "Binary liquid mixtures having the SAME composition in liquid and vapor phases that boil at a constant temperature like a pure liquid.\n- Cannot be separated by fractional distillation.\n1. Minimum Boiling Azeotrope: Formed by solutions showing large positive deviation; boiling point of azeotrope is lower than either component (e.g. 95.4% Ethanol + 4.6% Water by mass, BP = 351.15 K).\n2. Maximum Boiling Azeotrope: Formed by solutions showing large negative deviation; boiling point of azeotrope is higher than either component (e.g. 68% $HNO_3$ + 32% Water by mass, BP = 393.5 K).",
+      "hint": "Azeotropes boil at constant temperature without change in composition."
+    },
+    {
+      "id": "c8",
+      "tag": "concept",
+      "q": "What are Colligative Properties? Name the 4 colligative properties.",
+      "a": "Properties of dilute solutions containing non-volatile solutes that depend SOLELY on the number of solute particles (molecules/ions) present in a given mass of solvent, and NOT on the chemical nature, identity, or size of the solute particles.\n4 Colligative Properties:\n1. Relative Lowering of Vapor Pressure (RLVP)\n2. Elevation of Boiling Point ($\\Delta T_b$)\n3. Depression of Freezing Point ($\\Delta T_f$)\n4. Osmotic Pressure ($\\pi$).",
+      "hint": "Colligative means 'bound together' (Latin: colligatus). They depend on particle ratio, not particle identity."
+    },
+    {
+      "id": "c9",
+      "tag": "formula",
+      "q": "Relative Lowering of Vapor Pressure (RLVP): Raoult's law and molar mass formula?",
+      "a": "When a non-volatile non-electrolyte solute is dissolved in a solvent, vapor pressure drops from $P_1^\\circ$ to $P_1$.\n- Lowering of vapor pressure: $\\Delta P = P_1^\\circ - P_1 = P_1^\\circ x_2$.\n- Relative Lowering of Vapor Pressure (RLVP):\n$\\frac{P_1^\\circ - P_1}{P_1^\\circ} = x_2 = \\frac{n_2}{n_1 + n_2} \\approx \\frac{n_2}{n_1} = \\frac{W_2 / M_2}{W_1 / M_1}$\nMolar mass of solute ($M_2$):\n$M_2 = \\frac{W_2 \\times M_1}{W_1 \\times \\left( \\frac{P_1^\\circ - P_1}{P_1^\\circ} \\right)}$.",
+      "hint": "RLVP is a colligative property (dimensionless); lowering of vapor pressure ($\\Delta P$) is NOT dimensionless."
+    },
+    {
+      "id": "c10",
+      "tag": "formula",
+      "q": "Elevation of Boiling Point ($\\Delta T_b$) and Ebullioscopic Constant ($K_b$)?",
+      "a": "Elevation: $\\Delta T_b = T_b - T_b^\\circ$ (where $T_b$ is BP of solution, $T_b^\\circ$ is BP of pure solvent).\nRelationship with molality ($m$):\n$\\Delta T_b = K_b \\times m$\nWhere:\n- $K_b$ = Molal elevation constant / Ebullioscopic constant (unit: $K\\cdot kg\\cdot mol^{-1}$ or $^\\circ C\\cdot kg\\cdot mol^{-1}$).\n- Definition: Elevation in boiling point produced when 1 mole of non-volatile solute is dissolved in 1 kg of solvent.\nMolar mass formula:\n$M_2 = \\frac{1000 \\times K_b \\times W_2}{\\Delta T_b \\times W_1}$.",
+      "hint": "For water, $K_b = 0.512\\text{ K}\\cdot\\text{kg}\\cdot\\text{mol}^{-1}$."
+    },
+    {
+      "id": "c11",
+      "tag": "formula",
+      "q": "Depression of Freezing Point ($\\Delta T_f$) and Cryoscopic Constant ($K_f$)?",
+      "a": "Depression: $\\Delta T_f = T_f^\\circ - T_f$ (where $T_f^\\circ$ is FP of pure solvent, $T_f$ is FP of solution).\nRelationship with molality ($m$):\n$\\Delta T_f = K_f \\times m$\nWhere:\n- $K_f$ = Molal depression constant / Cryoscopic constant (unit: $K\\cdot kg\\cdot mol^{-1}$).\n- Definition: Depression in freezing point produced when 1 mole of non-volatile solute is dissolved in 1 kg of solvent.\nMolar mass formula:\n$M_2 = \\frac{1000 \\times K_f \\times W_2}{\\Delta T_f \\times W_1}$.",
+      "hint": "For water, $K_f = 1.86\\text{ K}\\cdot\\text{kg}\\cdot\\text{mol}^{-1}$. Ethylene glycol is used as antifreeze in car radiators."
+    },
+    {
+      "id": "c12",
+      "tag": "formula",
+      "q": "Osmotic Pressure ($\\pi$): van 't Hoff equation and molar mass determination?",
+      "a": "Osmotic Pressure ($\\pi$): Excess hydrostatic pressure applied on the solution side across a semipermeable membrane (SPM) to prevent the inward osmotic flow of solvent.\nvan 't Hoff Equation (for dilute solutions):\n$\\pi = C R T = \\frac{n_2}{V} R T = \\frac{W_2 R T}{M_2 V}$\nMolar mass of solute ($M_2$):\n$M_2 = \\frac{W_2 R T}{\\pi V}$\nWhere $R = 0.0821\\text{ L}\\cdot\\text{atm}\\cdot\\text{K}^{-1}\\cdot\\text{mol}^{-1} = 0.08314\\text{ L}\\cdot\\text{bar}\\cdot\\text{K}^{-1}\\cdot\\text{mol}^{-1}$.",
+      "hint": "Osmotic pressure is the preferred method for determining molar mass of polymers and biomolecules (proteins) because measurements are done at room temperature."
+    },
+    {
+      "id": "c13",
+      "tag": "concept",
+      "q": "Isotonic, Hypertonic, and Hypotonic Solutions in terms of Osmotic Pressure?",
+      "a": "1. Isotonic Solutions: Two solutions having EQUAL osmotic pressure ($\\pi_1 = \\pi_2$) at a given temperature; zero net osmosis occurs across SPM.\n- 0.9% (m/V) NaCl solution (normal saline) is isotonic with human RBCs.\n2. Hypertonic Solution: A solution with HIGHER osmotic pressure than another; if RBC is placed in >0.9% NaCl, water flows out and cell shrinks (Plasmolysis / Crenation).\n3. Hypotonic Solution: A solution with LOWER osmotic pressure; if RBC is placed in <0.9% NaCl, water flows in and cell swells and bursts (Hemolysis).",
+      "hint": "Intravenous injections must always be isotonic with blood plasma to prevent cell lysis."
+    },
+    {
+      "id": "c14",
+      "tag": "concept",
+      "q": "Reverse Osmosis (RO) and Desalination of Seawater?",
+      "a": "Principle:\n- If a hydrostatic pressure GREATER than the osmotic pressure ($P > \\pi$) is applied to the concentrated solution side across a Semipermeable Membrane (SPM), pure solvent flows from solution into pure solvent.\nApplication:\n- Desalination of seawater to obtain potable freshwater.\n- Semipermeable membrane used: Cellulose acetate supported on porous polyacrylonitrile support.",
+      "hint": "In normal osmosis, solvent flows from dilute to concentrated; in reverse osmosis ($P > \\pi$), solvent flows from concentrated to dilute."
+    },
+    {
+      "id": "c15",
+      "tag": "imp",
+      "q": "van 't Hoff Factor (i): Definition and 3 formula expressions?",
+      "a": "van 't Hoff factor ($i$) accounts for abnormal molar mass due to dissociation or association of solute in solution:\n1. $i = \\frac{\\text{Observed / Experimental Colligative Property}}{\\text{Calculated / Normal Colligative Property}}$\n2. $i = \\frac{\\text{Theoretical / Normal Molar Mass}}{\\text{Abnormal / Observed Molar Mass}} = \\frac{M_{\\text{normal}}}{M_{\\text{observed}}}$\n3. $i = \\frac{\\text{Total moles of particles after dissociation/association}}{\\text{Total moles of particles before dissociation/association}}$.",
+      "hint": "- For non-electrolytes (glucose, urea): $i = 1$\n- For dissociation (electrolytes: NaCl, $CaCl_2$): $i > 1$\n- For association (acetic acid in benzene dimer): $i < 1$."
+    },
+    {
+      "id": "c16",
+      "tag": "formula",
+      "q": "Relation between van 't Hoff factor (i) and Degree of Dissociation ($\\alpha$)?",
+      "a": "For an electrolyte $A_x B_y \\rightleftharpoons x A^{y+} + y B^{x-}$ producing $n$ ions per molecule ($n = x + y$):\nInitial: 1 mole $\\rightarrow$ At equilibrium: $(1 - \\alpha) + n\\alpha$\nTotal particles = $1 + (n - 1)\\alpha$\nvan 't Hoff factor:\n$i = 1 + (n - 1)\\alpha$\nDegree of dissociation ($\\alpha$):\n$\\alpha = \\frac{i - 1}{n - 1}$.",
+      "hint": "For $K_2SO_4$ ($n = 3$), if $\\alpha = 80\\% = 0.8$, then $i = 1 + (3 - 1)(0.8) = 1 + 1.6 = 2.6$."
+    },
+    {
+      "id": "c17",
+      "tag": "formula",
+      "q": "Relation between van 't Hoff factor (i) and Degree of Association ($\\alpha$)?",
+      "a": "When $n$ solute molecules associate to form a polymer $(A)_n$:\n$n A \\rightleftharpoons A_n$\nInitial: 1 mole $\\rightarrow$ At equilibrium: $(1 - \\alpha) + \\frac{\\alpha}{n}$\nTotal particles = $1 - \\alpha \\left(1 - \\frac{1}{n}\\right)$\nDegree of association ($\\alpha$):\n$\\alpha = \\frac{1 - i}{1 - (1/n)} = \\frac{i - 1}{\\frac{1}{n} - 1}$.\nFor dimerisation (e.g. Acetic acid in benzene, $n = 2$):\n$\\alpha = 2(1 - i)$.",
+      "hint": "Benzoic acid or acetic acid dimerizes in benzene via intermolecular hydrogen bonding, giving $i \\approx 0.5$."
+    },
+    {
+      "id": "c18",
+      "tag": "formula",
+      "q": "Modified Colligative Property Equations incorporating van 't Hoff factor (i)?",
+      "a": "1. Relative Lowering of Vapor Pressure:\n$\\frac{P_1^\\circ - P_1}{P_1^\\circ} = i \\times x_2$\n2. Elevation of Boiling Point:\n$\\Delta T_b = i \\times K_b \\times m$\n3. Depression of Freezing Point:\n$\\Delta T_f = i \\times K_f \\times m$\n4. Osmotic Pressure:\n$\\pi = i \\times C R T = i \\times \\frac{n_2}{V} R T$.",
+      "hint": "Always multiply colligative property formulas by $i$ whenever an electrolyte is dissolved!"
+    },
+    {
+      "id": "c19",
+      "tag": "imp",
+      "q": "MHT-CET Comparison: Which 0.1 M solution has the highest boiling point and lowest freezing point?",
+      "a": "Colligative effect $\\propto i \\times M$:\n- 0.1 M Glucose: $i = 1 \\Rightarrow i\\cdot M = 0.1$\n- 0.1 M NaCl: $i = 2 \\Rightarrow i\\cdot M = 0.2$\n- 0.1 M $BaCl_2$: $i = 3 \\Rightarrow i\\cdot M = 0.3$\n- 0.1 M $Al_2(SO_4)_3$: $i = 5$ (2 $Al^{3+} + 3 SO_4^{2-}$) $\\Rightarrow i\\cdot M = 0.5$.\nRankings:\n- Highest Boiling Point: $Al_2(SO_4)_3 > BaCl_2 > NaCl > \\text{Glucose}$\n- Lowest Freezing Point: $Al_2(SO_4)_3 < BaCl_2 < NaCl < \\text{Glucose}$\n- Highest Osmotic Pressure: $Al_2(SO_4)_3$.",
+      "hint": "Higher $i \\times M$ means HIGHER boiling point, HIGHER osmotic pressure, but LOWER freezing point and LOWER vapor pressure."
+    },
+    {
+      "id": "c20",
+      "tag": "formula",
+      "q": "Formulas relating Molality, Molarity, Mole Fraction, and Density?",
+      "a": "1. Molality ($m$) and Molarity ($M$):\n$m = \\frac{1000 M}{1000 d - M M_2}$\n(where $d$ is density in $g/mL$, $M_2$ is molar mass of solute in $g/mol$).\n2. Mole fraction ($x_2$) from molality ($m$):\n$x_2 = \\frac{m}{m + (1000 / M_1)}$\nFor aqueous solutions ($M_1 = 18$ for water): $x_2 = \\frac{m}{m + 55.55}$.",
+      "hint": "Molality ($m$) is temperature-independent; Molarity ($M$) depends on temperature because volume expands."
+    },
+    {
+      "id": "c21",
+      "tag": "concept",
+      "q": "Why does aquatic life feel more comfortable in cold water than in warm water?",
+      "a": "According to Henry's Law, the solubility of gases in liquids is an exothermic dissolution process:\n$\\text{Gas} + \\text{Liquid} \\rightleftharpoons \\text{Solution} + \\text{Heat}$\n- In cold water (lower temperature), Le Chatelier's principle favors the forward exothermic reaction $\\rightarrow$ higher concentration of DISSOLVED OXYGEN ($O_2$).\n- Warm water holds significantly less dissolved oxygen, causing respiratory distress in fish.",
+      "hint": "Thermal pollution reduces dissolved oxygen levels, threatening aquatic ecosystems."
+    },
+    {
+      "id": "c22",
+      "tag": "concept",
+      "q": "Why is common salt (NaCl) or calcium chloride ($CaCl_2$) spread on icy roads in winter?",
+      "a": "Application of Depression in Freezing Point ($\\Delta T_f$):\n- Adding salt to ice creates a solution with a freezing point significantly BELOW 0°C (down to -21°C for NaCl and -55°C for $CaCl_2$).\n- Ice melts at sub-zero temperatures, clearing roads of slippery snow.",
+      "hint": "$CaCl_2$ is more effective than NaCl because it dissociates into 3 ions ($i = 3$), producing a larger freezing point depression."
+    },
+    {
+      "id": "c23",
+      "tag": "formula",
+      "q": "Thermodynamic calculation of $K_b$ and $K_f$ from latent heats?",
+      "a": "1. Ebullioscopic constant ($K_b$):\n$K_b = \\frac{R \\times M_1 \\times (T_b^\\circ)^2}{1000 \\times \\Delta_{\\text{vap}} H} = \\frac{R \\times (T_b^\\circ)^2}{1000 \\times L_v}$\n2. Cryoscopic constant ($K_f$):\n$K_f = \\frac{R \\times M_1 \\times (T_f^\\circ)^2}{1000 \\times \\Delta_{\\text{fus}} H} = \\frac{R \\times (T_f^\\circ)^2}{1000 \\times L_f}$\nWhere $L_v$ and $L_f$ are latent heats of vaporization and fusion per gram of solvent.",
+      "hint": "Both $K_b$ and $K_f$ depend solely on the properties of the SOLVENT, independent of the solute."
+    },
+    {
+      "id": "c24",
+      "tag": "concept",
+      "q": "Why is the boiling point of an aqueous solution higher than that of pure water?",
+      "a": "Boiling point is the temperature at which the vapor pressure of a liquid equals the atmospheric pressure:\n- Adding a non-volatile solute lowers the vapor pressure of water at all temperatures (solute particles occupy surface area).\n- Therefore, the solution must be heated to a HIGHER temperature so that its reduced vapor pressure rises to equal 1 atm.",
+      "hint": "Elevation in boiling point is directly proportional to lowering of vapor pressure."
+    },
+    {
+      "id": "c25",
+      "tag": "imp",
+      "q": "MHT-CET Formula Summary: All 4 Colligative Molar Mass Equations?",
+      "a": "1. RLVP: $M_2 = \\frac{W_2 M_1 P_1^\\circ}{W_1 (P_1^\\circ - P_1)}$\n2. Boiling Point: $M_2 = \\frac{1000 K_b W_2}{\\Delta T_b W_1}$\n3. Freezing Point: $M_2 = \\frac{1000 K_f W_2}{\\Delta T_f W_1}$\n4. Osmotic Pressure: $M_2 = \\frac{W_2 R T}{\\pi V}$.",
+      "hint": "Master these 4 formulas for solving numericals in Board and MHT-CET exams."
+    }
+  ]
+}
